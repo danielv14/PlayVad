@@ -3,7 +3,6 @@
   font-family: 'Lato', sans-serif;
 }
 
-
 // Shadow mixin for navbar
 @mixin box-shadow ($top, $right, $bottom, $left) {
   -webkit-box-shadow: $top $right $bottom $left #000000;
@@ -14,4 +13,14 @@
 // Mixin for navbar background color
 @mixin background-color ($red, $green, $blue, $alpha) {
   background-color: rgba($red, $green, $blue, $alpha);
+}
+
+// Mixin for fullscreen wrapper div
+@mixin fullscreen-div {
+  width: 100%;
+}
+
+// Mixin for non-fullscreen wrapper div
+@mixin nonfullscreen-div($width) {
+  width: $width;
 }
