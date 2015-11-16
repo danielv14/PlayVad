@@ -4,8 +4,7 @@
 
 body {
   font-family: 'Lato', sans-serif;
-  color: black;
-  padding-top: 50px; }
+  color: black; }
 
 nav {
   position: absolute;
@@ -39,8 +38,27 @@ nav {
   top: -12px;
   left: 10px; }
 
+.fullwidth-img {
+  background: url("../img/netflix.jpg") no-repeat center center fixed;
+  background-size: cover;
+  height: 80vh;
+  position: center;
+  overflow: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center; }
+  .fullwidth-img h1 {
+    text-align: center;
+    letter-spacing: 0.4em;
+    color: black;
+    font-size: 5.5em; }
+
+span.bigger {
+  font-size: 1.3em;
+  font-style: italic; }
+
 .wrapper {
-  width: 900px;
   margin: 0 auto; }
 
 .fullscreen-div {
@@ -50,8 +68,12 @@ nav {
   width: 960px; }
 
 footer {
+  background-color: #eee;
   position: absolute;
   left: 0;
   bottom: 0;
   height: 40px;
-  width: 100%; }
+  width: 100%;
+  -webkit-box-shadow: 4px 4px 2px 4px #000000;
+  -moz-box-shadow: 4px 4px 2px 4px #000000;
+  box-shadow: 4px 4px 2px 4px #000000; }
