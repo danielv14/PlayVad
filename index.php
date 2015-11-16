@@ -2,7 +2,7 @@
 <?php include 'header.php';?>
 
 <!-- Image full width -->
-<div class="fullwidth-img img-startpage">
+<div class="fullwidth-startpage">
   <h1>Play <span class="bigger">Vad</span></h1>
 </div>
 
