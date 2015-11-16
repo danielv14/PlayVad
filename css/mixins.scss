@@ -10,3 +10,8 @@
 	-moz-box-shadow: $top $right $bottom $left #000000;
 	box-shadow: $top $right $bottom $left #000000;
 }
+
+// Mixin for navbar background color
+@mixin background-color ($red, $green, $blue, $alpha) {
+  background-color: rgba($red, $green, $blue, $alpha);
+}
