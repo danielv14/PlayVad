@@ -1,0 +1,29 @@
+// Import other scss
+@import 'variables';
+@import 'mixins';
+
+// Styling for full width image on startpage
+.fullwidth-startpage {
+	@include fullscreen-img('netflix.jpg');
+
+  h1 {
+  	text-align: center;
+    letter-spacing: 0.3em;
+    color: black;
+    font-size: 5.5em;
+  }
+
+}
+
+// Styling for full width image on streaming.php
+.fullwidth-streaming {
+	@include fullscreen-img('logga.png');
+
+  h1 {
+  	text-align: center;
+    letter-spacing: 0.3em;
+    color: black;
+    font-size: 5.5em;
+  }
+
+}

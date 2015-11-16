@@ -1,0 +1,22 @@
+// Import other scss
+@import 'variables';
+@import 'mixins';
+
+
+// Styling for footer
+footer {
+    background-color: $footer-color;
+    position: relative;
+    left: 0;
+    bottom: 0;
+    height: 40px;
+    width: 100%;
+    @include box-shadow(0px, 4px, 2px, 4px);
+
+    .footer-wrapper {
+        margin: 0 auto;
+        padding: 10px;
+        @include nonfullscreen-div($div-wrapper-width);
+
+    }
+}
