@@ -11,7 +11,6 @@
 body {
   @include font-family;
   color: $font-color;
-  padding-top: 50px;
 }
 
 // Styling for navbar
@@ -25,7 +24,7 @@ nav {
   padding-top: 15px;
   /*Add shadow to the bottom of the bar*/
   @include box-shadow(0px, 0px, 4px, 0px);
-  background-color: #eee;
+  background-color: $navbar-color;
   color: rgba(1, 1, 1, 0.8);
 
   // Styling for links inside nave
@@ -52,10 +51,38 @@ nav {
   top: -12px;
   left: 10px; }
 
+// Styling for full width images
+.fullwidth-img {
+  background: url('../img/netflix.jpg') no-repeat center center fixed;
+	background-size: cover;
+	height: 80vh;
+	position: center;
+	overflow: auto;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+
+  h1 {
+  	text-align: center;
+    letter-spacing: 0.4em;
+    color: black;
+    font-size: 5.5em;
+  }
+
+}
+
+// Image for startpage
+.img-startpage {
+}
+
+span.bigger {
+	font-size: 1.3em;
+	font-style: italic;
+}
 
 // Styling for wrapper div
 .wrapper {
-  width: 900px;
   margin: 0 auto;
 }
 
@@ -72,9 +99,11 @@ nav {
 
 // Styling for footer
 footer {
+    background-color: $footer-color;
     position: absolute;
     left: 0;
     bottom: 0;
     height: 40px;
     width: 100%;
+    @include box-shadow(4px, 4px, 2px, 4px);
 }
