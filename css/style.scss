@@ -51,30 +51,33 @@ nav {
   top: -12px;
   left: 10px; }
 
-// Styling for full width images
-.fullwidth-img {
-  background: url('../img/netflix.jpg') no-repeat center center fixed;
-	background-size: cover;
-	height: 80vh;
-	position: center;
-	overflow: auto;
-	display: flex;
-	flex-direction: column;
-	justify-content: center;
-	align-items: center;
+// Styling for full width image on startpage
+.fullwidth-startpage {
+	@include fullscreen-img('netflix.jpg');
 
   h1 {
   	text-align: center;
-    letter-spacing: 0.4em;
+    letter-spacing: 0.3em;
     color: black;
     font-size: 5.5em;
   }
 
 }
 
-// Image for startpage
-.img-startpage {
+// Styling for full width image on streaming.php
+.fullwidth-streaming {
+	@include fullscreen-img('logga.png');
+
+  h1 {
+  	text-align: center;
+    letter-spacing: 0.3em;
+    color: black;
+    font-size: 5.5em;
+  }
+
 }
+
+
 
 span.bigger {
 	font-size: 1.3em;
@@ -107,7 +110,7 @@ footer {
     bottom: 0;
     height: 40px;
     width: 100%;
-    @include box-shadow(4px, 4px, 2px, 4px);
+    @include box-shadow(0px, 4px, 2px, 4px);
 
     .footer-wrapper {
         margin: 0 auto;

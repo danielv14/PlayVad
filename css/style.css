@@ -38,7 +38,7 @@ nav {
   top: -12px;
   left: 10px; }
 
-.fullwidth-img {
+.fullwidth-startpage {
   background: url("../img/netflix.jpg") no-repeat center center fixed;
   background-size: cover;
   height: 80vh;
@@ -48,9 +48,25 @@ nav {
   flex-direction: column;
   justify-content: center;
   align-items: center; }
-  .fullwidth-img h1 {
+  .fullwidth-startpage h1 {
     text-align: center;
-    letter-spacing: 0.4em;
+    letter-spacing: 0.3em;
+    color: black;
+    font-size: 5.5em; }
+
+.fullwidth-streaming {
+  background: url("../img/logga.png") no-repeat center center fixed;
+  background-size: cover;
+  height: 80vh;
+  position: center;
+  overflow: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center; }
+  .fullwidth-streaming h1 {
+    text-align: center;
+    letter-spacing: 0.3em;
     color: black;
     font-size: 5.5em; }
 
@@ -76,9 +92,9 @@ footer {
   bottom: 0;
   height: 40px;
   width: 100%;
-  -webkit-box-shadow: 4px 4px 2px 4px #000000;
-  -moz-box-shadow: 4px 4px 2px 4px #000000;
-  box-shadow: 4px 4px 2px 4px #000000; }
+  -webkit-box-shadow: 0px 4px 2px 4px #000000;
+  -moz-box-shadow: 0px 4px 2px 4px #000000;
+  box-shadow: 0px 4px 2px 4px #000000; }
   footer .footer-wrapper {
     margin: 0 auto;
     padding: 10px;
