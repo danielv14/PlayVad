@@ -1,0 +1,3 @@
+# Ignore som handlar om codekit
+css/.sass-cache/
+config.codekit
