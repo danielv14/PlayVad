@@ -1,6 +1,9 @@
 <!-- Footer -->
 <footer>
-  © PlayVad 2015
+  <div class="wrapper">
+    © PlayVad 2015
+  </div>
+
 </footer>
 
 </body>
