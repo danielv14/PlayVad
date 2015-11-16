@@ -12,7 +12,7 @@
 
   <!-- Navbar -->
   <nav>
-    <a href="index.php">Start</a>
-    <a href="streaming.php">Streamingtjänster</a>
-    <a href="about.php">Om PlayVad</a>
+    <a class="nav-link" href="index.php">Start</a>
+    <a class="nav-link" href="streaming.php">Streamingtjänster</a>
+    <a class="nav-link" href="about.php">Om PlayVad</a>
   </nav>

@@ -1,7 +1,9 @@
 // Color variables
 $primary-color: black;
 
-
+* {
+  margin: 0;
+  padding: 0; }
 
 
 // Styling for body
@@ -14,20 +16,43 @@ body {
 
 // Styling for navbar
 nav {
-  float: right;
-  display: inline-block;
+  position: absolute;
+  top: 0;
+  width: 100%;
+  color: #ffffff;
+  height: 35px;
+  text-align: center;
+  padding-top: 15px;
+  /*Add shadow to the bottom of the bar*/
+  -webkit-box-shadow: 0px 0px 8px 0px #000000;
+  -moz-box-shadow: 0px 0px 8px 0px #000000;
+  box-shadow: 0px 0px 8px 0px #000000;
+  /* Adds the transparent background */
+  background-color: rgba(1, 1, 1, 0.8);
+  color: rgba(1, 1, 1, 0.8);
 
  a {
-   text-decoration: none;
-   padding: 5px;
-   margin: 5px;
-   color:inherit;
+  font-size: 14px;
+  padding-left: 15px;
+  padding-right: 15px;
+  color: white;
+  text-decoration: none;
 
    &:hover {
      border-bottom: 1px solid $primary-color;
    }
  }
 }
+
+// Styling for nav logo
+#header-logo {
+  display: inline;
+  height: 45px;
+  width: 45px;
+  float: left;
+  position: relative;
+  top: -12px;
+  left: 10px; }
 
 
 // Styling for wrapper div
