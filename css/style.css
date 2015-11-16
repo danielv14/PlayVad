@@ -59,7 +59,9 @@ span.bigger {
   font-style: italic; }
 
 .wrapper {
-  margin: 0 auto; }
+  margin: 0 auto;
+  padding: 10px;
+  min-height: 500px; }
 
 .fullscreen-div {
   width: 100%; }
@@ -69,7 +71,7 @@ span.bigger {
 
 footer {
   background-color: #eee;
-  position: absolute;
+  position: relative;
   left: 0;
   bottom: 0;
   height: 40px;
@@ -77,3 +79,7 @@ footer {
   -webkit-box-shadow: 4px 4px 2px 4px #000000;
   -moz-box-shadow: 4px 4px 2px 4px #000000;
   box-shadow: 4px 4px 2px 4px #000000; }
+  footer .footer-wrapper {
+    margin: 0 auto;
+    padding: 10px;
+    width: 960px; }
