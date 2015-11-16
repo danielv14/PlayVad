@@ -1,5 +1,5 @@
 // Color variables
-$primary-color: green;
+$primary-color: black;
 
 
 
@@ -7,15 +7,34 @@ $primary-color: green;
 // Styling for body
 body {
   font-family: 'Lato', sans-serif;
+  color: black;
 }
+
+
+
+// Styling for navbar
+nav {
+  float: right;
+  display: inline-block;
+
+ a {
+   text-decoration: none;
+   padding: 5px;
+   margin: 5px;
+   color:inherit;
+
+   &:hover {
+     border-bottom: 1px solid $primary-color;
+   }
+ }
+}
+
 
 // Styling for wrapper div
 .wrapper {
   width: 900px;
   margin: 0 auto;
 }
-
-// Styling for navbar
 
 // Styling for footer
 footer {
@@ -26,8 +45,4 @@ footer {
    height:30px;
    width:100%;
    background:#eee;
-}
-
-h1 {
-  color: $primary-color;
 }

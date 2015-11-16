@@ -1,5 +1,17 @@
 body {
-  font-family: 'Lato', sans-serif; }
+  font-family: 'Lato', sans-serif;
+  color: black; }
+
+nav {
+  float: right;
+  display: inline-block; }
+  nav a {
+    text-decoration: none;
+    padding: 5px;
+    margin: 5px;
+    color: inherit; }
+    nav a:hover {
+      border-bottom: 1px solid black; }
 
 .wrapper {
   width: 900px;
@@ -13,6 +25,3 @@ footer {
   height: 30px;
   width: 100%;
   background: #eee; }
-
-h1 {
-  color: green; }
