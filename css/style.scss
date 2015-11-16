@@ -2,6 +2,26 @@
 $primary-color: green;
 
 
+
+// Styling for wrapper div
+.wrapper {
+  width: 900px;
+  margin: 0 auto;
+}
+
+// Styling for navbar
+
+// Styling for footer
+footer {
+   position:fixed;
+   padding: 10px;
+   left:0px;
+   bottom:0px;
+   height:30px;
+   width:100%;
+   background:#eee;
+}
+
 h1 {
   color: $primary-color;
 }
