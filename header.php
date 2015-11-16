@@ -5,7 +5,7 @@
     <title>PlayVad - Vi reder ut streamingdjungeln</title>
     <link rel="icon" href="favicon.ico">
 	   <link rel="stylesheet" href="css/style.css">
-
+     <link href='https://fonts.googleapis.com/css?family=Lato' rel='stylesheet' type='text/css'>
   </head>
 
 <body>
