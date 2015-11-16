@@ -9,3 +9,10 @@
   </head>
 
 <body>
+
+  <!-- Navbar -->
+  <nav>
+    <a href="index.php">Start</a>
+    <a href="streaming.php">Streamingtjänster</a>
+    <a href="about.php">Om PlayVad</a>
+  </nav>
