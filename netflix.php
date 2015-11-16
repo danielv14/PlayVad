@@ -1,7 +1,9 @@
 <!-- Include header -->
 <?php include 'header.php';?>
 
-<h1>Netflix</h1>
+<div class="wrapper nonfullscreen-div">
+  <h1>Netflix</h1>
+</div>
 
 
 <!-- Include footer -->

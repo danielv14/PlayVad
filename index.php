@@ -3,7 +3,7 @@
 
 
 <!-- Main wrapper -->
-<div class="wrapper">
+<div class="wrapper nonfullscreen-div">
   <h1>Hello world</h1>
 
 </div>
