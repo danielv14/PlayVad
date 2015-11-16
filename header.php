@@ -12,6 +12,7 @@
 
   <!-- Navbar -->
   <nav>
+    <a class="nav-link" href="index.php"><img id="header-logo" src="img/logga2.png" alt="logo"></a>
     <a class="nav-link" href="index.php">Start</a>
     <a class="nav-link" href="streaming.php">Streamingtjänster</a>
     <a class="nav-link" href="about.php">Om PlayVad</a>
