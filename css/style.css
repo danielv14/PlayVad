@@ -136,7 +136,8 @@ nav {
     letter-spacing: 0.3em;
     font-size: 4.5em; }
   .fullwidth-startpage h2 {
-    text-shadow: 5px 5px 10px black; }
+    text-shadow: 5px 5px 10px black;
+    font-size: 2.2em; }
 
 .fullwidth-startpage-streaming {
   background: url("../img/sofa.jpg") no-repeat center center fixed;
@@ -156,7 +157,8 @@ nav {
     font-size: 4.5em; }
   .fullwidth-startpage-streaming h2 {
     text-shadow: 5px 5px 10px black;
-    padding-bottom: 40px; }
+    padding-bottom: 40px;
+    font-size: 2.2em; }
 
 .fullwidth-streaming {
   background: url("../img/logga.png") no-repeat center center fixed;
