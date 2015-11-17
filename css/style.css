@@ -11,7 +11,7 @@ body {
   color: black; }
 
 h1 {
-  margin-bottom: 10px; }
+  margin-bottom: 20px; }
 
 p {
   margin-bottom: 10px; }
@@ -19,16 +19,50 @@ p {
 article {
   line-height: 1.5em; }
 
-span.bigger {
+.text-white {
+  color: white; }
+
+.bigger {
   font-size: 1.3em;
   font-style: italic; }
+
+.marketing {
+  font-size: 1.4em;
+  line-height: 1.4em; }
+
+.marketing-title {
+  font-size: 1.6em; }
+
+.special-font {
+  font-family: 'Indie Flower', cursive; }
 
 .button {
   text-decoration: none;
   color: #92a7ba;
   padding: 4px 8px;
-  border: 1px solid #92a7ba; }
+  border: 1px solid #92a7ba;
+  border-radius: 5px;
+  -webkit-transition: background-color 0.5s, color 0.5s linear;
+  -moz-transition: background-color 0.5s, color 0.5s linear;
+  -o-transition: background-color 0.5s, color 0.5s linear;
+  transition: background-color 0.5s, color 0.5s linear; }
   .button:hover {
+    border: 1px solid #92a7ba;
+    background-color: #92a7ba;
+    color: white; }
+
+.button-big {
+  font-size: 1.6em;
+  text-decoration: none;
+  color: #92a7ba;
+  border-radius: 5px;
+  padding: 8px 12px;
+  border: 1px solid #92a7ba;
+  -webkit-transition: background-color 0.5s, color 0.5s linear;
+  -moz-transition: background-color 0.5s, color 0.5s linear;
+  -o-transition: background-color 0.5s, color 0.5s linear;
+  transition: background-color 0.5s, color 0.5s linear; }
+  .button-big:hover {
     border: 1px solid #92a7ba;
     background-color: #92a7ba;
     color: white; }
@@ -68,7 +102,11 @@ nav {
     margin-right: 15px;
     color: black;
     text-decoration: none;
-    border-bottom: 2px solid #eee; }
+    border-bottom: 2px solid #eee;
+    -webkit-transition: border-bottom 0.5s, color 0.5s linear;
+    -moz-transition: border-bottom 0.5s, color 0.5s linear;
+    -o-transition: border-bottom 0.5s, color 0.5s linear;
+    transition: border-bottom 0.5s, color 0.5s linear; }
     nav a:hover {
       color: #92a7ba;
       border-bottom: 2px solid #92a7ba; }
@@ -83,7 +121,7 @@ nav {
   left: 10px; }
 
 .fullwidth-startpage {
-  background: url("../img/netflix.jpg") no-repeat center center fixed;
+  background: url("../img/tv3.jpg") no-repeat center center fixed;
   background-size: cover;
   height: 100vh;
   position: center;
@@ -94,9 +132,31 @@ nav {
   align-items: center; }
   .fullwidth-startpage h1 {
     text-align: center;
+    text-shadow: 5px 5px 10px black;
     letter-spacing: 0.3em;
-    color: black;
-    font-size: 5.5em; }
+    font-size: 4.5em; }
+  .fullwidth-startpage h2 {
+    text-shadow: 5px 5px 10px black; }
+
+.fullwidth-startpage-streaming {
+  background: url("../img/sofa.jpg") no-repeat center center fixed;
+  background-size: cover;
+  height: 100vh;
+  position: center;
+  overflow: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center; }
+  .fullwidth-startpage-streaming h1 {
+    text-align: center;
+    text-shadow: 5px 5px 10px black;
+    letter-spacing: 0.3em;
+    color: white;
+    font-size: 4.5em; }
+  .fullwidth-startpage-streaming h2 {
+    text-shadow: 5px 5px 10px black;
+    padding-bottom: 40px; }
 
 .fullwidth-streaming {
   background: url("../img/logga.png") no-repeat center center fixed;
