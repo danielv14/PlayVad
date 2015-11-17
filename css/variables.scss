@@ -1,8 +1,10 @@
 // Color
-$primary-color: #5AE069;
+$primary-color: #4ECF5D;
+$primary-color-darken: darken($primary-color, 20%);
 $font-color: black;
 $navbar-color: #eee;
 $footer-color: $navbar-color;
+$body-background-color: #EDEDED;
 
 // Div wrapper width
 $div-wrapper-width: 960px;
