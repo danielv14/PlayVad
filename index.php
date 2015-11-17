@@ -6,21 +6,33 @@
   <h1>Play <span class="bigger">Vad</span></h1>
 </div>
 
-<!-- Main wrapper -->
-<div class="wrapper nonfullscreen-div">
-  <article>
-    <h1>Hello world</h1>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua.
+<!-- wrapper -->
+<div class="wrapper nonfullscreen-div space-above space-below">
+  <article class="space-below">
+    <aside class="left">
+      <img id="questionmark" src="img/questionmark2.png" alt="questionmark"/>
+    </aside>
+    <h1>För mycket att välja bland...</h1>
+    <p>Visst finns det på tok för mycket streamingtjänster att välja bland? Det tycker vi också och
+    det är därför denna hemsida finns.
     Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
+    ex ea commodo consequat</p>
+    <br>
+    <aside class="right">
+      <img id="questionmark" src="img/answer.png" alt="questionmark"/>
+    </aside>
+    <h1>Hemsidan till räddningen bla bla.</h1>
+    <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
     ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
     cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat
     non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
   </article>
 </div><!-- end of nonfullscreen-div -->
 
-<div class="wrapper fullscreen-div">
+<div class="wrapper nonfullscreen-div space-below">
+  <!-- mini parent containing its children -->
   <div class="mini-parent">
+    <!-- child element -->
     <div class="mini-element">
       <article>
         <h1>Netflix</h1>
@@ -30,6 +42,7 @@
         <a class="button" href="#">Visa mer</a>
       </article>
     </div>
+    <!-- child element -->
     <div class="mini-element">
       <article>
         <h1>Viaplay</h1>
@@ -39,6 +52,7 @@
         <a class="button" href="#">Visa mer</a>
       </article>
     </div>
+    <!-- child element -->
     <div class="mini-element">
       <article>
         <h1>HBO Nordic</h1>
@@ -48,6 +62,7 @@
         <a class="button" href="#">Visa mer</a>
       </article>
     </div>
+    <!-- child element -->
     <div class="mini-element">
       <article>
         <h1>CMore</h1>
@@ -59,6 +74,7 @@
     </div>
   </div>
 </div>
+
 
 <!-- Include footer -->
 <?php include 'footer.php';?>
