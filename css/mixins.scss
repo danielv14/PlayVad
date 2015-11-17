@@ -29,7 +29,7 @@
 @mixin fullscreen-img($image) {
   background: url('../img/' + $image) no-repeat center center fixed;
   background-size: cover;
-  height: 80vh;
+  height: 100vh;
   position: center;
   overflow: auto;
   display: flex;
