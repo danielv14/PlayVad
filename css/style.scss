@@ -7,6 +7,8 @@
   margin: 0;
   padding: 0; }
 
+// Import global text styling
+@import 'text';
 
 // Import header styling
 @import 'header';
@@ -14,9 +16,7 @@
 // Import fullwidth div images
 @import 'fullwidth-images';
 
-// Import global text styling
-@import 'text';
-
+// Import the wrappers containing most of the content on the webpage
 @import 'wrappers';
 
 // Import footer
