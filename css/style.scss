@@ -1,47 +1,23 @@
-// Import other scss
+// Import variables and mixins
 @import 'variables';
 @import 'mixins';
 
+// Reset margin and padding
 * {
   margin: 0;
   padding: 0; }
 
 
-// Styling for body
-body {
-  @include font-family;
-  color: $font-color;
-}
-
 // Import header styling
 @import 'header';
 
-// Import fullwidth images
+// Import fullwidth div images
 @import 'fullwidth-images';
 
+// Import global text styling
+@import 'text';
 
-
-span.bigger {
-	font-size: 1.3em;
-	font-style: italic;
-}
-
-// Styling for wrapper div
-.wrapper {
-  margin: 0 auto;
-  padding: 10px;
-  min-height: 500px;
-}
-
-// Styling for fullscreen helper class for div wrapper
-.fullscreen-div {
-  @include fullscreen-div;
-}
-
-// Styling for $set-div-width helper class for div wrapper
-.nonfullscreen-div {
-  @include nonfullscreen-div($div-wrapper-width);
-}
+@import 'wrappers';
 
 // Import footer
 @import 'footer';

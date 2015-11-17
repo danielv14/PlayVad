@@ -2,12 +2,8 @@
   margin: 0;
   padding: 0; }
 
-body {
-  font-family: 'Lato', sans-serif;
-  color: black; }
-
 nav {
-  position: absolute;
+  position: fixed;
   top: 0;
   width: 100%;
   color: #ffffff;
@@ -70,10 +66,22 @@ nav {
     color: black;
     font-size: 5.5em; }
 
+/*
+* This file is for global text styling
+*
+*/
+body {
+  font-family: 'Lato', sans-serif;
+  color: black; }
+
 span.bigger {
   font-size: 1.3em;
   font-style: italic; }
 
+/*
+* Styling for wrappers. Not to be confused with fullwidth-image divs.
+* This is just for div-wrappers containing content
+*/
 .wrapper {
   margin: 0 auto;
   padding: 10px;
