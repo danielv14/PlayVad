@@ -54,7 +54,7 @@ article {
   color: $button-text-color;
   padding: 4px 8px;
   border: 1px solid $button-text-color;
-  @include animate-transition(background-color, 0.5s, linear);
+  @include animate-transition(background-color, color, 0.5s, linear);
 
 
   &:hover {
@@ -71,7 +71,7 @@ article {
   color: $button-text-color;
   padding: 8px 12px;
   border: 1px solid $button-text-color;
-  @include animate-transition(background-color, 0.5s, linear);
+  @include animate-transition(background-color, color, 0.5s, linear);
 
 
   &:hover {
