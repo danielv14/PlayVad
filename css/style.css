@@ -8,7 +8,8 @@
 */
 body {
   font-family: 'Lato', sans-serif;
-  color: black; }
+  color: black;
+  background-color: #EDEDED; }
 
 h1 {
   margin-bottom: 20px; }
@@ -38,33 +39,33 @@ article {
 
 .button {
   text-decoration: none;
-  color: #5AE069;
+  color: #32b842;
   padding: 4px 8px;
-  border: 1px solid #5AE069;
+  border: 1px solid #32b842;
   border-radius: 5px;
   -webkit-transition: background-color 0.5s, color 0.5s linear;
   -moz-transition: background-color 0.5s, color 0.5s linear;
   -o-transition: background-color 0.5s, color 0.5s linear;
   transition: background-color 0.5s, color 0.5s linear; }
   .button:hover {
-    border: 1px solid #5AE069;
-    background-color: #5AE069;
+    border: 1px solid #32b842;
+    background-color: #32b842;
     color: white; }
 
 .button-big {
   font-size: 1.6em;
   text-decoration: none;
-  color: #5AE069;
+  color: #32b842;
   border-radius: 5px;
   padding: 8px 12px;
-  border: 1px solid #5AE069;
+  border: 1px solid #32b842;
   -webkit-transition: background-color 0.5s, color 0.5s linear;
   -moz-transition: background-color 0.5s, color 0.5s linear;
   -o-transition: background-color 0.5s, color 0.5s linear;
   transition: background-color 0.5s, color 0.5s linear; }
   .button-big:hover {
-    border: 1px solid #5AE069;
-    background-color: #5AE069;
+    border: 1px solid #32b842;
+    background-color: #32b842;
     color: white; }
 
 .right {
@@ -103,13 +104,13 @@ nav {
     color: black;
     text-decoration: none;
     border-bottom: 2px solid #eee;
-    -webkit-transition: border-bottom 0.5s, color 0.5s linear;
-    -moz-transition: border-bottom 0.5s, color 0.5s linear;
-    -o-transition: border-bottom 0.5s, color 0.5s linear;
-    transition: border-bottom 0.5s, color 0.5s linear; }
+    -webkit-transition: border-bottom 0.3s, color 0.3s linear;
+    -moz-transition: border-bottom 0.3s, color 0.3s linear;
+    -o-transition: border-bottom 0.3s, color 0.3s linear;
+    transition: border-bottom 0.3s, color 0.3s linear; }
     nav a:hover {
-      color: #5AE069;
-      border-bottom: 2px solid #5AE069; }
+      color: #4ECF5D;
+      border-bottom: 2px solid #4ECF5D; }
 
 #header-logo {
   display: inline;
