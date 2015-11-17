@@ -27,6 +27,10 @@ article {
   line-height: 1.5em;
 }
 
+.text-white {
+  color: white;
+}
+
 // Styling for span's
 .bigger {
 	font-size: 1.3em;
@@ -38,8 +42,11 @@ article {
 }
 
 .marketing-title {
-  font-family: 'Indie Flower', cursive;
   font-size: $font-biggest;
+}
+
+.special-font {
+  font-family: 'Indie Flower', cursive;
 }
 // Style for buttons (link elements)
 .button {
