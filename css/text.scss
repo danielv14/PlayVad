@@ -1,0 +1,19 @@
+/*
+* This file is for global text styling
+*
+*/
+// Import other scss
+@import 'variables';
+@import 'mixins';
+
+// Styling for body
+body {
+  @include font-family;
+  color: $font-color;
+}
+
+
+span.bigger {
+	font-size: 1.3em;
+	font-style: italic;
+}
