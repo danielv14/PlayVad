@@ -14,7 +14,7 @@ body {
 
 // Style for headings
 h1 {
-  margin-bottom: 10px;
+  margin-bottom: 20px;
 }
 
 // Style for paragraphs
@@ -27,17 +27,45 @@ article {
   line-height: 1.5em;
 }
 
-span.bigger {
+// Styling for span's
+.bigger {
 	font-size: 1.3em;
 	font-style: italic;
 }
+.marketing {
+  font-size: $font-bigger;
+  line-height: 1.4em;
+}
 
+.marketing-title {
+  font-family: 'Indie Flower', cursive;
+  font-size: $font-biggest;
+}
 // Style for buttons (link elements)
 .button {
   text-decoration: none;
   color: $button-text-color;
   padding: 4px 8px;
   border: 1px solid $button-text-color;
+  @include animate-transition(background-color, 0.5s, linear);
+
+
+  &:hover {
+    border: 1px solid $button-text-color;
+    background-color: $button-background-color;
+    color: white;
+  }
+}
+
+// Style for big button
+.button-big {
+  font-size: $font-biggest;
+  text-decoration: none;
+  color: $button-text-color;
+  padding: 8px 12px;
+  border: 1px solid $button-text-color;
+  @include animate-transition(background-color, 0.5s, linear);
+
 
   &:hover {
     border: 1px solid $button-text-color;
