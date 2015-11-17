@@ -10,6 +10,7 @@
 body {
   @include font-family;
   color: $font-color;
+  background-color: $body-background-color;
 }
 
 // Style for headings
