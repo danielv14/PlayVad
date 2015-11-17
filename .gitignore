@@ -1,3 +1,6 @@
 # Ignore som handlar om codekit
 css/.sass-cache/
 config.codekit
+
+# Ignore css-outcome from scss-files during development
+css/style.css
