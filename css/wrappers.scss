@@ -1,0 +1,26 @@
+/*
+* Styling for wrappers. Not to be confused with fullwidth-image divs.
+* This is just for div-wrappers containing content
+*/
+
+// Import other scss
+@import 'variables';
+@import 'mixins';
+
+
+// Styling for wrapper div
+.wrapper {
+  margin: 0 auto;
+  padding: 10px;
+  min-height: 500px;
+}
+
+// Styling for fullscreen helper class for div wrapper
+.fullscreen-div {
+  @include fullscreen-div;
+}
+
+// Styling for $set-div-width helper class for div wrapper
+.nonfullscreen-div {
+  @include nonfullscreen-div($div-wrapper-width);
+}
