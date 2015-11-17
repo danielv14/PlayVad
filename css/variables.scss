@@ -1,5 +1,5 @@
 // Color
-$primary-color: black;
+$primary-color: #92a7ba;
 $font-color: black;
 $navbar-color: #eee;
 $footer-color: $navbar-color;
@@ -8,5 +8,9 @@ $footer-color: $navbar-color;
 $div-wrapper-width: 960px;
 
 // Button variables
-$button-text-color: red;
-$button-background-color: red;
+$button-text-color: #92a7ba;
+$button-background-color: $button-text-color;
+
+// Space variables
+$space-above: 70px;
+$space-below: 70px;
