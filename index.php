@@ -21,7 +21,7 @@
     <aside class="right">
       <img id="questionmark" src="img/answer.png" alt="questionmark"/>
     </aside>
-    <h1>Hemsidan till räddningen bla bla.</h1>
+    <h1>Vi reder ut din frågor</h1>
     <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
     ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
     cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat
@@ -29,7 +29,8 @@
   </article>
 </div><!-- end of nonfullscreen-div -->
 
-<div class="wrapper nonfullscreen-div space-below">
+<!-- 4 mini columns here -->
+<div class="wrapper fullscreen-div space-below">
   <!-- mini parent containing its children -->
   <div class="mini-parent">
     <!-- child element -->
