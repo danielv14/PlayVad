@@ -10,10 +10,11 @@
   	text-align: center;
     text-shadow: 5px 5px 10px black;
     letter-spacing: 0.3em;
-    font-size: 4.5em;
+    font-size: $font-imgfullscreen-h1;
   }
   h2 {
     text-shadow: 5px 5px 10px black;
+		font-size: $font-imgfullscreen-h2;
   }
 
 }
@@ -27,12 +28,13 @@
     text-shadow: 5px 5px 10px black;
     letter-spacing: 0.3em;
     color: white;
-    font-size: 4.5em;
+    font-size: $font-imgfullscreen-h1;
   }
 
   h2 {
     text-shadow: 5px 5px 10px black;
     padding-bottom: 40px;
+		font-size: $font-imgfullscreen-h2;
   }
 
 }
