@@ -82,7 +82,7 @@
 <!-- Image full width -->
 <div class="fullwidth-startpage-streaming">
   <h1><span class="special-font">Streaming</span>tjänster?</h1>
-  <h2 class="text-white special-font"><i>Vad innebär dom och vilka är de bästa?</i></h2>
+  <h2 class="text-white special-font"><i>Vad innebär det och vilka är de bästa?</i></h2>
   <a class="button-big" href="#">Läs mer</a>
 </div>
 
