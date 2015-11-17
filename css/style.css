@@ -38,33 +38,33 @@ article {
 
 .button {
   text-decoration: none;
-  color: #92a7ba;
+  color: #5AE069;
   padding: 4px 8px;
-  border: 1px solid #92a7ba;
+  border: 1px solid #5AE069;
   border-radius: 5px;
   -webkit-transition: background-color 0.5s, color 0.5s linear;
   -moz-transition: background-color 0.5s, color 0.5s linear;
   -o-transition: background-color 0.5s, color 0.5s linear;
   transition: background-color 0.5s, color 0.5s linear; }
   .button:hover {
-    border: 1px solid #92a7ba;
-    background-color: #92a7ba;
+    border: 1px solid #5AE069;
+    background-color: #5AE069;
     color: white; }
 
 .button-big {
   font-size: 1.6em;
   text-decoration: none;
-  color: #92a7ba;
+  color: #5AE069;
   border-radius: 5px;
   padding: 8px 12px;
-  border: 1px solid #92a7ba;
+  border: 1px solid #5AE069;
   -webkit-transition: background-color 0.5s, color 0.5s linear;
   -moz-transition: background-color 0.5s, color 0.5s linear;
   -o-transition: background-color 0.5s, color 0.5s linear;
   transition: background-color 0.5s, color 0.5s linear; }
   .button-big:hover {
-    border: 1px solid #92a7ba;
-    background-color: #92a7ba;
+    border: 1px solid #5AE069;
+    background-color: #5AE069;
     color: white; }
 
 .right {
@@ -108,8 +108,8 @@ nav {
     -o-transition: border-bottom 0.5s, color 0.5s linear;
     transition: border-bottom 0.5s, color 0.5s linear; }
     nav a:hover {
-      color: #92a7ba;
-      border-bottom: 2px solid #92a7ba; }
+      color: #5AE069;
+      border-bottom: 2px solid #5AE069; }
 
 #header-logo {
   display: inline;
