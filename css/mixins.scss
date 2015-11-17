@@ -39,9 +39,9 @@
 }
 
 // Mixin to animate with transition
-@mixin animate-transition($css-property, $duration, $type) {
-  -webkit-transition: $css-property $duration $type;
-  -moz-transition: $css-property $duration $type;
-  -o-transition: $css-property $duration $type;
-  transition: $css-property $duration $type;
+@mixin animate-transition($css-property1,$css-property2,$duration, $type) {
+  -webkit-transition: $css-property1 $duration, $css-property2 $duration $type;
+  -moz-transition: $css-property1 $duration, $css-property2 $duration $type;
+  -o-transition: $css-property1 $duration, $css-property2 $duration $type;
+  transition: $css-property1 $duration, $css-property2 $duration $type;
 }
