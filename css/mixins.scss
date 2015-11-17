@@ -37,3 +37,11 @@
   justify-content: center;
   align-items: center;
 }
+
+// Mixin to animate with transition
+@mixin animate-transition($css-property, $duration, $type) {
+  -webkit-transition: $css-property $duration $type;
+  -moz-transition: $css-property $duration $type;
+  -o-transition: $css-property $duration $type;
+  transition: $css-property $duration $type;
+}
