@@ -10,9 +10,42 @@ body {
   font-family: 'Lato', sans-serif;
   color: black; }
 
+h1 {
+  margin-bottom: 10px; }
+
+p {
+  margin-bottom: 10px; }
+
+article {
+  line-height: 1.5em; }
+
 span.bigger {
   font-size: 1.3em;
   font-style: italic; }
+
+.button {
+  text-decoration: none;
+  color: #92a7ba;
+  padding: 4px 8px;
+  border: 1px solid #92a7ba; }
+  .button:hover {
+    border: 1px solid #92a7ba;
+    background-color: #92a7ba;
+    color: white; }
+
+.right {
+  float: right; }
+
+.left {
+  float: left; }
+
+#questionmark {
+  width: 200px;
+  margin-right: 20px; }
+
+#answer {
+  width: 200px;
+  margin-left: 20px; }
 
 nav {
   position: fixed;
@@ -29,13 +62,16 @@ nav {
   background-color: #eee;
   color: rgba(1, 1, 1, 0.8); }
   nav a {
-    font-size: 14px;
+    font-size: 18px;
+    margin-bottom: 8px;
     margin-left: 15px;
     margin-right: 15px;
     color: black;
-    text-decoration: none; }
+    text-decoration: none;
+    border-bottom: 2px solid #eee; }
     nav a:hover {
-      color: black; }
+      color: #92a7ba;
+      border-bottom: 2px solid #92a7ba; }
 
 #header-logo {
   display: inline;
@@ -49,7 +85,7 @@ nav {
 .fullwidth-startpage {
   background: url("../img/netflix.jpg") no-repeat center center fixed;
   background-size: cover;
-  height: 80vh;
+  height: 100vh;
   position: center;
   overflow: auto;
   display: flex;
@@ -65,7 +101,7 @@ nav {
 .fullwidth-streaming {
   background: url("../img/logga.png") no-repeat center center fixed;
   background-size: cover;
-  height: 80vh;
+  height: 100vh;
   position: center;
   overflow: auto;
   display: flex;
@@ -84,14 +120,31 @@ nav {
 */
 .wrapper {
   margin: 0 auto;
-  padding: 10px;
-  min-height: 500px; }
+  min-height: 200px; }
 
 .fullscreen-div {
   width: 100%; }
 
 .nonfullscreen-div {
   width: 960px; }
+
+.mini-parent {
+  width: 100%;
+  display: inline-block;
+  margin: 0 auto;
+  text-align: center; }
+
+.mini-element {
+  display: inline-block;
+  padding: 10px;
+  width: 22.6%;
+  margin: 0 auto; }
+
+.space-above {
+  padding-top: 70px; }
+
+.space-below {
+  padding-bottom: 70px; }
 
 footer {
   background-color: #eee;
