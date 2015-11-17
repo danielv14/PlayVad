@@ -12,8 +12,36 @@ body {
   color: $font-color;
 }
 
+// Style for headings
+h1 {
+  margin-bottom: 10px;
+}
+
+// Style for paragraphs
+p {
+  margin-bottom: 10px;
+}
+
+// Style for article
+article {
+  line-height: 1.5em;
+}
 
 span.bigger {
 	font-size: 1.3em;
 	font-style: italic;
+}
+
+// Style for buttons (link elements)
+.button {
+  text-decoration: none;
+  color: $button-text-color;
+  padding: 4px 8px;
+  border: 1px solid $button-text-color;
+
+  &:hover {
+    border: 1px solid $button-text-color;
+    background-color: $button-background-color;
+    color: white;
+  }
 }
