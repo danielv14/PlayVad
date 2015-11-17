@@ -12,7 +12,7 @@
 .wrapper {
   margin: 0 auto;
   padding: 10px;
-  min-height: 500px;
+  min-height: 200px;
 }
 
 // Styling for fullscreen helper class for div wrapper
@@ -23,4 +23,20 @@
 // Styling for $set-div-width helper class for div wrapper
 .nonfullscreen-div {
   @include nonfullscreen-div($div-wrapper-width);
+}
+
+// Styling for mini-parent
+.mini-parent {
+  width: 100%;
+  display: inline-block;
+  margin: 0 auto;
+  margin-left: 6%;
+
+}
+
+// Styling for mini-element
+.mini-element {
+  display: inline-block;
+  padding: 10px;
+  width: 20%;
 }
