@@ -11,7 +11,6 @@
 // Styling for wrapper div
 .wrapper {
   margin: 0 auto;
-  padding: 10px;
   min-height: 200px;
 }
 
@@ -26,20 +25,20 @@
 }
 
 // Styling for mini-parent
-.mini-parent {
-  width: 100%;
-  display: inline-block;
-  margin: 0 auto;
+ .mini-parent {
+   width: 100%;
+   display: inline-block;
+   margin: 0 auto;
 
-}
+ }
 
-// Styling for mini-element
+ // Styling for mini-element
 .mini-element {
-  display: inline-block;
-  padding: 10px;
-  width: 22.6%;
-  margin: 0 auto;
-}
+   display: inline-block;
+   padding: 10px;
+   width: 22.6%;
+   margin: 0 auto;
+ }
 
 
 // Helper classes for extra padding (more white room)
