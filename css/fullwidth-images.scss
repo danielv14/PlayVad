@@ -20,7 +20,7 @@
 }
 
 // Styling for full width image on startpage
-.fullwidth-startpage-streaming {
+.fullwidth-startpage-about-streaming {
 	@include fullscreen-img('sofa.jpg', 100vh);
 
   h1 {
@@ -54,7 +54,7 @@
 
 // Styling for full width image on about.php
 .fullwidth-about {
-	@include fullscreen-img('sofa.jpg', 100vh);
+	@include fullscreen-img('about.jpg', 100vh);
 
   h1 {
   	text-align: center;
