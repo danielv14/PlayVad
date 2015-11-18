@@ -26,10 +26,10 @@
 }
 
 //Mixin for fullscreen images
-@mixin fullscreen-img($image) {
+@mixin fullscreen-img($image, $vh) {
   background: url('../img/' + $image) no-repeat center center fixed;
   background-size: cover;
-  height: 100vh;
+  height: $vh;
   position: center;
   overflow: auto;
   display: flex;
