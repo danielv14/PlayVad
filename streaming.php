@@ -24,7 +24,7 @@
     <div class="mini-element-2col">
       <article>
         <h1 class="special-font header-big space-above">Netflix</h1>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+        <p>Netflix är ett amerikanskt företag som startade redan 1997 och har lyckats anpassa sig för den digitala efterfrågan av streaming. År 2012 lanserades tjänsten i norden och blev tillgänglig för oss svenskar. Streamingutbudet som består av filmer, tv-serier och till och med egenproducerat material. Utbudet varierar beroende på vilket land man befinner sig i, men detta gäller dock inte det egenproducerade innehållet. Tjänsten är tillgänglig på en uppsjö olika plattformar och beroende på vilken typ av månadskostnad man betalar kan olika antal personer streama samtidigt.</p>
         <a class="button" href="#">Mer om Netflix</a>
       </article>
     </div> <!-- End of mini element-->
