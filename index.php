@@ -37,7 +37,7 @@
   <!-- mini parent containing its children -->
   <div class="mini-parent space-below">
     <!-- child element -->
-    <div class="mini-element">
+    <div class="mini-element-4col">
       <article>
         <h1>Netflix</h1>
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
@@ -47,7 +47,7 @@
       </article>
     </div>
     <!-- child element -->
-    <div class="mini-element">
+    <div class="mini-element-4col">
       <article>
         <h1>Viaplay</h1>
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
@@ -57,7 +57,7 @@
       </article>
     </div>
     <!-- child element -->
-    <div class="mini-element">
+    <div class="mini-element-4col">
       <article>
         <h1>HBO Nordic</h1>
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
@@ -67,7 +67,7 @@
       </article>
     </div>
     <!-- child element -->
-    <div class="mini-element">
+    <div class="mini-element-4col">
       <article>
         <h1>CMore</h1>
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
