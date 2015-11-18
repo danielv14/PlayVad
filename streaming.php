@@ -8,7 +8,7 @@
 </div>
 
 <!-- Main wrapper -->
-<div class="wrapper nonfullscreen-div space-above">
+<div class="wrapper nonfullscreen-div space-above space-below">
   <article>
     <h1 class="special-font header-bigger">Några meningar innan vi börjar...</h1>
     <p>Innan du börjar läsa på om vilka streamingtjänster vi rekommenderar måste vi först reda ut sen sak och
@@ -19,7 +19,7 @@
 </div>
 
 <!-- div wrapper fullscreen -->
-<div class="wrapper fullscreen-div space-below">
+<div class="wrapper fullscreen-div space-below popout-background">
   <div class="mini-parent">
     <div class="mini-element-2col">
       <article>
