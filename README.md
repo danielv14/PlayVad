@@ -17,6 +17,7 @@ Denna fil är tänk att innehålla all styling som rör olika texter på ett gen
 Styling för diverse <span> for finnas i denna fil.
 ####fullwidth-images.scss
 Denna fil innehåller styling för de stora bildfält som är ett genomgående fenomen på hela webbplatsen. Märk att i skrivande stund innehåller dessa element headings och denna styling befinner sig i denna fil just för att det inte är genrella text-styling regler.
-####wrappers.scss
-Denna fil innehåller alla regler för diverse wrapper containers av <div> webplatsen använder sig av. Denna fil förlitar sig mycket på två olika mixins som skapar antingen fullscreen div eller nonfullscreen div som dessutom tar en variabel som argument som bestämmer vilken bredd div-elementet ska ha.
+####structural.scss
+Denna fil innehåller alla strukturella regler för diverse wrapper containers av <div> webplatsen använder sig av. Denna fil förlitar sig mycket på två olika mixins som skapar antingen fullscreen div eller nonfullscreen div som dessutom tar en variabel som argument som bestämmer vilken bredd div-elementet ska ha.
 Först deklareras genrella regler för .wrapper och sedan ska antingen klassen .fullscreen-div eller .nonfullscreen-div läggas till i klassdeklarationen för div-elementet beroende på om elementet ska vara fullscreen eller ej.
+Generella klasser för floating och extra utrymme finns också i denna fil då det är strukturell styling det handlar om.
