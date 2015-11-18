@@ -40,7 +40,7 @@
     <div class="mini-element-2col">
       <article>
         <h1 class="special-font header-big space-above">C More</h1>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+        <p>C More är i grunden en vanlig TV-tjänst men som anpassat sig efter den digitala frammarschen och ebjuder även sitt utbud via streaming. Utbudet består av film, tv-serier, sport och barnprogram. Tjänsten är tillgänglig på olika plattformar såsom PC, Mac, Android-enheter och iPhone. En enhet kan streama åt gången. Tjänsten är bindningsfri och innehåller tre olika paket i olika prisklasser. Paketen heter C More Film, C More Sport och C More Max</p>
         <a class="button" href="#">Mer om C More</a>
       </article>
     </div><!-- End of mini element -->
