@@ -33,7 +33,7 @@
 </div><!-- end of nonfullscreen-div -->
 
 <!-- 4 mini columns here -->
-<div class="wrapper fullscreen-div space-below space-above">
+<div class="wrapper fullscreen-div space-below space-above popout-background">
   <!-- mini parent containing its children -->
   <div class="mini-parent space-below">
     <!-- child element -->
