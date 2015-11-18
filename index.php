@@ -7,7 +7,7 @@
   <h2 class="text-white special-font"><i>Vi reder ut streamingdjungeln åt dig!</i></h2>
 </div>
 
-<!-- wrapper -->
+<!-- wrapper nonfullscreen-div -->
 <div class="wrapper nonfullscreen-div space-above space-below">
   <article class="space-below">
     <aside class="left">
@@ -80,7 +80,7 @@
 </div>
 
 <!-- Image full width -->
-<div class="fullwidth-startpage-streaming">
+<div class="fullwidth-startpage-about-streaming">
   <h1><span class="special-font">Streaming</span>tjänster?</h1>
   <h2 class="text-white special-font"><i>Vad innebär det och vilka är de bästa?</i></h2>
   <a class="button-big" href="#"><b>Läs mer</b></a>
