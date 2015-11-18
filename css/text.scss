@@ -28,6 +28,29 @@ article {
   line-height: 1.5em;
 }
 
+
+ul {
+  list-style-position: inside;
+}
+
+
+li {
+  font-size: $font-big;
+}
+
+
+
+// Style for links. Have to use a class since else it will interfere with nav-links
+.link {
+  padding: 2px;
+  color: $primary-color;
+  text-decoration: none;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
 .text-white {
   color: white;
 }

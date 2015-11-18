@@ -20,6 +20,19 @@ p {
 article {
   line-height: 1.5em; }
 
+ul {
+  list-style-position: inside; }
+
+li {
+  font-size: 1.2em; }
+
+.link {
+  padding: 2px;
+  color: #4ECF5D;
+  text-decoration: none; }
+  .link:hover {
+    text-decoration: underline; }
+
 .text-white {
   color: white; }
 
