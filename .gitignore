@@ -4,3 +4,6 @@ config.codekit
 
 # Ignore css-outcome from scss-files during development
 css/style.css
+
+# Ignore markdown folder
+markdown/*
