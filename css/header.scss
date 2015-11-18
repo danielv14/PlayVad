@@ -14,9 +14,11 @@ nav {
   @include box-shadow(0px, 0px, 4px, 0px);
   background-color: $navbar-color;
   color: rgba(1, 1, 1, 0.8);
+}
 
+.nav-link {
   // Styling for links inside nave
-  a {
+
   font-size: 18px;
   margin-bottom: 8px;
   margin-left: 15px;
@@ -30,7 +32,7 @@ nav {
      color: $primary-color;
      border-bottom: 2px solid $primary-color;
    }
- }
+
 }
 
 // Styling for nav logo
