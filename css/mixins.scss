@@ -4,10 +4,10 @@
 }
 
 // Shadow mixin for navbar
-@mixin box-shadow ($top, $right, $bottom, $left) {
-  -webkit-box-shadow: $top $right $bottom $left #000000;
-	-moz-box-shadow: $top $right $bottom $left #000000;
-	box-shadow: $top $right $bottom $left #000000;
+@mixin box-shadow ($horizontal, $vertical, $blur, $spread) {
+  -webkit-box-shadow: $horizontal $vertical $blur $spread #000000;
+	-moz-box-shadow: $horizontal $vertical $blur $spread #000000;
+	box-shadow: $horizontal $vertical $blur $spread #000000;
 }
 
 // Mixin for navbar background color
