@@ -23,9 +23,6 @@ article {
 ul {
   list-style-position: inside; }
 
-li {
-  font-size: 1.2em; }
-
 .link {
   padding: 2px;
   color: #4ECF5D;
@@ -216,10 +213,6 @@ nav {
     padding-bottom: 40px;
     font-size: 2.2em; }
 
-/*
-* Styling for structual things. Not to be confused with fullwidth-image divs.
-* This file is for wrappers, divs and any structural elements including floats
-*/
 .wrapper {
   margin: 0 auto;
   min-height: 200px; }
@@ -245,7 +238,7 @@ nav {
 .mini-element-2col {
   display: inline-block;
   padding: 20px;
-  width: 30%;
+  width: 550px;
   margin: 0 auto; }
 
 .space-above {
