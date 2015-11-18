@@ -23,11 +23,7 @@ article {
 .text-white {
   color: white; }
 
-.bigger {
-  font-size: 1.3em;
-  font-style: italic; }
-
-.marketing {
+.marketing-paragraph {
   font-size: 1.4em;
   line-height: 1.4em; }
 
@@ -75,6 +71,15 @@ article {
 #answer {
   width: 200px;
   margin-left: 20px; }
+
+.header-big {
+  font-size: 2em; }
+
+.header-bigger {
+  font-size: 2.4em; }
+
+.header-biggest {
+  font-size: 2.6em; }
 
 nav {
   position: fixed;
@@ -134,7 +139,7 @@ nav {
     text-shadow: 5px 5px 10px black;
     font-size: 2.2em; }
 
-.fullwidth-startpage-streaming {
+.fullwidth-startpage-about-streaming {
   background: url("../img/sofa.jpg") no-repeat center center fixed;
   background-size: cover;
   height: 100vh;
@@ -144,13 +149,13 @@ nav {
   flex-direction: column;
   justify-content: center;
   align-items: center; }
-  .fullwidth-startpage-streaming h1 {
+  .fullwidth-startpage-about-streaming h1 {
     text-align: center;
     text-shadow: 5px 5px 10px black;
     letter-spacing: 0.3em;
     color: white;
     font-size: 4.5em; }
-  .fullwidth-startpage-streaming h2 {
+  .fullwidth-startpage-about-streaming h2 {
     text-shadow: 5px 5px 10px black;
     padding-bottom: 40px;
     font-size: 2.2em; }
@@ -170,6 +175,27 @@ nav {
     letter-spacing: 0.3em;
     color: black;
     font-size: 5.5em; }
+
+.fullwidth-about {
+  background: url("../img/about.jpg") no-repeat center center fixed;
+  background-size: cover;
+  height: 100vh;
+  position: center;
+  overflow: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center; }
+  .fullwidth-about h1 {
+    text-align: center;
+    text-shadow: 5px 5px 10px black;
+    letter-spacing: 0.3em;
+    color: white;
+    font-size: 4.5em; }
+  .fullwidth-about h2 {
+    text-shadow: 5px 5px 10px black;
+    padding-bottom: 40px;
+    font-size: 2.2em; }
 
 /*
 * Styling for structual things. Not to be confused with fullwidth-image divs.
