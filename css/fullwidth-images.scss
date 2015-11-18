@@ -41,14 +41,22 @@
 
 // Styling for full width image on streaming.php
 .fullwidth-streaming {
-	@include fullscreen-img('logga.png', 100vh);
+	@include fullscreen-img('tv2.jpg', 100vh);
 
-  h1 {
-  	text-align: center;
-    letter-spacing: 0.3em;
-    color: black;
-    font-size: 5.5em;
-  }
+	h1 {
+		text-align: center;
+		text-shadow: 5px 5px 10px black;
+		letter-spacing: 0.3em;
+		color: white;
+		font-size: $font-size-imgfullscreen-h1;
+	}
+
+	h2 {
+		text-shadow: 5px 5px 10px black;
+		padding-bottom: 40px;
+		font-size: $font-size-imgfullscreen-h2;
+	}
+
 
 }
 
