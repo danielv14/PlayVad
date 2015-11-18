@@ -31,7 +31,7 @@
     <div class="mini-element-2col">
       <article>
         <h1 class="special-font header-big space-above">HBO Nordic</h1>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+        <p>HBO Nordic är det amerikanska TV-bolaget <a class="link" href="http://www.hbo.com">HBO's</a> sätt att nå ut till den nordiska marknaden. Tjänsten landerades vintern 2012 och sedan dess har det gått att streama HBO's egenproducerade tv-serier och tv-serier från andra producenter. Även om tjänsten erbjuder filmer är de flesta prenumeranter intresserade av HBO's egna tv-serier som ofta håller väldigt hög kvalité och där många anses som "klassiker". Tjänsten finns tillgänglig på många olika plattformar. Två personer kan streama samtidigt på ett och samma konto.</p>
         <a class="button" href="#">Mer om HBO Nordic</a>
       </article>
     </div><!-- End of mini-element -->
