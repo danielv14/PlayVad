@@ -32,12 +32,8 @@ article {
   color: white;
 }
 
-// Styling for span's
-.bigger {
-	font-size: 1.3em;
-	font-style: italic;
-}
-.marketing {
+
+.marketing-paragraph {
   font-size: $font-bigger;
   line-height: 1.4em;
 }
@@ -94,4 +90,17 @@ article {
 #answer {
   width: 200px;
   margin-left: 20px;
+}
+
+// classes for making font big, bigger and biggest
+.header-big {
+  font-size: $header-size-big;
+}
+
+.header-bigger {
+  font-size: $header-size-bigger;
+}
+
+.header-biggest {
+  font-size: $header-size-biggest;
 }
