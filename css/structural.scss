@@ -76,7 +76,12 @@
 .article-content-fullscreen {
   padding: 10px;
   background-color: lighten($primary-color, 30%);
-  @include box-shadow-subtle;
+  @include box-shadow-subtle(2px);
+  @include animate-transition-1(box-shadow, 0.2s, linear);
+
+  &:hover {
+    @include box-shadow-subtle(5px);
+  }
 }
 
 // Styling for aside element go go along with main-article
@@ -85,7 +90,7 @@
   width: 20%;
   margin-right: 5%;
   margin-top: 10px;
-  border-left: 3px solid black;
+  border-left: 2px solid black;
 }
 
 // Styling för 2 column list. Used in articles about streaming services.
@@ -96,5 +101,4 @@
   list-style: none;
   font-size: 1.2em;
   line-height: 1.9em;
-
 }
