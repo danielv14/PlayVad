@@ -83,6 +83,6 @@
 // Styling for will width image on netflix.php
 // Styling for full width image on about.php
 .fullwidth-netflix {
-	@include fullscreen-img('netflix.jpg', 100vh);
+	@include fullscreen-img('netflix.jpg', 80vh);
 
 }
