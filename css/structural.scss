@@ -72,6 +72,15 @@
   margin-left: 10%;
 }
 
+// Styling for article-content-fullscreen. Check netflix.php for example
+.article-content-fullscreen {
+  padding: 10px;
+  background-color: lighten($primary-color, 30%);
+  -moz-box-shadow: 0 0 2px #000000;
+  -webkit-box-shadow: 0 0 2px #000000;
+  box-shadow: 0 0 2px #000000;
+}
+
 // Styling for aside element go go along with main-article
 .article-aside {
   padding: 10px;
@@ -79,5 +88,15 @@
   margin-right: 5%;
   margin-top: 10px;
   border-left: 3px solid black;
+}
+
+// Styling för 2 column list. Used in articles about streaming services.
+.list-2col {
+  margin-left: 25%;
+  padding-bottom: 40px;
+  @include list-column(2, 2px);
+  list-style: none;
+  font-size: 1.2em;
+  line-height: 1.9em;
 
 }
