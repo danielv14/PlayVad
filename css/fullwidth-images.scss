@@ -89,3 +89,13 @@
 .fullwidth-viaplay {
 	@include fullscreen-img('viaplay.jpg', 80vh);
 }
+
+// Styling for full width image on hbonordic.php
+.fullwidth-hbonordic {
+	@include fullscreen-img('hbonordic-crop.jpg', 80vh);
+}
+
+// Styling for full width image on cmore.php
+.fullwidth-cmore {
+	@include fullscreen-img('cmore.png', 80vh);
+}
