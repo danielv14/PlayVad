@@ -9,13 +9,13 @@
 
     <!-- aside element -->
     <div class="article-aside right">
-      <h2>Innehåll</h2>
-      <h3><a class="link" href="#">Bla Bla</a></h3>
-      <h3 class="header-space-above-small"><a class="link" href="#">Ta ha ta ha</a></h3>
-      <h3 class="header-space-above-small"><a class="link" href="#">Kik ka</a></h3>
-      <h3 class="header-space-above-small"><a class="link" href="#">Avslutningsvis</a></h3>
-
-
+      <aside>
+        <h2>Innehåll</h2>
+        <h3><a class="link" href="#">Bla Bla</a></h3>
+        <h3 class="header-space-above-small"><a class="link" href="#">Ta ha ta ha</a></h3>
+        <h3 class="header-space-above-small"><a class="link" href="#">Kik ka</a></h3>
+        <h3 class="header-space-above-small"><a class="link" href="#">Avslutningsvis</a></h3>
+      </aside>
     </div>
 
     <div class="article-content">
