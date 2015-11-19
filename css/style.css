@@ -11,7 +11,10 @@ body {
   color: black;
   background-color: white; }
 
-h1 {
+html, body {
+  overflow: auto; }
+
+h1, h2 {
   margin-bottom: 20px; }
 
 p {
@@ -32,6 +35,12 @@ ul {
 
 .text-white {
   color: white; }
+
+.header-space-above-small {
+  margin-top: 5px; }
+
+.header-space-above-normal {
+  margin-top: 30px; }
 
 .marketing-paragraph {
   font-size: 1.4em;
@@ -90,6 +99,9 @@ ul {
 
 .header-biggest {
   font-size: 2.6em; }
+
+.header-center {
+  text-align: center; }
 
 .popout-background {
   background-color: #fbfbfb;
@@ -220,9 +232,20 @@ nav {
     padding-bottom: 40px;
     font-size: 2.2em; }
 
+.fullwidth-netflix {
+  background: url("../img/netflix.jpg") no-repeat center center fixed;
+  background-size: cover;
+  height: 80vh;
+  position: center;
+  overflow: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center; }
+
 .wrapper {
   margin: 0 auto;
-  min-height: 200px; }
+  min-height: 100px; }
 
 .fullscreen-div {
   width: 100%; }
@@ -259,6 +282,37 @@ nav {
 
 .left {
   float: left; }
+
+.article-content {
+  width: 60%;
+  margin-left: 10%; }
+
+.article-content-fullscreen {
+  padding: 10px;
+  background-color: #c6f0cb;
+  -moz-box-shadow: 0 0 2px #000000;
+  -webkit-box-shadow: 0 0 2px #000000;
+  box-shadow: 0 0 2px #000000; }
+
+.article-aside {
+  padding: 10px;
+  width: 20%;
+  margin-right: 5%;
+  margin-top: 10px;
+  border-left: 3px solid black; }
+
+.list-col {
+  margin-left: 25%;
+  padding-bottom: 40px;
+  -moz-column-count: 2;
+  -moz-column-gap: 2px;
+  -webkit-column-count: 2;
+  -webkit-column-gap: 2px;
+  column-count: 2;
+  column-gap: 2px;
+  list-style: none;
+  font-size: 1.2em;
+  line-height: 1.9em; }
 
 footer {
   background-color: #eee;
