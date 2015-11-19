@@ -104,12 +104,9 @@ ul {
   text-align: center; }
 
 .popout-background {
-  background-color: #fbfbfb;
-  -moz-box-shadow: 0 0 2px #000000;
-  -webkit-box-shadow: 0 0 2px #000000;
-  box-shadow: 0 0 2px #000000; }
+  background-color: #fbfbfb; }
 
-.subtle-shadow {
+.subtle-shadow, .popout-background {
   -moz-box-shadow: 0 0 2px #000000;
   -webkit-box-shadow: 0 0 2px #000000;
   box-shadow: 0 0 2px #000000; }
