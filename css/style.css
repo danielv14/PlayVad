@@ -105,9 +105,14 @@ ul {
 
 .popout-background {
   background-color: #fbfbfb;
-  -webkit-box-shadow: 0px 4px 2px 4px #000000;
-  -moz-box-shadow: 0px 4px 2px 4px #000000;
-  box-shadow: 0px 4px 2px 4px #000000; }
+  -moz-box-shadow: 0 0 2px #000000;
+  -webkit-box-shadow: 0 0 2px #000000;
+  box-shadow: 0 0 2px #000000; }
+
+.subtle-shadow {
+  -moz-box-shadow: 0 0 2px #000000;
+  -webkit-box-shadow: 0 0 2px #000000;
+  box-shadow: 0 0 2px #000000; }
 
 nav {
   position: fixed;
@@ -118,9 +123,9 @@ nav {
   text-align: center;
   padding-top: 15px;
   /*Add shadow to the bottom of the bar*/
-  -webkit-box-shadow: 0px 0px 4px 0px #000000;
-  -moz-box-shadow: 0px 0px 4px 0px #000000;
-  box-shadow: 0px 0px 4px 0px #000000;
+  -moz-box-shadow: 0 0 2px #000000;
+  -webkit-box-shadow: 0 0 2px #000000;
+  box-shadow: 0 0 2px #000000;
   background-color: #eee;
   color: rgba(1, 1, 1, 0.8); }
 
@@ -276,11 +281,6 @@ nav {
   justify-content: center;
   align-items: center; }
 
-.img-shadow {
-  -moz-box-shadow: 0 0 2px #000000;
-  -webkit-box-shadow: 0 0 2px #000000;
-  box-shadow: 0 0 2px #000000; }
-
 .wrapper {
   margin: 0 auto;
   min-height: 100px; }
@@ -359,9 +359,9 @@ footer {
   bottom: 0;
   height: 60px;
   width: 100%;
-  -webkit-box-shadow: 0px 4px 2px 4px #000000;
-  -moz-box-shadow: 0px 4px 2px 4px #000000;
-  box-shadow: 0px 4px 2px 4px #000000; }
+  -moz-box-shadow: 0 0 2px #000000;
+  -webkit-box-shadow: 0 0 2px #000000;
+  box-shadow: 0 0 2px #000000; }
   footer .footer-wrapper {
     margin: 0 auto;
     padding: 10px;
