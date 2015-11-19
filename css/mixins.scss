@@ -10,6 +10,13 @@
 	box-shadow: $horizontal $vertical $blur $spread #000000;
 }
 
+// Mixin for subtle box shadow
+@mixin box-shadow-subtle {
+  -moz-box-shadow: 0 0 2px #000000;
+  -webkit-box-shadow: 0 0 2px #000000;
+  box-shadow: 0 0 2px #000000;
+}
+
 // Mixin for navbar background color
 @mixin background-color ($red, $green, $blue, $alpha) {
   background-color: rgba($red, $green, $blue, $alpha);
