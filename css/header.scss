@@ -11,7 +11,7 @@ nav {
   text-align: center;
   padding-top: 15px;
   /*Add shadow to the bottom of the bar*/
-  @include box-shadow-subtle;
+  @include box-shadow-subtle(2px);
   background-color: $navbar-color;
   color: rgba(1, 1, 1, 0.8);
 }

@@ -149,5 +149,5 @@ li {
 
 // Adding box shadow mixin to classes
 .subtle-shadow, .popout-background {
-	@include box-shadow-subtle;
+	@include box-shadow-subtle(2px);
 }
