@@ -10,7 +10,7 @@
   <!-- aside element -->
   <div class="article-aside right">
     <aside>
-      <h2>Innehåll</h2>
+      <h2 class="special-font">Innehåll</h2>
       <h3><a class="link" href="#">Bla Bla</a></h3>
       <h3 class="header-space-above-small"><a class="link" href="#plattformar">Plattformar</a></h3>
       <h3 class="header-space-above-small"><a class="link" href="#">Kik ka</a></h3>
@@ -66,7 +66,7 @@
     <!-- aside element -->
     <div class="article-aside right">
       <aside>
-        <h2>Läs även om...</h2>
+        <h2 class="special-font">Läs även om...</h2>
         <h3><a class="link" href="hbonordic.php">HBO Nordic</a></h3>
         <h3 class="header-space-above-small"><a class="link" href="viaplay.php">Viaplay</a></h3>
         <h3 class="header-space-above-small"><a class="link" href="cmore.php">C More</a></h3>
