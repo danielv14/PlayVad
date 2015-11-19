@@ -2,7 +2,7 @@
 <?php include 'header.php';?>
 
 <!-- Image full width -->
-<div class="fullwidth-streaming img-shadow">
+<div class="fullwidth-streaming subtle-shadow">
   <h1><span class="special-font marketing-title">Streaming</span>tjänster</h1>
   <h2 class="text-white special-font"><i>Vi listar de bästa av de bästa</i></h2>
 </div>
@@ -10,7 +10,7 @@
 <!-- Main wrapper -->
 <div class="wrapper nonfullscreen-div space-above space-below">
   <article>
-    <h1 class="special-font header-bigger">Några meningar innan vi börjar...</h1>
+    <h1 class="special-font header-bigger">Några ord innan vi börjar...</h1>
     <p>Innan du börjar läsa på om vilka streamingtjänster vi rekommenderar måste vi först reda ut sen sak och
     det är just vad PlayVad klassar som streamingtjänst.
     Det PlayVad har valt att klassa som streamingtjänst är de tjänster som mot en prenumerationskostnad låter prenumeranterna strömma fritt från deras sortiment hur mycket det vill, när de vill. Streamingtjänster som fungerar som en digital hyrbutik är inget PlayVad tar med i ekvationen då vi inte anser att denna modell är lika bra. Hyr-modellen skulle dock vara bättre för individer som inte konsumerar så mycket media.</p>
