@@ -99,10 +99,3 @@
 .fullwidth-cmore {
 	@include fullscreen-img('cmore.png', 80vh);
 }
-
-// Helper class to just add shadow to the images
-.img-shadow {
-  -moz-box-shadow: 0 0 2px #000000;
-  -webkit-box-shadow: 0 0 2px #000000;
-  box-shadow: 0 0 2px #000000;
-}
