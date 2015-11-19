@@ -80,7 +80,7 @@
   @include animate-transition-1(box-shadow, 0.2s, linear);
 
   &:hover {
-    @include box-shadow-subtle(5px);
+    @include box-shadow-subtle(4px);
   }
 }
 
