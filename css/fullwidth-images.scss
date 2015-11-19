@@ -81,8 +81,11 @@
 }
 
 // Styling for will width image on netflix.php
-// Styling for full width image on about.php
 .fullwidth-netflix {
 	@include fullscreen-img('netflix.jpg', 80vh);
+}
 
+// Styling for full width image on viaplay.php
+.fullwidth-viaplay {
+	@include fullscreen-img('viaplay.jpg', 80vh);
 }
