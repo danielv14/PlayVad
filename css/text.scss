@@ -138,6 +138,10 @@ li {
   font-size: $header-size-biggest;
 }
 
+.header-center {
+  text-align: center;
+}
+
 // Style for a class that can differenciate a block from another
 .popout-background {
   background-color: lighten($navbar-color, 5%);
