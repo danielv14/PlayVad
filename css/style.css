@@ -162,7 +162,7 @@ nav {
   align-items: center; }
   .fullwidth-startpage h1 {
     text-align: center;
-    text-shadow: 5px 5px 10px black;
+    text-shadow: 5px 5px 10px #1a1a1a;
     letter-spacing: 0.3em;
     font-size: 4.5em; }
   .fullwidth-startpage h2 {
@@ -181,7 +181,7 @@ nav {
   align-items: center; }
   .fullwidth-startpage-about-streaming h1 {
     text-align: center;
-    text-shadow: 5px 5px 10px black;
+    text-shadow: 5px 5px 10px #1a1a1a;
     letter-spacing: 0.3em;
     color: white;
     font-size: 4.5em; }
@@ -202,7 +202,7 @@ nav {
   align-items: center; }
   .fullwidth-streaming h1 {
     text-align: center;
-    text-shadow: 5px 5px 10px black;
+    text-shadow: 5px 5px 10px #1a1a1a;
     letter-spacing: 0.3em;
     color: white;
     font-size: 4.5em; }
@@ -223,7 +223,7 @@ nav {
   align-items: center; }
   .fullwidth-about h1 {
     text-align: center;
-    text-shadow: 5px 5px 10px black;
+    text-shadow: 5px 5px 10px #1a1a1a;
     letter-spacing: 0.3em;
     color: white;
     font-size: 4.5em; }
@@ -275,6 +275,11 @@ nav {
   flex-direction: column;
   justify-content: center;
   align-items: center; }
+
+.img-shadow {
+  -moz-box-shadow: 0 0 2px #000000;
+  -webkit-box-shadow: 0 0 2px #000000;
+  box-shadow: 0 0 2px #000000; }
 
 .wrapper {
   margin: 0 auto;
