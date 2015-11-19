@@ -13,6 +13,10 @@ body {
   background-color: $body-background-color;
 }
 
+html, body {
+  overflow: auto;
+}
+
 // Style for headings
 h1, h2 {
   margin-bottom: 20px;
@@ -51,6 +55,14 @@ li {
 
 .text-white {
   color: white;
+}
+
+.header-space-above-small {
+  margin-top: 5px;
+}
+
+.header-space-above-normal {
+  margin-top: 30px;
 }
 
 
