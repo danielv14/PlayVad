@@ -1,8 +1,12 @@
 <!-- Include header -->
 <?php include 'header.php';?>
 
-<div class="wrapper nonfullscreen-div">
-  <h1>Netflix</h1>
+<!-- Full width img netflix -->
+<div class="fullwidth-netflix">
+</div>
+
+<div class="wrapper nonfullscreen-div space-above">
+  <h1 class="special-font header-biggest">Netflix</h1>
 </div>
 
 
