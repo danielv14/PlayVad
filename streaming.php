@@ -32,7 +32,7 @@
       <article>
         <h1 class="special-font header-big space-above">HBO Nordic</h1>
         <p>HBO Nordic är det amerikanska TV-bolaget <a class="link" href="http://www.hbo.com">HBOs</a> sätt att nå ut till den nordiska marknaden. Tjänsten landerades vintern 2012 och sedan dess har det gått att streama HBO's egenproducerade tv-serier och tv-serier från andra producenter. Även om tjänsten erbjuder filmer är de flesta prenumeranter intresserade av HBO's egna tv-serier som ofta håller väldigt hög kvalité och där många anses som "klassiker". Tjänsten finns tillgänglig på många olika plattformar. Två personer kan streama samtidigt på ett och samma konto.</p>
-        <a class="button" href="#">Mer om HBO Nordic</a>
+        <a class="button" href="hbonordic.php">Mer om HBO Nordic</a>
       </article>
     </div><!-- End of mini-element -->
   </div><!-- End of parent -->
@@ -41,7 +41,7 @@
       <article>
         <h1 class="special-font header-big space-above">C More</h1>
         <p>C More är i grunden en vanlig TV-tjänst men som anpassat sig efter den digitala frammarschen och ebjuder även sitt utbud via streaming. Utbudet består av film, tv-serier, sport och barnprogram. Tjänsten är tillgänglig på olika plattformar såsom PC, Mac, Android-enheter och iPhone. En enhet kan streama åt gången. Tjänsten är bindningsfri och innehåller tre olika paket i olika prisklasser. Paketen heter C More Film, C More Sport och C More Max</p>
-        <a class="button" href="#">Mer om C More</a>
+        <a class="button" href="cmore.php">Mer om C More</a>
       </article>
     </div><!-- End of mini element -->
     <div class="mini-element-2col">
