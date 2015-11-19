@@ -48,7 +48,7 @@
       <article>
         <h1 class="special-font header-big space-above">Viaplay</h1>
         <p>Viaplay är namnet på <a class="link" href="https://www.viasat.se">Viasats</a> onlinetjänst som erbjuder filmer, TV-serier och sport till en fast månadskostnad. Notera att kostnade ökar om en användre vill se på sport. Tjänsten lanserades redan 2007 men under ett annat namn och 2011 lanserades tjänsten under det nuvarande namnet och under ett eget bolag. Viaplay finns tillgänglig på plattformar såsom PC, Mac, Android- och iOS-enheter, smarta TV-apparater samt spelkonsoller.</p>
-        <a class="button" href="#">Mer om Viaplay</a>
+        <a class="button" href="viaplay.php">Mer om Viaplay</a>
       </article>
     </div><!-- End of mini element -->
   </div><!-- End of parent-->
