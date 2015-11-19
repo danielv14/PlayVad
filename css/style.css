@@ -327,14 +327,22 @@ nav {
   background-color: #c6f0cb;
   -moz-box-shadow: 0 0 2px #000000;
   -webkit-box-shadow: 0 0 2px #000000;
-  box-shadow: 0 0 2px #000000; }
+  box-shadow: 0 0 2px #000000;
+  -webkit-transition: box-shadow 0.2s linear;
+  -moz-transition: box-shadow 0.2s linear;
+  -o-transition: box-shadow 0.2s linear;
+  transition: box-shadow 0.2s linear; }
+  .article-content-fullscreen:hover {
+    -moz-box-shadow: 0 0 4px #000000;
+    -webkit-box-shadow: 0 0 4px #000000;
+    box-shadow: 0 0 4px #000000; }
 
 .article-aside {
   padding: 10px;
   width: 20%;
   margin-right: 5%;
   margin-top: 10px;
-  border-left: 3px solid black; }
+  border-left: 2px solid black; }
 
 .list-col {
   margin-left: 25%;
