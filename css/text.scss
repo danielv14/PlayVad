@@ -145,5 +145,10 @@ li {
 // Style for a class that can differenciate a block from another
 .popout-background {
   background-color: lighten($navbar-color, 5%);
-  @include box-shadow(0px, 4px, 2px, 4px);
+  @include box-shadow-subtle;
+}
+
+// Helper class to just add shadow to the images
+.subtle-shadow {
+	@include box-shadow-subtle;
 }
