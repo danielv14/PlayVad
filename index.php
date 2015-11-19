@@ -11,7 +11,7 @@
 <div class="wrapper nonfullscreen-div space-above space-below">
   <article class="space-below">
     <aside class="left">
-      <img id="questionmark" src="img/questionmark2.png" alt="questionmark"/>
+      <img id="questionmark" src="img/question.png" alt="questionmark"/>
     </aside>
     <h1><span class="marketing-title special-font">Visst är streamingdjungeln svår?</span></h1>
     <p><span class="marketing-paragraph">Visst finns det på tok för mycket streamingtjänster att välja bland? Det tycker vi också och
