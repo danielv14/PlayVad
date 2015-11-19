@@ -25,7 +25,7 @@
       <article>
         <h1 class="special-font header-big space-above">Netflix</h1>
         <p>Netflix är ett amerikanskt företag som startade redan 1997 och har lyckats anpassa sig för den digitala efterfrågan av streaming. År 2012 lanserades tjänsten i norden. Streamingutbudet som består av filmer, tv-serier och till och med egenproducerat material. Utbudet varierar beroende på vilket land man befinner sig i, men detta gäller dock inte det egenproducerade innehållet. Tjänsten är tillgänglig på en uppsjö olika plattformar och beroende på vilken typ av månadskostnad man betalar kan olika antal personer streama samtidigt.</p>
-        <a class="button" href="#">Mer om Netflix</a>
+        <a class="button" href="netflix.php">Mer om Netflix</a>
       </article>
     </div> <!-- End of mini element-->
     <div class="mini-element-2col">
