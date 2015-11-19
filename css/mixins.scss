@@ -11,10 +11,10 @@
 }
 
 // Mixin for subtle box shadow
-@mixin box-shadow-subtle {
-  -moz-box-shadow: 0 0 2px #000000;
-  -webkit-box-shadow: 0 0 2px #000000;
-  box-shadow: 0 0 2px #000000;
+@mixin box-shadow-subtle($amount) {
+  -moz-box-shadow: 0 0 $amount #000000;
+  -webkit-box-shadow: 0 0 $amount #000000;
+  box-shadow: 0 0 $amount #000000;
 }
 
 // Mixin for navbar background color
@@ -45,12 +45,20 @@
   align-items: center;
 }
 
-// Mixin to animate with transition
+// Mixin to animate 2 properties with transition
 @mixin animate-transition($css-property1,$css-property2,$duration, $type) {
   -webkit-transition: $css-property1 $duration, $css-property2 $duration $type;
   -moz-transition: $css-property1 $duration, $css-property2 $duration $type;
   -o-transition: $css-property1 $duration, $css-property2 $duration $type;
   transition: $css-property1 $duration, $css-property2 $duration $type;
+}
+
+@mixin animate-transition-1($css-property, $duration, $type) {
+  -webkit-transition: $css-property $duration $type;
+  -moz-transition: $css-property $duration $type;
+  -o-transition: $css-property $duration $type;
+  transition: $css-property $duration $type;
+
 }
 
 // Mixin to create columns from unordered lists
