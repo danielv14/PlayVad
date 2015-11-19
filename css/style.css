@@ -243,6 +243,39 @@ nav {
   justify-content: center;
   align-items: center; }
 
+.fullwidth-viaplay {
+  background: url("../img/viaplay.jpg") no-repeat center center fixed;
+  background-size: cover;
+  height: 80vh;
+  position: center;
+  overflow: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center; }
+
+.fullwidth-hbonordic {
+  background: url("../img/hbonordic-crop.jpg") no-repeat center center fixed;
+  background-size: cover;
+  height: 80vh;
+  position: center;
+  overflow: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center; }
+
+.fullwidth-cmore {
+  background: url("../img/cmore.png") no-repeat center center fixed;
+  background-size: cover;
+  height: 80vh;
+  position: center;
+  overflow: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center; }
+
 .wrapper {
   margin: 0 auto;
   min-height: 100px; }
