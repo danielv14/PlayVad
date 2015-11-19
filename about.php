@@ -2,7 +2,7 @@
 <?php include 'header.php';?>
 
 <!-- Image full width -->
-<div class="fullwidth-about">
+<div class="fullwidth-about img-shadow">
   <h1>Om Play<span class="special-font marketing-title">Vad</span></h1>
   <h2 class="text-white special-font"><i>Varför och hur?</i></h2>
 </div>

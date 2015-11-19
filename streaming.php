@@ -2,7 +2,7 @@
 <?php include 'header.php';?>
 
 <!-- Image full width -->
-<div class="fullwidth-streaming">
+<div class="fullwidth-streaming img-shadow">
   <h1><span class="special-font marketing-title">Streaming</span>tjänster</h1>
   <h2 class="text-white special-font"><i>Vi listar de bästa av de bästa</i></h2>
 </div>

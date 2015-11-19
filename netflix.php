@@ -2,7 +2,7 @@
 <?php include 'header.php';?>
 
 <!-- Full width img netflix -->
-<div class="fullwidth-netflix"></div>
+<div class="fullwidth-netflix img-shadow"></div>
 
 <!-- main wrapper -->
 <div class="wrapper fullscreen-div space-above space-below">

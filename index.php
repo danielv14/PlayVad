@@ -2,7 +2,7 @@
 <?php include 'header.php';?>
 
 <!-- Image full width -->
-<div class="fullwidth-startpage">
+<div class="fullwidth-startpage img-shadow">
   <h1 class="text-white">Play<span class="marketing-title special-font">Vad</span></h1>
   <h2 class="text-white special-font"><i>Vi reder ut streamingdjungeln åt dig!</i></h2>
 </div>
@@ -80,7 +80,7 @@
 </div>
 
 <!-- Image full width -->
-<div class="fullwidth-startpage-about-streaming">
+<div class="fullwidth-startpage-about-streaming img-shadow">
   <h1><span class="special-font">Streaming</span>tjänster?</h1>
   <h2 class="text-white special-font"><i>Vad innebär det och vilka är de bästa?</i></h2>
   <a class="button-big" href="streaming.php"><b>Läs mer</b></a>
