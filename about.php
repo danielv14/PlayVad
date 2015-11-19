@@ -23,7 +23,7 @@
       <li>Utbud av film och tv-serier</li>
       <li>Eventuella bindningstider</li>
       <li>Barn- och sportanpassat innehåll</li>
-      <li>Smarta appar</li>
+      <li>Plattformar</li>
       <li>Hur många kan streama från samma konto samtidigt</li>
       <li>Individanpassning</li>
     </ul>
