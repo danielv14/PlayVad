@@ -8,7 +8,7 @@ För styling används scss som sedan konverteras till vanlig css med hjälp av p
 
 ###Förklaring för SCSS strukturen
 I `/css` finns en hel del olika scss-filer som alla importeras av huvud-filen style.scss som i sin tur konverteras med hjälp av CodeKit till ren csskod i form av style.css. Här nedan följer lite info om hur det hela är upplagt:
-####variables.scss och mixins.Scss
+####variables.scss och mixins.scss
 Dessa två filer är tänkt att innehålla alla tänkbara variabler och mixins (funktioner) som sedan de andra filerna kan använda sig av. Skapa inga variabler i de andra filerna utan försök hålla strukturen med separata filer för variabler och mixins. Dessa två filer importeras i alla de andra filerna för att de ska kunna nyttjas.
 ####header.scss och footer.scss
 Som kanske namnen avslöjar innehåller dessa styling för header respektive footer. Header har hand om styling för navigeringen och navigeringsloggan. Footer har hand om foten längst ned på webbplatsen med copyright informationen
