@@ -10,7 +10,7 @@
   <!-- aside element -->
   <div class="article-aside right">
     <aside>
-      <h2>Innehåll</h2>
+      <h2 class="special-font">Innehåll</h2>
       <h3><a class="link" href="#">Bla Bla</a></h3>
       <h3 class="header-space-above-small"><a class="link" href="#plattformar">Plattformar</a></h3>
       <h3 class="header-space-above-small"><a class="link" href="#">Kik ka</a></h3>
@@ -66,7 +66,7 @@
     <!-- aside element -->
     <div class="article-aside right">
       <aside>
-        <h2>Läs även om...</h2>
+        <h2 class="special-font">Läs även om...</h2>
         <h3><a class="link" href="hbonordic.php">HBO Nordic</a></h3>
         <h3 class="header-space-above-small"><a class="link" href="netflix.php">Netflix</a></h3>
         <h3 class="header-space-above-small"><a class="link" href="viaplay.php">Viaplay</a></h3>
@@ -81,13 +81,7 @@
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
       </article>
     </div>
-      <h2 id="avslutningsvis" class="special-font header-big header-space-above-normal">Avslutningsvis</h2>
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-    </article>
-  </div>
-
+    
 </div><!-- end of parent-fullscreen wrapper -->
 
 
