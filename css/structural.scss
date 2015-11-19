@@ -91,7 +91,7 @@
 }
 
 // Styling för 2 column list. Used in articles about streaming services.
-.list-2col {
+.list-col {
   margin-left: 25%;
   padding-bottom: 40px;
   @include list-column(2, 2px);
