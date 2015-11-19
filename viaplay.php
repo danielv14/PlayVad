@@ -54,10 +54,6 @@
   </div><!-- End of article-content-fullscreen -->
 
 
-
-
-
-
   <div class="article-content space-above">
     <article>
       <h2 class="special-font header-big header-space-above-normal">Kik ka</h2>
