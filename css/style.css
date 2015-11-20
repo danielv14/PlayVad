@@ -2,10 +2,6 @@
   margin: 0;
   padding: 0; }
 
-/*
-* This file is for global text styling
-*
-*/
 body {
   font-family: 'Open Sans', sans-serif;
   color: black;
@@ -123,7 +119,6 @@ nav {
   height: 35px;
   text-align: center;
   padding-top: 15px;
-  /*Add shadow to the bottom of the bar*/
   -moz-box-shadow: 0 0 2px #000000;
   -webkit-box-shadow: 0 0 2px #000000;
   box-shadow: 0 0 2px #000000;
