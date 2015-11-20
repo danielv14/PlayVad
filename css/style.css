@@ -153,6 +153,16 @@ nav {
   top: -12px;
   left: 10px; }
 
+.fullwidth-startpage h1, .fullwidth-startpage-about-streaming h1, .fullwidth-streaming h1, .fullwidth-about h1 {
+  color: white;
+  text-shadow: 5px 5px 10px #1a1a1a;
+  letter-spacing: 0.3em;
+  font-size: 4.5em; }
+.fullwidth-startpage h2, .fullwidth-startpage-about-streaming h2, .fullwidth-streaming h2, .fullwidth-about h2 {
+  text-shadow: 5px 5px 10px black;
+  letter-spacing: 0.1em;
+  font-size: 2.2em; }
+
 .fullwidth-startpage {
   background: url("../img/tv3.jpg") no-repeat center center fixed;
   background-size: cover;
@@ -163,14 +173,6 @@ nav {
   flex-direction: column;
   justify-content: center;
   align-items: center; }
-  .fullwidth-startpage h1 {
-    text-align: center;
-    text-shadow: 5px 5px 10px #1a1a1a;
-    letter-spacing: 0.3em;
-    font-size: 4.5em; }
-  .fullwidth-startpage h2 {
-    text-shadow: 5px 5px 10px black;
-    font-size: 2.2em; }
 
 .fullwidth-startpage-about-streaming {
   background: url("../img/sofa.jpg") no-repeat center center fixed;
@@ -182,16 +184,6 @@ nav {
   flex-direction: column;
   justify-content: center;
   align-items: center; }
-  .fullwidth-startpage-about-streaming h1 {
-    text-align: center;
-    text-shadow: 5px 5px 10px #1a1a1a;
-    letter-spacing: 0.3em;
-    color: white;
-    font-size: 4.5em; }
-  .fullwidth-startpage-about-streaming h2 {
-    text-shadow: 5px 5px 10px black;
-    padding-bottom: 40px;
-    font-size: 2.2em; }
 
 .fullwidth-streaming {
   background: url("../img/tv2.jpg") no-repeat center center fixed;
@@ -203,16 +195,6 @@ nav {
   flex-direction: column;
   justify-content: center;
   align-items: center; }
-  .fullwidth-streaming h1 {
-    text-align: center;
-    text-shadow: 5px 5px 10px #1a1a1a;
-    letter-spacing: 0.3em;
-    color: white;
-    font-size: 4.5em; }
-  .fullwidth-streaming h2 {
-    text-shadow: 5px 5px 10px black;
-    padding-bottom: 40px;
-    font-size: 2.2em; }
 
 .fullwidth-about {
   background: url("../img/about.jpg") no-repeat center center fixed;
@@ -224,16 +206,6 @@ nav {
   flex-direction: column;
   justify-content: center;
   align-items: center; }
-  .fullwidth-about h1 {
-    text-align: center;
-    text-shadow: 5px 5px 10px #1a1a1a;
-    letter-spacing: 0.3em;
-    color: white;
-    font-size: 4.5em; }
-  .fullwidth-about h2 {
-    text-shadow: 5px 5px 10px black;
-    padding-bottom: 40px;
-    font-size: 2.2em; }
 
 .fullwidth-netflix {
   background: url("../img/netflix.jpg") no-repeat center center fixed;

@@ -2,82 +2,40 @@
 @import 'variables';
 @import 'mixins';
 
-// Styling for full width image on startpage
-.fullwidth-startpage {
-	@include fullscreen-img('tv3.jpg', 100vh);
-
-  h1 {
-  	text-align: center;
+// Header styling for all the classes
+.fullwidth-startpage, .fullwidth-startpage-about-streaming, .fullwidth-streaming, .fullwidth-about {
+	h1 {
+		color: white;
 		text-shadow: 5px 5px 10px lighten(black, 10%);
     letter-spacing: 0.3em;
     font-size: $font-size-imgfullscreen-h1;
   }
   h2 {
     text-shadow: 5px 5px 10px black;
+		letter-spacing: 0.1em;
 		font-size: $font-size-imgfullscreen-h2;
   }
+}
 
+// Styling for full width image on startpage
+.fullwidth-startpage {
+	@include fullscreen-img('tv3.jpg', 100vh);
 }
 
 // Styling for full width image on startpage
 .fullwidth-startpage-about-streaming {
 	@include fullscreen-img('sofa.jpg', 100vh);
-
-  h1 {
-  	text-align: center;
-		text-shadow: 5px 5px 10px lighten(black, 10%);
-    letter-spacing: 0.3em;
-    color: white;
-    font-size: $font-size-imgfullscreen-h1;
-  }
-
-  h2 {
-    text-shadow: 5px 5px 10px black;
-    padding-bottom: 40px;
-		font-size: $font-size-imgfullscreen-h2;
-  }
-
 }
 
 // Styling for full width image on streaming.php
 .fullwidth-streaming {
 	@include fullscreen-img('tv2.jpg', 100vh);
 
-	h1 {
-		text-align: center;
-		text-shadow: 5px 5px 10px lighten(black, 10%);
-		letter-spacing: 0.3em;
-		color: white;
-		font-size: $font-size-imgfullscreen-h1;
-	}
-
-	h2 {
-		text-shadow: 5px 5px 10px black;
-		padding-bottom: 40px;
-		font-size: $font-size-imgfullscreen-h2;
-	}
-
-
 }
 
 // Styling for full width image on about.php
 .fullwidth-about {
 	@include fullscreen-img('about.jpg', 100vh);
-
-  h1 {
-  	text-align: center;
-    text-shadow: 5px 5px 10px lighten(black, 10%);
-    letter-spacing: 0.3em;
-    color: white;
-    font-size: $font-size-imgfullscreen-h1;
-  }
-
-  h2 {
-    text-shadow: 5px 5px 10px black;
-    padding-bottom: 40px;
-		font-size: $font-size-imgfullscreen-h2;
-  }
-
 }
 
 // Styling for will width image on netflix.php
