@@ -15,13 +15,12 @@ nav {
   background-color: $navbar-color;
   color: rgba(1, 1, 1, 0.8);
 }
+// Styling for links inside nave
 
 .nav-link {
-  // Styling for links inside nave
-
   font-size: 18px;
   margin-bottom: 8px;
-  padding-bottom: 4px;
+  padding-bottom: 2px;
   margin-left: 15px;
   margin-right: 15px;
   color: black;
@@ -34,6 +33,10 @@ nav {
      border-bottom: 2px solid $primary-color;
    }
 
+}
+
+.selected {
+  color: $primary-color;
 }
 
 // Styling for nav logo
