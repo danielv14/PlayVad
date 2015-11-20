@@ -1,8 +1,4 @@
 
-// Import other scss
-@import 'variables';
-@import 'mixins';
-
 // Styling for body
 body {
   @include font-family;
