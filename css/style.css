@@ -7,7 +7,7 @@
 *
 */
 body {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   color: black;
   background-color: white; }
 
@@ -22,10 +22,13 @@ p {
   font-size: 1.1em; }
 
 article {
-  line-height: 1.5; }
+  line-height: 1.4; }
 
 ul {
   list-style-position: inside; }
+
+li {
+  font-size: 1.1em; }
 
 .link {
   padding: 2px;
