@@ -40,7 +40,7 @@
     <div class="mini-element-2col">
       <article>
         <h1 class="special-font header-big space-above">C More</h1>
-        <p>C More är i grunden en vanlig TV-tjänst men som anpassat sig efter den digitala frammarschen och ebjuder även sitt utbud via streaming. Utbudet består av film, tv-serier, sport och barnprogram. Tjänsten är tillgänglig på olika plattformar såsom PC, Mac, Android-enheter och iPhone. En enhet kan streama åt gången. Tjänsten är bindningsfri och innehåller tre olika paket i olika prisklasser. Paketen heter C More Film, C More Sport och C More Max</p>
+        <p>C More är i grunden en vanlig TV-tjänst men som anpassat sig efter den digitala frammarschen och ebjuder även sitt utbud via streaming. Utbudet består av film, tv-serier, sport och barnprogram. Tjänsten är tillgänglig på olika plattformar såsom PC, Mac, Android-enheter och iPhone. En enhet kan streama åt gången. Tjänsten är bindningsfri och innehåller tre olika paket i olika prisklasser.</p>
         <a class="button" href="cmore.php">Mer om C More</a>
       </article>
     </div><!-- End of mini element -->
