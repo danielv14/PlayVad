@@ -47,8 +47,6 @@
         <li><i class="fa fa-gamepad"></i> Playstation 3 &amp; 4</li>
         <li><i class="fa fa-gamepad"></i> Wii &amp; Wii U</li>
         <li><i class="fa fa-gamepad"></i> Xbox 360 &amp; Xbox One</li>
-
-
       </ul>
     </article>
   </div><!-- End of article-content-fullscreen -->
