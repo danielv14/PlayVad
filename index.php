@@ -22,7 +22,7 @@
 
   <article>
     <aside class="right">
-      <img id="questionmark" src="img/answer.png" alt="questionmark"/>
+      <img id="answer" src="img/answer.png" alt="answer"/>
     </aside>
     <h1><span class="marketing-title special-font">Vi reder ut dina frågor!</span></h1>
     <p><span class="marketing-paragraph">Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
