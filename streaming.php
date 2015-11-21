@@ -28,6 +28,7 @@
         <a class="button" href="netflix.php">Mer om Netflix</a>
       </article>
     </div> <!-- End of mini element-->
+
     <div class="mini-element-2col">
       <article>
         <h1 class="special-font header-big space-above">HBO Nordic</h1>
@@ -36,6 +37,7 @@
       </article>
     </div><!-- End of mini-element -->
   </div><!-- End of parent -->
+
   <div class="mini-parent">
     <div class="mini-element-2col">
       <article>
@@ -44,6 +46,7 @@
         <a class="button" href="cmore.php">Mer om C More</a>
       </article>
     </div><!-- End of mini element -->
+
     <div class="mini-element-2col">
       <article>
         <h1 class="special-font header-big space-above">Viaplay</h1>
@@ -53,12 +56,6 @@
     </div><!-- End of mini element -->
   </div><!-- End of parent-->
 </div><!-- End of wrapper -->
-
-
-
-
-
-
 
 <!-- Include footer -->
 <?php include 'footer.php';?>
