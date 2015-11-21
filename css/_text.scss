@@ -87,6 +87,12 @@ li {
     background-color: $button-background-color;
     color: white;
   }
+
+  &:active {
+    background-color: lighten($button-background-color, 10%);
+    border: 1px solid lighten($button-background-color, 10%);
+
+  }
 }
 
 // Style for big button
@@ -104,6 +110,12 @@ li {
     border: 1px solid $button-text-color;
     background-color: $button-background-color;
     color: white;
+  }
+
+  &:active {
+    background-color: lighten($button-background-color, 10%);
+    border: 1px solid lighten($button-background-color, 10%);
+
   }
 }
 
