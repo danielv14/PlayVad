@@ -207,6 +207,7 @@ nav {
 }
 .fullwidth-startpage h2, .fullwidth-startpage-about-streaming h2, .fullwidth-streaming h2, .fullwidth-about h2 {
   text-shadow: 5px 5px 10px black;
+  color: white;
   letter-spacing: 0.1em;
   font-size: 2.2em;
 }
