@@ -30,20 +30,14 @@ article {
 
 ul {
   list-style-position: inside;
-  list-style: none;
+  list-style-type: circle;
   padding-bottom: 20px;
 }
 
 
 li {
   font-size: 1.1em;
-  padding-left: 1em;
-  text-indent: -.7em;
-}
 
-li:before {
-  content: "* ";
-  color: $primary-color;
 }
 
 // Style for links. Have to use a class since else it will interfere with nav-links
