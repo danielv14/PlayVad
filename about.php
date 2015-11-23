@@ -5,6 +5,8 @@
 <div class="fullwidth-about subtle-shadow">
   <h1>Om Play<span class="special-font marketing-title">Vad</span></h1>
   <h2 class="text-white special-font"><i>Varför och hur?</i></h2>
+  <h2><i class="fa fa-arrow-down"></i><h2>
+
 </div>
 
 <!-- Wrapper -->
