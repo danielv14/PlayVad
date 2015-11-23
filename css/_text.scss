@@ -11,8 +11,9 @@ html, body {
 }
 
 // Style for headings
-h1, h2 {
+h1, h2, h3 {
   margin-bottom: 20px;
+  margin-top: 20px;
 }
 
 // Style for paragraphs
@@ -29,6 +30,7 @@ article {
 
 ul {
   list-style-position: inside;
+  padding-bottom: 20px;
 }
 
 
