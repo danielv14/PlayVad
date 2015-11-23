@@ -29,11 +29,19 @@ article {
 
 ul {
   list-style-position: inside;
+  list-style: none;
   padding-bottom: 20px;
 }
 
 li {
   font-size: 1.1em;
+  padding-left: 1em;
+  text-indent: -.7em;
+}
+
+li:before {
+  content: "* ";
+  color: #4ECF5D;
 }
 
 .link {
