@@ -56,15 +56,13 @@
       <ul class="list-col">
         <li><i class="fa fa-desktop"></i> PC</li>
         <li><i class="fa fa-apple"></i> Mac</li>
-        <li><i class="fa fa-chrome"></i> Chrome OS</li>
         <li><i class="fa fa-mobile"></i> iOS</li>
         <li><i class="fa fa-mobile"></i> Android</li>
-        <li><i class="fa fa-mobile"></i> Windows Phone</li>
         <li><i class="fa fa-chrome"></i> Chromecast</li>
         <li><i class="fa fa-apple"></i> Apple TV</li>
-        <li><i class="fa fa-television"></i> Smart TV apparater </li>
+        <li><i class="fa fa-television"></i> Smart TV apparater</li>
+        <li><i class="fa fa-television"></i> Viasat-box</li>
         <li><i class="fa fa-gamepad"></i> Playstation 3 &amp; 4</li>
-        <li><i class="fa fa-gamepad"></i> Wii &amp; Wii U</li>
         <li><i class="fa fa-gamepad"></i> Xbox 360 &amp; Xbox One</li>
 
 
