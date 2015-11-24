@@ -42,9 +42,8 @@
     <div class="mini-element-4col">
       <article>
         <h1>Netflix</h1>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-        tempor incididunt ut labore et dolore magna aliqua.
-        Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip.</p>
+        <p>Streamingutbudet som består av filmer, tv-serier och till och med egenproducerat material.
+        Tjänsten är tillgänglig på en uppsjö olika plattformar.</p>
         <a class="button" href="netflix.php">Visa mer</a>
       </article>
     </div>
@@ -52,9 +51,7 @@
     <div class="mini-element-4col">
       <article>
         <h1>Viaplay</h1>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-        tempor incididunt ut labore et dolore magna aliqua.
-        Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip.</p>
+        <p>Utbudet består av filmer, tv-serier och sport. Viaplay finns tillgänglig på plattformar såsom PC, Mac, Android- och iOS-enheter, smarta TV-apparater samt spelkonsoller.</p>
         <a class="button" href="viaplay.php">Visa mer</a>
       </article>
     </div>
@@ -62,9 +59,7 @@
     <div class="mini-element-4col">
       <article>
         <h1>HBO Nordic</h1>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-        tempor incididunt ut labore et dolore magna aliqua.
-        Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip.</p>
+        <p>HBO Nordic är det amerikanska TV-bolaget <a class="link" href="http://www.hbo.com">HBOs</a> sätt att nå ut till den nordiska marknaden. Tjänsten finns tillgänglig på många olika plattformar.</p>
         <a class="button" href="hbonordic.php">Visa mer</a>
       </article>
     </div>
@@ -72,9 +67,7 @@
     <div class="mini-element-4col">
       <article>
         <h1>CMore</h1>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-        tempor incididunt ut labore et dolore magna aliqua.
-        Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip.</p>
+        <p>Utbudet består av film, tv-serier, sport och barnprogram. Tjänsten är tillgänglig på olika plattformar såsom PC, Mac, Android-enheter och iPhone.</p>
         <a class="button" href="cmore.php">Visa mer</a>
       </article>
     </div>
