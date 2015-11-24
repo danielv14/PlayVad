@@ -18,6 +18,10 @@ h1, h2, h3 {
   margin-top: 20px;
 }
 
+h3 {
+  font-size: 1.3em;
+}
+
 p {
   margin-bottom: 10px;
   font-size: 1.1em;
