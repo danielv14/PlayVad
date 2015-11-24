@@ -166,7 +166,7 @@ nav {
   -moz-box-shadow: 0 0 2px #000000;
   -webkit-box-shadow: 0 0 2px #000000;
   box-shadow: 0 0 2px #000000;
-  background-color: #eee;
+  background-color: rgba(238, 238, 238, 0.98);
   color: rgba(1, 1, 1, 0.8);
 }
 
@@ -178,7 +178,6 @@ nav {
   margin-right: 15px;
   color: black;
   text-decoration: none;
-  border-bottom: 2px solid #eee;
   -webkit-transition: border-bottom 0.3s, color 0.3s linear;
   -moz-transition: border-bottom 0.3s, color 0.3s linear;
   -o-transition: border-bottom 0.3s, color 0.3s linear;
@@ -186,7 +185,6 @@ nav {
 }
 .nav-link:hover {
   color: #4ECF5D;
-  border-bottom: 2px solid #4ECF5D;
 }
 
 .selected {

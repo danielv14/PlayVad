@@ -10,7 +10,7 @@ nav {
   text-align: center;
   padding-top: 15px;
   @include box-shadow-subtle(2px);
-  background-color: $navbar-color;
+  background-color: transparentize($navbar-color, 0.02);
   color: rgba(1, 1, 1, 0.8);
 }
 
@@ -23,12 +23,10 @@ nav {
   margin-right: 15px;
   color: black;
   text-decoration: none;
-  border-bottom: 2px solid $navbar-color;
   @include animate-transition(border-bottom, color, 0.3s, linear);
   // The links hover inside nav
    &:hover {
      color: $primary-color;
-     border-bottom: 2px solid $primary-color;
    }
 
 }
