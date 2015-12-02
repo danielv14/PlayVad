@@ -51,7 +51,7 @@
       <p>Netflix är väldigt bra på att separera innehållet för barn från de vanliga innehållet. Det finns en separat <a class="link" href="#profiler">profil</a> som heter <em>Kids</em> där endast lämpligt innehåll för barn visas. Denna profil innehåller kategorier såsom allsång, Disney, talande djur, havsäventyr, utbildning och en kategori som lämpar sig för hela familjen.</p>
       <p>Netflix gör alltså ett bra jobb på att anpassa innehållet och leverera innehåll som lämpar sig för barn.</p>
       <h2 class="special-font">Sport</h2>
-      <p>För tillfället ingår inte sport i Netflix utbud mer en eventuella filmer, dokumentärer och tv-serier om sport. Vill man läsa mer om Netflix ståndpunkt i frågan kan man läsa om det <a href="http://www.cinemablend.com/television/Netflix-Ever-Broadcast-Live-Sports-Here-What-Company-Says-71968.html">här</a></p>
+      <p>För tillfället ingår inte sport i Netflix utbud mer en eventuella filmer, dokumentärer och tv-serier om sport. Vill man läsa mer om Netflix ståndpunkt i frågan kan man läsa om det <a class="link" href="http://www.cinemablend.com/television/Netflix-Ever-Broadcast-Live-Sports-Here-What-Company-Says-71968.html">här</a></p>
       <h2 class="special-font">Dokumentärer</h2>
       <p>Netflix erbjuder en hel del (mer än 240) dokumentärer av olika slag och precis som med utbudet av tv-seier erbjuder Netflix några egenproducerade dokumentärer.</p>
       <p>Netflix tillhandahåller exempelvis politiska, biografiska, vetenskapliga och samhällsdokumentärer.</p>
