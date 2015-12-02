@@ -15,6 +15,7 @@
   .article-aside {
   }
 
+  body, html { overflow-x:hidden; }
 }
 
 @media screen and (max-width: $responsive-medium) {

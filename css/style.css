@@ -429,6 +429,10 @@ footer .footer-wrapper {
   .mini-element-2col {
     width: 45%;
   }
+
+  body, html {
+    overflow-x: hidden;
+  }
 }
 @media screen and (max-width: 1045px) {
   .mini-element-4col {
