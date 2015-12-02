@@ -625,11 +625,11 @@ footer .footer-wrapper {
 }
 @media screen and (max-width: 415px) {
   .fullwidth-startpage h1, .fullwidth-startpage-about-streaming h1, .fullwidth-streaming h1, .fullwidth-about h1 {
-    font-size: 1.5em;
+    font-size: 2em;
     letter-spacing: 0em;
   }
   .fullwidth-startpage h2, .fullwidth-startpage-about-streaming h2, .fullwidth-streaming h2, .fullwidth-about h2 {
-    font-size: 0.7em;
+    font-size: 1em;
     letter-spacing: 0em;
   }
 }
