@@ -198,5 +198,20 @@
     display: none;
   }
 
+}
+
+@media screen and (max-width: $responsive-extra-small) {
+
+  .fullwidth-startpage, .fullwidth-startpage-about-streaming, .fullwidth-streaming, .fullwidth-about {
+    h1 {
+      font-size: 1.5em;
+      letter-spacing: 0em;
+    }
+
+    h2 {
+      font-size: 0.7em;
+      letter-spacing: 0em;
+    }
+  }
 
 }
