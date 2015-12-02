@@ -420,3 +420,192 @@ footer .footer-wrapper {
   padding: 10px;
   width: 960px;
 }
+
+@media screen and (max-width: 1230px) {
+  .mini-element-4col {
+    width: 45.2%;
+  }
+
+  .mini-element-2col {
+    width: 45%;
+  }
+}
+@media screen and (max-width: 1045px) {
+  .mini-element-4col {
+    width: 95%;
+  }
+
+  .mini-element-2col {
+    width: 95%;
+  }
+
+  .nonfullscreen-div {
+    width: 95%;
+  }
+
+  #questionmark, #answer {
+    width: 30%;
+    display: none;
+  }
+
+  .marketing-paragraph {
+    font-size: 1em;
+  }
+
+  .marketing-title {
+    font-size: 1em;
+  }
+
+  .fullwidth-startpage h1, .fullwidth-startpage-about-streaming h1, .fullwidth-streaming h1, .fullwidth-about h1 {
+    font-size: 3em;
+  }
+  .fullwidth-startpage h2, .fullwidth-startpage-about-streaming h2, .fullwidth-streaming h2, .fullwidth-about h2 {
+    font-size: 2em;
+  }
+
+  .article-aside {
+    width: 40%;
+    margin-right: 0px;
+    margin-left: 4%;
+  }
+  .article-aside h2 {
+    font-size: 2em;
+  }
+  .article-aside h3 {
+    font-size: 1em;
+  }
+}
+@media screen and (max-width: 750px) {
+  .article-aside {
+    width: 100%;
+    text-align: center;
+    margin-bottom: 5%;
+  }
+
+  .article-content {
+    width: 95%;
+    margin-left: 5px;
+  }
+
+  .article-content-fullscreen {
+    padding: 0px;
+  }
+
+  .list-col {
+    margin-left: 2%;
+    padding-bottom: 5%;
+    width: 95%;
+  }
+}
+@media screen and (max-width: 600px) {
+  p {
+    font-size: 1em;
+  }
+
+  .header-bigger {
+    font-size: 1.6em;
+  }
+
+  .fullwidth-startpage h1, .fullwidth-startpage-about-streaming h1, .fullwidth-streaming h1, .fullwidth-about h1 {
+    font-size: 2em;
+  }
+  .fullwidth-startpage h2, .fullwidth-startpage-about-streaming h2, .fullwidth-streaming h2, .fullwidth-about h2 {
+    font-size: 1em;
+  }
+
+  .fullwidth-startpage {
+    background: url("../img/tv3.jpg") no-repeat center center fixed;
+    background-size: cover;
+    height: 80vh;
+    position: center;
+    overflow: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .fullwidth-startpage-about-streaming {
+    background: url("../img/sofa.jpg") no-repeat center center fixed;
+    background-size: cover;
+    height: 80vh;
+    position: center;
+    overflow: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .fullwidth-streaming {
+    background: url("../img/tv2.jpg") no-repeat center center fixed;
+    background-size: cover;
+    height: 80vh;
+    position: center;
+    overflow: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .fullwidth-about {
+    background: url("../img/about.jpg") no-repeat center center fixed;
+    background-size: cover;
+    height: 80vh;
+    position: center;
+    overflow: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .button-big {
+    font-size: 1em;
+    padding: 4px 6px;
+  }
+
+  .mini-element-2col {
+    width: 90%;
+  }
+
+  .space-above {
+    padding-top: 15px;
+  }
+
+  .space-below {
+    padding-bottom: 15px;
+  }
+
+  .article-aside {
+    padding: 2px;
+    margin-right: 0px;
+    margin-top: 1px;
+  }
+  .article-aside h2 {
+    font-size: 2em;
+  }
+  .article-aside h3 {
+    font-size: 1em;
+  }
+
+  .link {
+    padding: 0px;
+  }
+
+  .list-col {
+    -moz-column-count: 1;
+    -moz-column-gap: 2px;
+    -webkit-column-count: 1;
+    -webkit-column-gap: 2px;
+    column-count: 1;
+    column-gap: 2px;
+    font-size: 1em;
+    text-align: center;
+  }
+
+  .header-big {
+    font-size: 1.3em;
+  }
+}
