@@ -1,11 +1,117 @@
 // Responsive styling
 
+
+@media screen and (max-width: $responsive-large) {
+
+
+  .mini-element-4col {
+    width: 45.2%;
+  }
+
+  .mini-element-2col {
+    width: 45%;
+  }
+
+}
+
 @media screen and (max-width: $responsive-medium) {
+
+  .mini-element-4col {
+    width: 95%;
+
+  }
+
+  .mini-element-2col {
+    width: 95%;
+  }
+
+  .nonfullscreen-div {
+    @include nonfullscreen-div(95%);
+  }
+
+  #questionmark, #answer {
+    width: 30%;
+    display: none;
+  }
+
+  .marketing-paragraph {
+    font-size: 1em;
+  }
+
+  .marketing-title {
+    font-size: 1em;
+  }
+
+  .fullwidth-startpage, .fullwidth-startpage-about-streaming, .fullwidth-streaming, .fullwidth-about {
+    h1 {
+      font-size: 3em;
+    }
+
+    h2 {
+      font-size: 2em;
+    }
+  }
+
+
 
 
 }
 
 @media screen and (max-width: $responsive-small) {
 
+  p {
+    font-size: 1em;
+  }
+
+  .header-bigger {
+    font-size: 1.6em;
+  }
+
+  .fullwidth-startpage, .fullwidth-startpage-about-streaming, .fullwidth-streaming, .fullwidth-about {
+    h1 {
+      font-size: 2em;
+    }
+
+    h2 {
+      font-size: 1em;
+    }
+  }
+
+  .fullwidth-startpage {
+  	@include fullscreen-img('tv3.jpg', 80vh);
+  }
+
+  // Styling for full width image on startpage
+  .fullwidth-startpage-about-streaming {
+  	@include fullscreen-img('sofa.jpg', 80vh);
+  }
+
+  // Styling for full width image on streaming.php
+  .fullwidth-streaming {
+  	@include fullscreen-img('tv2.jpg', 80vh);
+
+  }
+
+  // Styling for full width image on about.php
+  .fullwidth-about {
+  	@include fullscreen-img('about.jpg', 80vh);
+  }
+
+  .button-big {
+    font-size: 1em;
+    padding: 4px 6px;
+  }
+
+  .mini-element-2col {
+    width: 90%;
+  }
+
+  .space-above {
+    padding-top: 15px;
+  }
+
+  .space-below {
+    padding-bottom: 15px;
+  }
 
 }
