@@ -223,13 +223,13 @@ nav {
   border-bottom: 0.125em solid #4ECF5D;
 }
 
-.fullwidth-startpage h1, .fullwidth-startpage-about-streaming h1, .fullwidth-streaming h1, .fullwidth-about h1 {
+.fullwidth-startpage h1, .fullwidth-startpage-about-streaming h1, .fullwidth-streaming h1, .fullwidth-about h1, .fullwidth-hbonordic h1, .fullwidth-cmore h1, .fullwidth-netflix h1, .fullwidth-viaplay h1 {
   color: white;
   text-shadow: 5px 5px 10px #1a1a1a;
   letter-spacing: 0.3em;
   font-size: 4.5em;
 }
-.fullwidth-startpage h2, .fullwidth-startpage-about-streaming h2, .fullwidth-streaming h2, .fullwidth-about h2 {
+.fullwidth-startpage h2, .fullwidth-startpage-about-streaming h2, .fullwidth-streaming h2, .fullwidth-about h2, .fullwidth-hbonordic h2, .fullwidth-cmore h2, .fullwidth-netflix h2, .fullwidth-viaplay h2 {
   text-shadow: 5px 5px 10px black;
   color: white;
   letter-spacing: 0.1em;
@@ -535,10 +535,10 @@ footer .footer-wrapper {
     font-size: 1.6em;
   }
 
-  .fullwidth-startpage h1, .fullwidth-startpage-about-streaming h1, .fullwidth-streaming h1, .fullwidth-about h1 {
+  .fullwidth-startpage h1, .fullwidth-startpage-about-streaming h1, .fullwidth-streaming h1, .fullwidth-about h1, .fullwidth-hbonordic h1, .fullwidth-cmore h1, .fullwidth-netflix h1, .fullwidth-viaplay h1 {
     font-size: 2em;
   }
-  .fullwidth-startpage h2, .fullwidth-startpage-about-streaming h2, .fullwidth-streaming h2, .fullwidth-about h2 {
+  .fullwidth-startpage h2, .fullwidth-startpage-about-streaming h2, .fullwidth-streaming h2, .fullwidth-about h2, .fullwidth-hbonordic h2, .fullwidth-cmore h2, .fullwidth-netflix h2, .fullwidth-viaplay h2 {
     font-size: 1em;
   }
 
