@@ -6,13 +6,11 @@ nav {
   z-index: 10; /* när -webkit-overflow-scrolling används måste navigeringen läggas överst */
   top: 0;
   width: 100%;
-  color: #ffffff;
   min-height: 35px;
   text-align: center;
   padding-top: 15px;
   @include box-shadow-subtle(2px);
   background-color: transparentize($navbar-color, 0.02);
-  color: rgba(1, 1, 1, 0.8);
 
 }
 
