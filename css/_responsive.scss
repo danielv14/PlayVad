@@ -77,6 +77,10 @@
 
 @media screen and (max-width: $responsive-extra-medium) {
 
+  body {
+    -webkit-overflow-scrolling: touch;
+  }
+
   .article-aside {
     width: 100%;
     text-align: center;
