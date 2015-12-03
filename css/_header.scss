@@ -3,7 +3,7 @@
 // Styling for navbar
 nav {
   position: fixed;
-  z-index: 10;
+  z-index: 10; /* när -webkit-overflow-scrolling används måste navigeringen läggas överst */
   top: 0;
   width: 100%;
   color: #ffffff;

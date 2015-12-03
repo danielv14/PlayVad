@@ -1,3 +1,4 @@
+@charset "UTF-8";
 * {
   margin: 0;
   padding: 0;
@@ -162,6 +163,7 @@ li {
 nav {
   position: fixed;
   z-index: 10;
+  /* när -webkit-overflow-scrolling används måste navigeringen läggas överst */
   top: 0;
   width: 100%;
   color: #ffffff;
