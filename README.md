@@ -21,3 +21,5 @@ Denna fil innehåller styling för de stora bildfält som är ett genomgående f
 Denna fil innehåller alla strukturella regler för diverse wrapper containers av <div> webplatsen använder sig av. Denna fil förlitar sig mycket på två olika mixins som skapar antingen fullscreen div eller nonfullscreen div som dessutom tar en variabel som argument som bestämmer vilken bredd div-elementet ska ha.
 Först deklareras genrella regler för .wrapper och sedan ska antingen klassen .fullscreen-div eller .nonfullscreen-div läggas till i klassdeklarationen för div-elementet beroende på om elementet ska vara fullscreen eller ej.
 Generella klasser för floating och extra utrymme finns också i denna fil då det är strukturell styling det handlar om.
+####responsive.scss
+Denna fil innehåller alla media queries som har hand om hemsidans responsivitet. De olika brytpunkterna använder olika variabler som har deklarerats i `css/_variables.scss`.
