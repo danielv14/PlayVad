@@ -340,6 +340,7 @@ nav {
 
 .mini-element-2col {
   display: inline-block;
+  vertical-align: top;
   padding: 20px;
   width: 550px;
   margin: 0 auto;
