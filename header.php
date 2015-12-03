@@ -17,8 +17,11 @@
 
   <!-- Navbar -->
   <nav>
-    <a class="nav-link" href="index.php"><img id="header-logo" src="img/logga2.png" alt="logo"></a>
-    <a class="nav-link <?= basename($_SERVER['REQUEST_URI']) == "index.php" ? "selected" : ""; ?>" href="index.php">Hem</a>
-    <a class="nav-link <?= basename($_SERVER['REQUEST_URI']) == "streaming.php" ? "selected" : ""; ?>" href="streaming.php">Streamingtjänster</a>
-    <a class="nav-link <?= basename($_SERVER['REQUEST_URI']) == "about.php" ? "selected" : ""; ?>" href="about.php">Om PlayVad</a>
+    <!-- <a class="nav-link" href="index.php"><img id="header-logo" src="img/logga2.png" alt="logo"></a> -->
+    <a href="#/" id="hamburger" class="toggleNav nav-link border-menu">Meny</a>
+    <div class="open-links" id="open-links-id">
+      <a class="nav-link <?= basename($_SERVER['REQUEST_URI']) == "index.php" ? "selected" : ""; ?>" href="index.php">Hem</a>
+      <a class="nav-link <?= basename($_SERVER['REQUEST_URI']) == "streaming.php" ? "selected" : ""; ?>" href="streaming.php">Streamingtjänster</a>
+      <a class="nav-link <?= basename($_SERVER['REQUEST_URI']) == "about.php" ? "selected" : ""; ?>" href="about.php">Om PlayVad</a>
+    </div>
   </nav>
