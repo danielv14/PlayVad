@@ -187,14 +187,15 @@
     font-size: 1.3em;
   }
 
-  nav {
-  }
+
 
   .nav-link {
     font-size: 0.8em;
     margin-left: 1%;
     margin-right: 1%;
   }
+
+
 
   #header-logo {
     display: none;
@@ -216,4 +217,26 @@
     }
   }
 
+
+
+  .open-links {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+  }
+
+  .open-links {
+    display: none;
+    margin-top: 1%;
+    padding: 2%;
+  }
+
+  .toggleNav {
+    display: inline-block;
+
+  }
+
+  .nav-link {
+    font-size: 1em;
+  }
 }
