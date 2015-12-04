@@ -448,10 +448,7 @@ footer {
   .list-col {
     margin-left: 2%;
     padding-bottom: 5%;
-    width: 95%; }
-
-  .brandname {
-    display: none; } }
+    width: 95%; } }
 @media screen and (max-width: 600px) {
   p {
     font-size: 1em; }
@@ -565,7 +562,10 @@ footer {
     display: inline-block; }
 
   .nav-link {
-    font-size: 1em; } }
+    font-size: 1em; }
+
+  .brandname {
+    display: none; } }
 @media screen and (max-width: 415px) {
   .fullwidth-startpage h1, .fullwidth-startpage-about-streaming h1, .fullwidth-streaming h1, .fullwidth-about h1 {
     font-size: 2em;
