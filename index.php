@@ -13,7 +13,7 @@
 <div class="wrapper nonfullscreen-div space-above space-below">
   <article class="space-below">
     <aside class="left">
-      <img id="questionmark" src="img/question.png" alt="questionmark"/>
+      <img id="questionmark" src="img/question.png" alt="Bild på ett frågetecken"/>
     </aside>
     <h1><span class="marketing-title special-font">Visst är streamingdjungeln svår?</span></h1>
     <p><span class="marketing-paragraph">Visst finns det på tok för mycket streamingtjänster att välja bland? Förvisso är det bra att det finns mycket att välja på, men det kan fort kännas överväldigande. Med för mycket att välja på kan det vara svårt att bilda sig en uppfattning om vad som passar en själv bäst.
@@ -22,7 +22,7 @@
 
   <article>
     <aside class="right">
-      <img id="answer" src="img/answer.png" alt="answer"/>
+      <img id="answer" src="img/answer.png" alt="Bild på ett uttropstecken"/>
     </aside>
     <h1><span class="marketing-title special-font">PlayVad hjälper dig hitta rätt!</span></h1>
     <p><span class="marketing-paragraph">Vi har tagit reda på fakta, så att du inte behöver. PlayVad tillhandahåller information om de bästa streamingtjänsterna på marknaden idag. Vi hoppas att denna information hjälper dig att räta ut dina frågetecken och kan välja den tjänst som passar just dig bäst.</span></p>
