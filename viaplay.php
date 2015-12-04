@@ -20,7 +20,7 @@
       <h3><a class="link" href="#streamare">Aktiva streamare</a></h3>
       <h3><a class="link" href="#individanpassning">Individanpassning</a></h3>
     </aside>
-  </div>
+  </div> <!-- end of aside element -->
 
   <!-- article-content non-fullscreen -->
   <div class="article-content space-below">
@@ -66,13 +66,11 @@
         <li><i class="fa fa-television"></i> Viasat-box</li>
         <li><i class="fa fa-gamepad"></i> Playstation 3 &amp; 4</li>
         <li><i class="fa fa-gamepad"></i> Xbox 360 &amp; Xbox One</li>
-
-
       </ul>
     </article>
   </div><!-- End of article-content-fullscreen -->
 
-
+  <!-- article content -->
   <div class="article-content space-above">
     <article>
       <h1 id="kostnad" class="special-font header-bigger">Kostnad och bindningstid</h1>
@@ -87,7 +85,7 @@
       <p>Med Viaplay går det att ha två skärmar igång samtidigt. Det innebär alltså att exempelvis en person kan titta på en film medan en annan person kan kolla på senaste avsnittet av sin favorit tv-serie samtidigt.</p>
       <p>Värt at påpeka är att Viaplay endast tillåter att upp till 4 stycken enheter är registrerade på ett konto samtidigt. Alltså är det upp till 4 stycken enheter som kan strömma max 2 olika saker (filmer, tv-serier och sport) samtidigt.</p>
     </article>
-  </div>
+  </div> <!-- end of article content -->
 
   <!-- aside element -->
   <div class="article-aside right">
@@ -97,17 +95,17 @@
       <h3><a class="link" href="netflix.php">Netflix</a></h3>
       <h3><a class="link" href="cmore.php">C More</a></h3>
     </aside>
-  </div>
+  </div> <!-- end of aside element -->
 
+  <!-- article content -->
   <div class="article-content">
     <article>
       <h1 id="individanpassning" class="special-font header-bigger space-above">Individanpassning</h1>
       <p>Viaplay låter användare stjärnmarkera innehåll och således skapa en lista som användaren kommer åt på flera av sina enheter. Tanken bakom detta är att användare ska kunna spara sina favoriter och innehåll som planeras att se vid ett senare tillfället</p>
       <h2 class="special-font">Offline</h2>
       <p>Det går att spara ned innehåll för att se offline, när internetuppkoppling antingen är dålig eller obefintlig. Denna möjlighet är endast möjlig på portalbla enheter såsom iOS- och Android-enheter. Detta är väldigt bra om man är en person som exempelvis reser mycket och inte vill belasta sitt mobilnät då det många gånger kan vara begränsat.</p>
-
     </article>
-  </div>
+  </div> <!-- end of article content -->
 
 </div><!-- end of parent-fullscreen wrapper -->
 

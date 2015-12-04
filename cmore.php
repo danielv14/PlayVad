@@ -40,13 +40,13 @@
       <h2 class="special-font">Sport</h2>
       <p>Om man abonnerar på antingen <strong>C More Sport</strong> eller <strong>C More Max</strong> har man tillgång till <br>C Mores sportutbud som består av:</p>
       <ul>
-      <li>Hockey: Alla matcher i SHL, HockeyAllsvenskan och SM-slutspelet.</li>
-      <li>Fotboll: Alla matcher i Allsvenskan, Superettan utvalda matcher från Ligue 1 där bland annat samtliga PSG-matcher ingår.</li>
-      <li>Tennis: De flesta och största turneringarna från ATP- och WTA-touren, grand slam-turneringen Wimbledon och matcher från Davis Cup.</li>
-      <li>Motorsport: Alla matcher från Elitserien i Speedway och Davis Cup.</li>
-      <li>Kampsport: Alla livegalor från UFC plus extramaterial.</li>
-      <li>Ridsport: FEI World Cup i dressyr.</li>
-      <li>PGA-Touren i golf (start januari 2016).</li>
+        <li>Hockey: Alla matcher i SHL, HockeyAllsvenskan och SM-slutspelet.</li>
+        <li>Fotboll: Alla matcher i Allsvenskan, Superettan utvalda matcher från Ligue 1 där bland annat samtliga PSG-matcher ingår.</li>
+        <li>Tennis: De flesta och största turneringarna från ATP- och WTA-touren, grand slam-turneringen Wimbledon och matcher från Davis Cup.</li>
+        <li>Motorsport: Alla matcher från Elitserien i Speedway och Davis Cup.</li>
+        <li>Kampsport: Alla livegalor från UFC plus extramaterial.</li>
+        <li>Ridsport: FEI World Cup i dressyr.</li>
+        <li>PGA-Touren i golf (start januari 2016).</li>
       </ul>
       <h2 class="special-font">Dokumentärer</h2>
       <p>C Mores utbud när det gäller dokumentärer är något litet och i skrivande stund finns endast 35 dokumentärer. Dokumentärerna handlar om allt från köttindustrin, showbiz, politik och brott. Även om antalet dokumentärer inte är så stort är bredden på utbudet stort.</p>
@@ -64,13 +64,11 @@
         <li><i class="fa fa-mobile"></i> Android</li>
         <li><i class="fa fa-chrome"></i> Chromecast</li>
         <li><i class="fa fa-television"></i>Lägg till i ordinarie tv-utbud</li>
-
-
-
       </ul>
     </article>
   </div><!-- End of article-content-fullscreen -->
 
+  <!-- Article content -->
   <div class="article-content space-above">
     <article>
       <h1 id="kostnad" class="special-font header-bigger">Kostnad och bindningstid</h1>
@@ -92,25 +90,25 @@
       <h1 id="streamare"class="special-font header-bigger space-above">Aktiva Streamare</h1>
       <p>Utbudet från C More går att streama till en skärm åt gången. Detta innebär exempelvis att det endast går att titta på en film, ett tv-serieavsnitt eller en sportsändning samtidigt.</p>
     </article>
-    </div>
+  </div> <!-- end of article content -->
 
-    <!-- aside element -->
-    <div class="article-aside right">
-      <aside>
-        <h2 class="special-font">Läs även om...</h2>
-        <h3><a class="link" href="hbonordic.php">HBO Nordic</a></h3>
-        <h3 class="header-space-above-small"><a class="link" href="netflix.php">Netflix</a></h3>
-        <h3 class="header-space-above-small"><a class="link" href="viaplay.php">Viaplay</a></h3>
-      </aside>
-    </div>
+  <!-- aside element -->
+  <div class="article-aside right">
+    <aside>
+      <h2 class="special-font">Läs även om...</h2>
+      <h3><a class="link" href="hbonordic.php">HBO Nordic</a></h3>
+      <h3 class="header-space-above-small"><a class="link" href="netflix.php">Netflix</a></h3>
+      <h3 class="header-space-above-small"><a class="link" href="viaplay.php">Viaplay</a></h3>
+    </aside>
+  </div> <!-- end of article aside -->
 
-    <div class="article-content">
-      <article>
-
-        <h1 id="individanpassning" class="special-font header-bigger space-above">Individanpassning</h1>
-        <p>I skrivande stund har inte C More någon form av individanpassningen men då de inte går att strömma till mer än en enhet samtidigt verkar det inte heller som att C More riktar in sig på att vara den typen av tjänst där exempelvis olika familjemedlemmar kan nyttja samma konto men får olika upplevelser i och med individanpassning.</p>
-      </article>
-    </div>
+  <!-- article content -->
+  <div class="article-content">
+    <article>
+      <h1 id="individanpassning" class="special-font header-bigger space-above">Individanpassning</h1>
+      <p>I skrivande stund har inte C More någon form av individanpassningen men då de inte går att strömma till mer än en enhet samtidigt verkar det inte heller som att C More riktar in sig på att vara den typen av tjänst där exempelvis olika familjemedlemmar kan nyttja samma konto men får olika upplevelser i och med individanpassning.</p>
+    </article>
+  </div> <!-- end of article content -->
 
 </div><!-- end of parent-fullscreen wrapper -->
 

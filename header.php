@@ -10,11 +10,9 @@
     <link href='https://fonts.googleapis.com/css?family=Indie+Flower' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css"><!-- font awesome -->
-
   </head>
 
 <body>
-
   <!-- Navbar -->
   <nav>
     <a href="#/" id="hamburger" class="toggleNav nav-link border-menu">Meny</a>
