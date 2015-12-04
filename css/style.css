@@ -159,14 +159,6 @@ nav {
 .selected {
   color: #4ECF5D; }
 
-#header-logo {
-  display: inline;
-  height: 40px;
-  width: 45px;
-  position: relative;
-  top: -12px;
-  left: 10px; }
-
 .toggleNav {
   display: none; }
 
@@ -539,10 +531,7 @@ footer {
   .nav-link {
     font-size: 0.8em;
     margin-left: 1%;
-    margin-right: 1%; }
-
-  #header-logo {
-    display: none; } }
+    margin-right: 1%; } }
 @media screen and (max-width: 415px) {
   .fullwidth-startpage h1, .fullwidth-startpage-about-streaming h1, .fullwidth-streaming h1, .fullwidth-about h1 {
     font-size: 2em;

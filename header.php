@@ -17,7 +17,6 @@
 
   <!-- Navbar -->
   <nav>
-    <!-- <a class="nav-link" href="index.php"><img id="header-logo" src="img/logga2.png" alt="logo"></a> -->
     <a href="#/" id="hamburger" class="toggleNav nav-link border-menu">Meny</a>
     <div class="open-links" id="open-links-id">
       <a class="nav-link <?= basename($_SERVER['REQUEST_URI']) == "index.php" ? "selected" : ""; ?>" href="index.php">Hem</a>
