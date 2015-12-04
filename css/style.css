@@ -61,21 +61,21 @@ li {
 
 .button {
   text-decoration: none;
-  color: #2ca43a;
+  color: #32b842;
   padding: 6px 8px;
-  border: 1px solid #2ca43a;
+  border: 1px solid #32b842;
   border-radius: 5px;
   -webkit-transition: background-color 0.5s, color 0.5s linear;
   -moz-transition: background-color 0.5s, color 0.5s linear;
   -o-transition: background-color 0.5s, color 0.5s linear;
   transition: background-color 0.5s, color 0.5s linear; }
   .button:hover {
-    border: 1px solid #2ca43a;
-    background-color: #2ca43a;
+    border: 1px solid #32b842;
+    background-color: #32b842;
     color: white; }
   .button:active {
-    background-color: #3aca4b;
-    border: 1px solid #3aca4b; }
+    background-color: #4ecf5d;
+    border: 1px solid #4ecf5d; }
 
 .button-big {
   font-size: 1.6em;
@@ -89,11 +89,11 @@ li {
   -o-transition: background-color 0.5s, color 0.5s linear;
   transition: background-color 0.5s, color 0.5s linear; }
   .button-big:hover {
-    background-color: #2ca43a;
+    background-color: #32b842;
     color: white; }
   .button-big:active {
-    background-color: #3aca4b;
-    border: 1px solid #3aca4b; }
+    background-color: #4ecf5d;
+    border: 1px solid #4ecf5d; }
 
 #questionmark {
   width: 200px;
