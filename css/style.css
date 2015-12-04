@@ -1,80 +1,63 @@
 @charset "UTF-8";
 * {
   margin: 0;
-  padding: 0;
-}
+  padding: 0; }
 
 body {
   font-family: 'Open Sans', sans-serif;
   color: black;
-  background-color: white;
-}
+  background-color: white; }
 
 html, body {
-  overflow: auto;
-}
+  overflow: auto; }
 
 h1, h2, h3 {
   margin-bottom: 20px;
-  margin-top: 20px;
-}
+  margin-top: 20px; }
 
 h3 {
-  font-size: 1.3em;
-}
+  font-size: 1.3em; }
 
 p {
   margin-bottom: 10px;
-  font-size: 1.1em;
-}
+  font-size: 1.1em; }
 
 article {
-  line-height: 1.4;
-}
+  line-height: 1.4; }
 
 ul {
   list-style-position: inside;
   list-style-type: circle;
-  padding-bottom: 20px;
-}
+  padding-bottom: 20px; }
 
 li {
-  font-size: 1.1em;
-}
+  font-size: 1.1em; }
 
 .link {
   padding: 2px;
   color: #4ECF5D;
-  text-decoration: none;
-}
-.link:hover {
-  text-decoration: underline;
-}
+  text-decoration: none; }
+  .link:hover {
+    text-decoration: underline; }
 
 .text-white {
-  color: white;
-}
+  color: white; }
 
 .header-space-above-small {
-  margin-top: 5px;
-}
+  margin-top: 5px; }
 
 .header-space-above-normal {
-  margin-top: 30px;
-}
+  margin-top: 30px; }
 
 .marketing-paragraph {
   font-size: 1.2em;
-  line-height: 1.4em;
-}
+  line-height: 1.4em; }
 
 .marketing-title {
-  font-size: 1.2em;
-}
+  font-size: 1.2em; }
 
 .special-font {
-  font-family: 'Indie Flower', cursive;
-}
+  font-family: 'Indie Flower', cursive; }
 
 .button {
   text-decoration: none;
@@ -85,17 +68,14 @@ li {
   -webkit-transition: background-color 0.5s, color 0.5s linear;
   -moz-transition: background-color 0.5s, color 0.5s linear;
   -o-transition: background-color 0.5s, color 0.5s linear;
-  transition: background-color 0.5s, color 0.5s linear;
-}
-.button:hover {
-  border: 1px solid #32b842;
-  background-color: #32b842;
-  color: white;
-}
-.button:active {
-  background-color: #4ecf5d;
-  border: 1px solid #4ecf5d;
-}
+  transition: background-color 0.5s, color 0.5s linear; }
+  .button:hover {
+    border: 1px solid #32b842;
+    background-color: #32b842;
+    color: white; }
+  .button:active {
+    background-color: #4ecf5d;
+    border: 1px solid #4ecf5d; }
 
 .button-big {
   font-size: 1.6em;
@@ -107,54 +87,43 @@ li {
   -webkit-transition: background-color 0.5s, color 0.5s linear;
   -moz-transition: background-color 0.5s, color 0.5s linear;
   -o-transition: background-color 0.5s, color 0.5s linear;
-  transition: background-color 0.5s, color 0.5s linear;
-}
-.button-big:hover {
-  border: 1px solid #32b842;
-  background-color: #32b842;
-  color: white;
-}
-.button-big:active {
-  background-color: #4ecf5d;
-  border: 1px solid #4ecf5d;
-}
+  transition: background-color 0.5s, color 0.5s linear; }
+  .button-big:hover {
+    border: 1px solid #32b842;
+    background-color: #32b842;
+    color: white; }
+  .button-big:active {
+    background-color: #4ecf5d;
+    border: 1px solid #4ecf5d; }
 
 #questionmark {
   width: 200px;
-  margin-right: 20px;
-}
+  margin-right: 20px; }
 
 #answer {
   width: 200px;
   margin-left: 20px;
-  padding-top: 20px;
-}
+  padding-top: 20px; }
 
 .header-big {
-  font-size: 2em;
-}
+  font-size: 2em; }
 
 .header-bigger {
-  font-size: 2.4em;
-}
+  font-size: 2.4em; }
 
 .header-biggest {
-  font-size: 2.6em;
-}
+  font-size: 2.6em; }
 
 .header-center {
-  text-align: center;
-}
+  text-align: center; }
 
 .popout-background {
-  background-color: #fbfbfb;
-}
+  background-color: #fbfbfb; }
 
 .subtle-shadow, .popout-background {
   -moz-box-shadow: 0 0 2px #000000;
   -webkit-box-shadow: 0 0 2px #000000;
-  box-shadow: 0 0 2px #000000;
-}
+  box-shadow: 0 0 2px #000000; }
 
 nav {
   position: fixed;
@@ -168,13 +137,11 @@ nav {
   -moz-box-shadow: 0 0 2px #000000;
   -webkit-box-shadow: 0 0 2px #000000;
   box-shadow: 0 0 2px #000000;
-  background-color: rgba(238, 238, 238, 0.98);
-}
+  background-color: rgba(238, 238, 238, 0.98); }
 
 .open-links {
   display: flex;
-  justify-content: center;
-}
+  justify-content: center; }
 
 .nav-link {
   font-size: 18px;
@@ -185,15 +152,12 @@ nav {
   -webkit-transition: border-bottom 0.3s, color 0.3s linear;
   -moz-transition: border-bottom 0.3s, color 0.3s linear;
   -o-transition: border-bottom 0.3s, color 0.3s linear;
-  transition: border-bottom 0.3s, color 0.3s linear;
-}
-.nav-link:hover {
-  color: #4ECF5D;
-}
+  transition: border-bottom 0.3s, color 0.3s linear; }
+  .nav-link:hover {
+    color: #4ECF5D; }
 
 .selected {
-  color: #4ECF5D;
-}
+  color: #4ECF5D; }
 
 #header-logo {
   display: inline;
@@ -201,17 +165,14 @@ nav {
   width: 45px;
   position: relative;
   top: -12px;
-  left: 10px;
-}
+  left: 10px; }
 
 .toggleNav {
-  display: none;
-}
+  display: none; }
 
 .border-menu {
   position: relative;
-  padding-left: 1.25em;
-}
+  padding-left: 1.25em; }
 
 .border-menu:before {
   content: "";
@@ -221,21 +182,18 @@ nav {
   width: 1em;
   height: 0.125em;
   border-top: 0.375em double #4ECF5D;
-  border-bottom: 0.125em solid #4ECF5D;
-}
+  border-bottom: 0.125em solid #4ECF5D; }
 
 .fullwidth-startpage h1, .fullwidth-startpage-about-streaming h1, .fullwidth-streaming h1, .fullwidth-about h1, .fullwidth-hbonordic h1, .fullwidth-cmore h1, .fullwidth-netflix h1, .fullwidth-viaplay h1 {
   color: white;
   text-shadow: 5px 5px 10px #1a1a1a;
   letter-spacing: 0.3em;
-  font-size: 4.5em;
-}
+  font-size: 4.5em; }
 .fullwidth-startpage h2, .fullwidth-startpage-about-streaming h2, .fullwidth-streaming h2, .fullwidth-about h2, .fullwidth-hbonordic h2, .fullwidth-cmore h2, .fullwidth-netflix h2, .fullwidth-viaplay h2 {
   text-shadow: 5px 5px 10px black;
   color: white;
   letter-spacing: 0.1em;
-  font-size: 2.2em;
-}
+  font-size: 2.2em; }
 
 .fullwidth-startpage {
   background: url("../img/tv3.jpg") no-repeat center center fixed;
@@ -246,8 +204,7 @@ nav {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  align-items: center;
-}
+  align-items: center; }
 
 .fullwidth-startpage-about-streaming {
   background: url("../img/sofa.jpg") no-repeat center center fixed;
@@ -258,8 +215,7 @@ nav {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  align-items: center;
-}
+  align-items: center; }
 
 .fullwidth-streaming {
   background: url("../img/tv2.jpg") no-repeat center center fixed;
@@ -270,8 +226,7 @@ nav {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  align-items: center;
-}
+  align-items: center; }
 
 .fullwidth-about {
   background: url("../img/about.jpg") no-repeat center center fixed;
@@ -282,8 +237,7 @@ nav {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  align-items: center;
-}
+  align-items: center; }
 
 .fullwidth-netflix {
   background: url("../img/netflix.jpg") no-repeat center center fixed;
@@ -294,8 +248,7 @@ nav {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  align-items: center;
-}
+  align-items: center; }
 
 .fullwidth-viaplay {
   background: url("../img/viaplay.jpg") no-repeat center center fixed;
@@ -306,8 +259,7 @@ nav {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  align-items: center;
-}
+  align-items: center; }
 
 .fullwidth-hbonordic {
   background: url("../img/hbonordic-crop.jpg") no-repeat center center fixed;
@@ -318,8 +270,7 @@ nav {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  align-items: center;
-}
+  align-items: center; }
 
 .fullwidth-cmore {
   background: url("../img/cmore.png") no-repeat center center fixed;
@@ -330,65 +281,53 @@ nav {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  align-items: center;
-}
+  align-items: center; }
 
 .wrapper {
   margin: 0 auto;
-  min-height: 100px;
-}
+  min-height: 100px; }
 
 .fullscreen-div {
-  width: 100%;
-}
+  width: 100%; }
 
 .nonfullscreen-div {
-  width: 960px;
-}
+  width: 960px; }
 
 .mini-parent {
   width: 100%;
   display: inline-block;
   margin: 0 auto;
-  text-align: center;
-}
+  text-align: center; }
 
 .mini-element-4col {
   display: inline-block;
   vertical-align: top;
   padding: 10px;
   width: 22.6%;
-  margin: 0 auto;
-}
+  margin: 0 auto; }
 
 .mini-element-2col {
   display: inline-block;
   vertical-align: top;
   padding: 20px;
   width: 550px;
-  margin: 0 auto;
-}
+  margin: 0 auto; }
 
 .space-above {
-  padding-top: 70px;
-}
+  padding-top: 70px; }
 
 .space-below {
-  padding-bottom: 70px;
-}
+  padding-bottom: 70px; }
 
 .right {
-  float: right;
-}
+  float: right; }
 
 .left {
-  float: left;
-}
+  float: left; }
 
 .article-content {
   width: 60%;
-  margin-left: 10%;
-}
+  margin-left: 10%; }
 
 .article-content-fullscreen {
   padding: 10px;
@@ -399,21 +338,18 @@ nav {
   -webkit-transition: box-shadow 0.2s linear;
   -moz-transition: box-shadow 0.2s linear;
   -o-transition: box-shadow 0.2s linear;
-  transition: box-shadow 0.2s linear;
-}
-.article-content-fullscreen:hover {
-  -moz-box-shadow: 0 0 4px #000000;
-  -webkit-box-shadow: 0 0 4px #000000;
-  box-shadow: 0 0 4px #000000;
-}
+  transition: box-shadow 0.2s linear; }
+  .article-content-fullscreen:hover {
+    -moz-box-shadow: 0 0 4px #000000;
+    -webkit-box-shadow: 0 0 4px #000000;
+    box-shadow: 0 0 4px #000000; }
 
 .article-aside {
   padding: 10px;
   width: 20%;
   margin-right: 5%;
   margin-top: 10px;
-  border-left: 2px solid black;
-}
+  border-left: 2px solid black; }
 
 .list-col {
   margin-left: 25%;
@@ -426,8 +362,7 @@ nav {
   column-gap: 2px;
   list-style: none;
   font-size: 1.2em;
-  line-height: 1.9em;
-}
+  line-height: 1.9em; }
 
 footer {
   background-color: #eee;
@@ -438,114 +373,86 @@ footer {
   width: 100%;
   -moz-box-shadow: 0 0 2px #000000;
   -webkit-box-shadow: 0 0 2px #000000;
-  box-shadow: 0 0 2px #000000;
-}
-footer .footer-wrapper {
-  margin: 0 auto;
-  padding: 10px;
-  width: 960px;
-}
+  box-shadow: 0 0 2px #000000; }
+  footer .footer-wrapper {
+    margin: 0 auto;
+    padding: 10px;
+    width: 960px; }
 
 @media screen and (max-width: 1230px) {
   .mini-element-4col {
-    width: 45.2%;
-  }
+    width: 45.2%; }
 
   .mini-element-2col {
-    width: 45%;
-  }
+    width: 45%; }
 
   body, html {
-    overflow-x: hidden;
-  }
-}
+    overflow-x: hidden; } }
 @media screen and (max-width: 1045px) {
   .mini-element-4col {
-    width: 95%;
-  }
+    width: 95%; }
 
   .mini-element-2col {
-    width: 95%;
-  }
+    width: 95%; }
 
   .nonfullscreen-div {
-    width: 95%;
-  }
+    width: 95%; }
 
   #questionmark, #answer {
     width: 30%;
-    display: none;
-  }
+    display: none; }
 
   .marketing-paragraph {
-    font-size: 1em;
-  }
+    font-size: 1em; }
 
   .marketing-title {
-    font-size: 1em;
-  }
+    font-size: 1em; }
 
   .fullwidth-startpage h1, .fullwidth-startpage-about-streaming h1, .fullwidth-streaming h1, .fullwidth-about h1 {
-    font-size: 3em;
-  }
+    font-size: 3em; }
   .fullwidth-startpage h2, .fullwidth-startpage-about-streaming h2, .fullwidth-streaming h2, .fullwidth-about h2 {
-    font-size: 2em;
-  }
+    font-size: 2em; }
 
   .article-aside {
     width: 40%;
     margin-right: 0px;
-    margin-left: 4%;
-  }
-  .article-aside h2 {
-    font-size: 2em;
-  }
-  .article-aside h3 {
-    font-size: 1em;
-  }
-}
+    margin-left: 4%; }
+    .article-aside h2 {
+      font-size: 2em; }
+    .article-aside h3 {
+      font-size: 1em; } }
 @media screen and (max-width: 750px) {
   body {
-    -webkit-overflow-scrolling: touch;
-  }
+    -webkit-overflow-scrolling: touch; }
 
   .article-aside {
     width: 100%;
     text-align: center;
-    margin-bottom: 5%;
-  }
+    margin-bottom: 5%; }
 
   .article-content {
     width: 93%;
     margin-left: 2%;
-    margin-right: 2%;
-  }
+    margin-right: 2%; }
 
   .article-content-fullscreen {
-    padding: 0px;
-  }
+    padding: 0px; }
 
   .list-col {
     margin-left: 2%;
     padding-bottom: 5%;
-    width: 95%;
-  }
-}
+    width: 95%; } }
 @media screen and (max-width: 600px) {
   p {
-    font-size: 1em;
-  }
+    font-size: 1em; }
 
   .header-bigger {
-    font-size: 1.6em;
-  }
+    font-size: 1.6em; }
 
   .fullwidth-startpage h1, .fullwidth-startpage-about-streaming h1, .fullwidth-streaming h1, .fullwidth-about h1, .fullwidth-hbonordic h1, .fullwidth-cmore h1, .fullwidth-netflix h1, .fullwidth-viaplay h1 {
-    font-size: 2em;
-  }
+    font-size: 2em; }
   .fullwidth-startpage h2, .fullwidth-startpage-about-streaming h2, .fullwidth-streaming h2, .fullwidth-about h2, .fullwidth-hbonordic h2, .fullwidth-cmore h2, .fullwidth-netflix h2, .fullwidth-viaplay h2 {
-    font-size: 1em;
-  }
+    font-size: 1em; }
 
   .fullwidth-startpage {
     background: url("../img/tv3.jpg") no-repeat center center fixed;
@@ -556,8 +463,7 @@ footer .footer-wrapper {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    align-items: center;
-  }
+    align-items: center; }
 
   .fullwidth-startpage-about-streaming {
     background: url("../img/sofa.jpg") no-repeat center center fixed;
@@ -568,8 +474,7 @@ footer .footer-wrapper {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    align-items: center;
-  }
+    align-items: center; }
 
   .fullwidth-streaming {
     background: url("../img/tv2.jpg") no-repeat center center fixed;
@@ -580,8 +485,7 @@ footer .footer-wrapper {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    align-items: center;
-  }
+    align-items: center; }
 
   .fullwidth-about {
     background: url("../img/about.jpg") no-repeat center center fixed;
@@ -592,41 +496,32 @@ footer .footer-wrapper {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    align-items: center;
-  }
+    align-items: center; }
 
   .button-big {
     font-size: 1em;
-    padding: 4px 6px;
-  }
+    padding: 4px 6px; }
 
   .mini-element-2col {
-    width: 90%;
-  }
+    width: 90%; }
 
   .space-above {
-    padding-top: 15px;
-  }
+    padding-top: 15px; }
 
   .space-below {
-    padding-bottom: 15px;
-  }
+    padding-bottom: 15px; }
 
   .article-aside {
     padding: 2px;
     margin-right: 0px;
-    margin-top: 1px;
-  }
-  .article-aside h2 {
-    font-size: 2em;
-  }
-  .article-aside h3 {
-    font-size: 1em;
-  }
+    margin-top: 1px; }
+    .article-aside h2 {
+      font-size: 2em; }
+    .article-aside h3 {
+      font-size: 1em; }
 
   .link {
-    padding: 0px;
-  }
+    padding: 0px; }
 
   .list-col {
     -moz-column-count: 1;
@@ -636,50 +531,38 @@ footer .footer-wrapper {
     column-count: 1;
     column-gap: 2px;
     font-size: 1em;
-    text-align: center;
-  }
+    text-align: center; }
 
   .header-big {
-    font-size: 1.3em;
-  }
+    font-size: 1.3em; }
 
   .nav-link {
     font-size: 0.8em;
     margin-left: 1%;
-    margin-right: 1%;
-  }
+    margin-right: 1%; }
 
   #header-logo {
-    display: none;
-  }
-}
+    display: none; } }
 @media screen and (max-width: 415px) {
   .fullwidth-startpage h1, .fullwidth-startpage-about-streaming h1, .fullwidth-streaming h1, .fullwidth-about h1 {
     font-size: 2em;
-    letter-spacing: 0em;
-  }
+    letter-spacing: 0em; }
   .fullwidth-startpage h2, .fullwidth-startpage-about-streaming h2, .fullwidth-streaming h2, .fullwidth-about h2 {
     font-size: 1em;
-    letter-spacing: 0em;
-  }
+    letter-spacing: 0em; }
 
   .open-links {
     display: flex;
     flex-direction: column;
-    justify-content: flex-start;
-  }
+    justify-content: flex-start; }
 
   .open-links {
     display: none;
     margin-top: 1%;
-    padding: 2%;
-  }
+    padding: 2%; }
 
   .toggleNav {
-    display: inline-block;
-  }
+    display: inline-block; }
 
   .nav-link {
-    font-size: 1em;
-  }
-}
+    font-size: 1em; } }
