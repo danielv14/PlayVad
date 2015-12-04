@@ -131,17 +131,21 @@ nav {
   /* när -webkit-overflow-scrolling används måste navigeringen läggas överst */
   top: 0;
   width: 100%;
-  min-height: 35px;
+  min-height: 30px;
   text-align: center;
-  padding-top: 15px;
+  padding: 10px;
   -moz-box-shadow: 0 0 2px #000000;
   -webkit-box-shadow: 0 0 2px #000000;
   box-shadow: 0 0 2px #000000;
-  background-color: rgba(238, 238, 238, 0.98); }
+  background-color: rgba(238, 238, 238, 0.98);
+  display: flex;
+  justify-content: space-around;
+  align-items: baseline; }
 
 .open-links {
   display: flex;
-  justify-content: center; }
+  justify-content: center;
+  align-items: baseline; }
 
 .nav-link {
   font-size: 18px;
@@ -175,6 +179,17 @@ nav {
   height: 0.125em;
   border-top: 0.375em double #4ECF5D;
   border-bottom: 0.125em solid #4ECF5D; }
+
+.brandname {
+  padding: 0;
+  margin: 0;
+  align-items: baseline;
+  height: auto; }
+  .brandname h2 {
+    font-size: 1.4em;
+    padding: 0;
+    margin: 0;
+    margin-left: 10px; }
 
 .fullwidth-startpage h1, .fullwidth-startpage-about-streaming h1, .fullwidth-streaming h1, .fullwidth-about h1, .fullwidth-hbonordic h1, .fullwidth-cmore h1, .fullwidth-netflix h1, .fullwidth-viaplay h1 {
   color: white;
@@ -433,7 +448,10 @@ footer {
   .list-col {
     margin-left: 2%;
     padding-bottom: 5%;
-    width: 95%; } }
+    width: 95%; }
+
+  .brandname {
+    display: none; } }
 @media screen and (max-width: 600px) {
   p {
     font-size: 1em; }
@@ -531,14 +549,7 @@ footer {
   .nav-link {
     font-size: 0.8em;
     margin-left: 1%;
-    margin-right: 1%; } }
-@media screen and (max-width: 415px) {
-  .fullwidth-startpage h1, .fullwidth-startpage-about-streaming h1, .fullwidth-streaming h1, .fullwidth-about h1 {
-    font-size: 2em;
-    letter-spacing: 0em; }
-  .fullwidth-startpage h2, .fullwidth-startpage-about-streaming h2, .fullwidth-streaming h2, .fullwidth-about h2 {
-    font-size: 1em;
-    letter-spacing: 0em; }
+    margin-right: 1%; }
 
   .open-links {
     display: flex;
@@ -555,3 +566,10 @@ footer {
 
   .nav-link {
     font-size: 1em; } }
+@media screen and (max-width: 415px) {
+  .fullwidth-startpage h1, .fullwidth-startpage-about-streaming h1, .fullwidth-streaming h1, .fullwidth-about h1 {
+    font-size: 2em;
+    letter-spacing: 0em; }
+  .fullwidth-startpage h2, .fullwidth-startpage-about-streaming h2, .fullwidth-streaming h2, .fullwidth-about h2 {
+    font-size: 1em;
+    letter-spacing: 0em; } }

@@ -6,11 +6,14 @@ nav {
   z-index: 10; /* när -webkit-overflow-scrolling används måste navigeringen läggas överst */
   top: 0;
   width: 100%;
-  min-height: 35px;
+  min-height: 30px;
   text-align: center;
-  padding-top: 15px;
+  padding: 10px;
   @include box-shadow-subtle(2px);
   background-color: transparentize($navbar-color, 0.02);
+  display: flex;
+  justify-content: space-around;
+  align-items: baseline;
 
 }
 
@@ -18,6 +21,7 @@ nav {
   // Flexbox styling below
   display: flex;
   justify-content: center;
+  align-items: baseline;
 
 }
 
@@ -63,4 +67,18 @@ nav {
   height: 0.125em;
   border-top: 0.375em double $primary-color;
   border-bottom: 0.125em solid $primary-color;
+}
+
+.brandname {
+  padding: 0;
+  margin: 0;
+  align-items: baseline;
+  height: auto;
+
+  h2 {
+    font-size: 1.4em;
+    padding: 0;
+    margin: 0;
+    margin-left: 10px;
+  }
 }

@@ -18,6 +18,9 @@
   <!-- Navbar -->
   <nav>
     <a href="#/" id="hamburger" class="toggleNav nav-link border-menu">Meny</a>
+    <div class="brandname">
+      <h2>Play<span class="special-font marketing-title">Vad</span></h2>
+    </div>
     <div class="open-links" id="open-links-id">
       <a class="nav-link <?= basename($_SERVER['REQUEST_URI']) == "index.php" ? "selected" : ""; ?>" href="index.php">Hem</a>
       <a class="nav-link <?= basename($_SERVER['REQUEST_URI']) == "streaming.php" ? "selected" : ""; ?>" href="streaming.php">Streamingtjänster</a>

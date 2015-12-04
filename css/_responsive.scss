@@ -104,6 +104,9 @@
     width: 95%;
   }
 
+  .brandname {
+    display: none;
+  }
 }
 
 @media screen and (max-width: $responsive-small) {
@@ -191,8 +194,6 @@
     font-size: 1.3em;
   }
 
-
-
   .nav-link {
     font-size: 0.8em;
     margin-left: 1%;
@@ -200,6 +201,26 @@
   }
 
 
+    .open-links {
+      display: flex;
+      flex-direction: column;
+      justify-content: flex-start;
+    }
+
+    .open-links {
+      display: none;
+      margin-top: 1%;
+      padding: 2%;
+    }
+
+    .toggleNav {
+      display: inline-block;
+
+    }
+
+    .nav-link {
+      font-size: 1em;
+    }
 
 
 
@@ -221,24 +242,4 @@
 
 
 
-  .open-links {
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-start;
-  }
-
-  .open-links {
-    display: none;
-    margin-top: 1%;
-    padding: 2%;
-  }
-
-  .toggleNav {
-    display: inline-block;
-
-  }
-
-  .nav-link {
-    font-size: 1em;
-  }
 }
