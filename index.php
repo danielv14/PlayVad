@@ -16,21 +16,16 @@
       <img id="questionmark" src="img/question.png" alt="questionmark"/>
     </aside>
     <h1><span class="marketing-title special-font">Visst är streamingdjungeln svår?</span></h1>
-    <p><span class="marketing-paragraph">Visst finns det på tok för mycket streamingtjänster att välja bland? Det tycker vi också och
-    det är därför denna hemsida finns.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-    ex ea commodo consequat</span></p>
+    <p><span class="marketing-paragraph">Visst finns det på tok för mycket streamingtjänster att välja bland? Förvisso är det bra att det finns mycket att välja på, men det kan fort kännas överväldigande. Med för mycket att välja på kan det vara svårt att bilda sig en uppfattning om vad som passar en själv bäst.
+    </span></p>
   </article>
 
   <article>
     <aside class="right">
       <img id="answer" src="img/answer.png" alt="answer"/>
     </aside>
-    <h1><span class="marketing-title special-font">Vi reder ut dina frågor!</span></h1>
-    <p><span class="marketing-paragraph">Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-    ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat
-    non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</span></p>
+    <h1><span class="marketing-title special-font">PlayVad hjälper dig hitta rätt!</span></h1>
+    <p><span class="marketing-paragraph">Vi har tagit reda på fakta, så att du inte behöver. PlayVad tillhandahåller information om de bästa streamingtjänsterna på marknaden idag. Vi hoppas att denna information hjälper dig att räta ut dina frågetecken och kan välja den tjänst som passar just dig bäst.</span></p>
   </article>
 </div><!-- end of nonfullscreen-div -->
 
