@@ -199,30 +199,31 @@
   }
 
 
-    .open-links {
-      display: flex;
-      flex-direction: column;
-      justify-content: flex-start;
-    }
+  .open-links {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+  }
 
-    .open-links {
-      display: none;
-      margin-top: 1%;
-      padding: 2%;
-    }
+  .open-links {
+    display: none;
+    margin-top: 1%;
+    padding: 2%;
+  }
 
-    .toggleNav {
-      display: inline-block;
+  .toggleNav {
+    display: inline-block;
+  }
 
-    }
+  .nav-link {
+    font-size: 1em;
+  }
 
-    .nav-link {
-      font-size: 1em;
-    }
+  .brandname {
+    display: none;
+  }
 
-    .brandname {
-      display: none;
-    }
+
 
 
 }
