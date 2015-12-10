@@ -17,7 +17,7 @@
   <nav>
     <a href="#/" id="hamburger" class="toggleNav nav-link border-menu">Meny</a>
     <div class="brandname">
-      <h2>Play<span class="special-font marketing-title">Vad</span></h2>
+      <h2><a href="index.php">Play<span class="special-font marketing-title">Vad</span></a></h2>
     </div>
     <div class="noscript">
       <noscript>
