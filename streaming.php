@@ -5,7 +5,6 @@
 <div class="fullwidth-streaming subtle-shadow">
   <h1><span class="special-font marketing-title">Streaming</span>tjänster</h1>
   <h2 class="text-white special-font"><i>Vi listar de bästa av de bästa</i></h2>
-  <h2><i class="fa fa-arrow-down"></i><h2>
 </div> <!-- end of img full width -->
 
 <!--  nonfullscreen wrapper -->

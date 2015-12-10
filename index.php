@@ -5,7 +5,6 @@
 <div class="fullwidth-startpage subtle-shadow">
   <h1 class="text-white">Play<span class="marketing-title special-font">Vad</span></h1>
   <h2 class="text-white special-font"><i>Vi reder ut streamingdjungeln åt dig!</i></h2>
-  <h2><i class="fa fa-arrow-down"></i><h2>
 </div> <!-- end of full width -->
 
 <!-- wrapper nonfullscreen-div -->
