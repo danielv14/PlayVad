@@ -18,41 +18,41 @@
 
 // Styling for full width image on startpage
 .fullwidth-startpage {
-	@include fullscreen-img('tv3.jpg', 100vh);
+	@include fullscreen-img('tv3.jpg', 90vh);
 }
 
 // Styling for full width image on startpage
 .fullwidth-startpage-about-streaming {
-	@include fullscreen-img('sofa.jpg', 100vh);
+	@include fullscreen-img('sofa.jpg', 90vh);
 }
 
 // Styling for full width image on streaming.php
 .fullwidth-streaming {
-	@include fullscreen-img('tv2.jpg', 100vh);
+	@include fullscreen-img('tv2.jpg', 90vh);
 
 }
 
 // Styling for full width image on about.php
 .fullwidth-about {
-	@include fullscreen-img('about.jpg', 100vh);
+	@include fullscreen-img('about.jpg', 90vh);
 }
 
 // Styling for will width image on netflix.php
 .fullwidth-netflix {
-	@include fullscreen-img('netflix.jpg', 80vh);
+	@include fullscreen-img('netflix.jpg', 90vh);
 }
 
 // Styling for full width image on viaplay.php
 .fullwidth-viaplay {
-	@include fullscreen-img('viaplay.jpg', 80vh);
+	@include fullscreen-img('viaplay.jpg', 90vh);
 }
 
 // Styling for full width image on hbonordic.php
 .fullwidth-hbonordic {
-	@include fullscreen-img('hbonordic-crop.jpg', 80vh);
+	@include fullscreen-img('hbonordic-crop.jpg', 90vh);
 }
 
 // Styling for full width image on cmore.php
 .fullwidth-cmore {
-	@include fullscreen-img('cmore.png', 80vh);
+	@include fullscreen-img('cmore.png', 90vh);
 }
