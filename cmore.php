@@ -106,6 +106,11 @@
     <article>
       <h1 id="individanpassning" class="special-font header-bigger space-above">Individanpassning</h1>
       <p>I skrivande stund har inte C More någon form av individanpassningen men då de inte går att strömma till mer än en enhet samtidigt verkar det inte heller som att C More riktar in sig på att vara den typen av tjänst där exempelvis olika familjemedlemmar kan nyttja samma konto men får olika upplevelser i och med individanpassning.</p>
+      <h1 class="special-font header-bigger space-above">Har du bestämt dig?</h1>
+      <p>Förhoppningsvis har du nu PlayVad hjälpt dig att få en bättre uppfattning om streamingtjänsten C More och vad som erbjuds. Vill du börja prenumerera på C More tryck på knappen här nedan för att gå till den officiella hemsidan.</p>
+      <br>
+      <a class="button" href="http://www.cmore.se" target="_blank">C More</a>
+
     </article>
   </section> <!-- end of article content -->
 

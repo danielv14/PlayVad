@@ -139,6 +139,10 @@
       <p>Beroende på hur &ldquo;duktig&rdquo; du är på att betygsätta titlar ju bättre blir Netflix på att förutse vad du skulle tycka om andra titlar.</p>
       <h2 class="special-font">Ta individanpassningen med en nypa salt&hellip;</h2>
       <p>Värt att påpeka är att Netflix individanpassning bör tas med en nya salt. Människor är komplexa varelser och ens smak när det gäller film och tv-serier är inte alltid så svart och vit. Många människor gillar filmer och tv-serier som sträcker sig över en rad olika genrer och detta gör Netflix jobb att individanpassa något svårt. Netflix känner inte dig bättre än vad du själv känner dig, något annat vore lite läskigt. individanpassningen är inget man ska stirra sig blint på och även om Netflix <em>tror</em> att du inte skulle gilla en film behöver det nödvändigtvis inte vara sant. Ett tips om individanpassningen är att främst uutgå från den egna listan, som användaren själv faktiskt har 100% kontroll över.</p>
+      <h1 class="special-font header-bigger space-above">Har du bestämt dig?</h1>
+      <p>Förhoppningsvis har du nu PlayVad hjälpt dig att få en bättre uppfattning om streamingtjänsten Netflix och vad som erbjuds. Vill du börja prenumerera på Netflix tryck på knappen här nedan för att gå till den officiella hemsidan.</p>
+      <br>
+      <a class="button" href="http://www.netflix.com" target="_blank">Netflix</a>
     </article>
   </section> <!-- end of article content -->
 

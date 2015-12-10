@@ -108,7 +108,10 @@
       <article>
         <h1 id="individanpassning"class="special-font header-bigger space-above">Individanpassning</h1>
         <p>Låt säga att du bläddrar igenom utbudet av HBO Nordics filmer och ser en hel del filmer som du tycker ser intressanta ut. För att inte glömma bort dessa filmer kan du välja att lägga till dem i &ldquo;Min Lista&rdquo;. Denna lista är det tänkt att användaren själv ska fylla med titlar som verkar intressanta och som användaren vill se på.</p>
-
+        <h1 class="special-font header-bigger space-above">Har du bestämt dig?</h1>
+        <p>Förhoppningsvis har du nu PlayVad hjälpt dig att få en bättre uppfattning om streamingtjänsten HBO Nordic och vad som erbjuds. Vill du börja prenumerera på HBO Nordic tryck på knappen här nedan för att gå till den officiella hemsidan.</p>
+        <br>
+        <a class="button" href="http://www.hbonordic.se" target="_blank">HBO Nordic</a>
       </article>
     </section>
 

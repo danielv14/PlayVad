@@ -104,6 +104,10 @@
       <p>Viaplay låter användare stjärnmarkera innehåll och således skapa en lista som användaren kommer åt på flera av sina enheter. Tanken bakom detta är att användare ska kunna spara sina favoriter och innehåll som planeras att se vid ett senare tillfället</p>
       <h2 class="special-font">Offline</h2>
       <p>Det går att spara ned innehåll för att se offline, när internetuppkoppling antingen är dålig eller obefintlig. Denna möjlighet är endast möjlig på portalbla enheter såsom iOS- och Android-enheter. Detta är väldigt bra om man är en person som exempelvis reser mycket och inte vill belasta sitt mobilnät då det många gånger kan vara begränsat.</p>
+      <h1 class="special-font header-bigger space-above">Har du bestämt dig?</h1>
+      <p>Förhoppningsvis har du nu PlayVad hjälpt dig att få en bättre uppfattning om streamingtjänsten Viaplay och vad som erbjuds. Vill du börja prenumerera på Viaplay tryck på knappen här nedan för att gå till den officiella hemsidan.</p>
+      <br>
+      <a class="button" href="http://www.viaplay.se" target="_blank">Viaplay</a>
     </article>
   </section> <!-- end of article content -->
 
