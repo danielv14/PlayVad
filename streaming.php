@@ -22,39 +22,39 @@
 <!-- div wrapper fullscreen -->
 <div class="wrapper fullscreen-div space-below popout-background">
   <div class="mini-parent">
-    <div class="mini-element-2col">
+    <section class="mini-element-2col">
       <article>
         <h1 class="special-font header-big space-above">Netflix</h1>
         <p>Netflix är ett amerikanskt företag som startade redan 1997 och har lyckats anpassa sig för den digitala efterfrågan av streaming. År 2012 lanserades tjänsten i norden. Streamingutbudet som består av filmer, tv-serier och till och med egenproducerat material. Utbudet varierar beroende på vilket land man befinner sig i, men detta gäller dock inte det egenproducerade innehållet. Tjänsten är tillgänglig på en uppsjö olika plattformar och beroende på vilken typ av månadskostnad man betalar kan olika antal personer streama samtidigt.</p>
         <a class="button" href="netflix.php">Mer om Netflix</a>
       </article>
-    </div> <!-- End of mini element-->
+    </section> <!-- End of mini element-->
 
-    <div class="mini-element-2col">
+    <section class="mini-element-2col">
       <article>
         <h1 class="special-font header-big space-above">HBO Nordic</h1>
         <p>HBO Nordic är det amerikanska TV-bolaget <a class="link" href="http://www.hbo.com">HBOs</a> sätt att nå ut till den nordiska marknaden. Tjänsten landerades vintern 2012 och sedan dess har det gått att streama HBO's egenproducerade tv-serier och tv-serier från andra producenter. Även om tjänsten erbjuder filmer är de flesta prenumeranter intresserade av HBO's egna tv-serier som ofta håller väldigt hög kvalité och där många anses som "klassiker". Tjänsten finns tillgänglig på många olika plattformar. Två personer kan streama samtidigt på ett och samma konto.</p>
         <a class="button" href="hbonordic.php">Mer om HBO Nordic</a>
       </article>
-    </div><!-- End of mini-element -->
+    </section><!-- End of mini-element -->
   </div><!-- End of parent -->
 
   <div class="mini-parent">
-    <div class="mini-element-2col">
+    <section class="mini-element-2col">
       <article>
         <h1 class="special-font header-big space-above">C More</h1>
         <p>C More är i grunden en vanlig TV-tjänst men som anpassat sig efter den digitala frammarschen och ebjuder även sitt utbud via streaming. Utbudet består av film, tv-serier, sport och barnprogram. Tjänsten är tillgänglig på olika plattformar såsom PC, Mac, Android-enheter och iPhone. <br>En enhet kan streama åt gången. Tjänsten är bindningsfri och innehåller tre olika paket i olika prisklasser beroende på vilket utbud man vill ha.</p>
         <a class="button" href="cmore.php">Mer om C More</a>
       </article>
-    </div><!-- End of mini element -->
+    </section><!-- End of mini element -->
 
-    <div class="mini-element-2col">
+    <section class="mini-element-2col">
       <article>
         <h1 class="special-font header-big space-above">Viaplay</h1>
         <p>Viaplay är namnet på <a class="link" href="https://www.viasat.se">Viasats</a> onlinetjänst som erbjuder filmer, TV-serier och sport till en fast månadskostnad. Notera att kostnade ökar om en användre vill se på sport. Tjänsten lanserades redan 2007 men under ett annat namn och 2011 lanserades tjänsten under det nuvarande namnet och under ett eget bolag. Viaplay finns tillgänglig på plattformar såsom PC, Mac, Android- och iOS-enheter, smarta TV-apparater samt spelkonsoller.</p>
         <a class="button" href="viaplay.php">Mer om Viaplay</a>
       </article>
-    </div><!-- End of mini element -->
+    </section><!-- End of mini element -->
   </div><!-- End of parent-->
 </div><!-- End of wrapper -->
 

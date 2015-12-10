@@ -10,7 +10,7 @@
 <div class="wrapper fullscreen-div space-above space-below">
 
   <!-- aside element -->
-  <div class="article-aside right">
+  <section class="article-aside right">
     <aside>
       <h2 class="special-font">Innehåll</h2>
       <h3><a class="link" href="#inledning">Inledning</a></h3>
@@ -20,10 +20,10 @@
       <h3><a class="link" href="#streamare">Aktiva streamare</a></h3>
       <h3><a class="link" href="#individanpassning">Individanpassning</a></h3>
     </aside>
-  </div>
+  </section>
 
   <!-- article-content non-fullscreen -->
-  <div class="article-content space-below">
+  <section class="article-content space-below">
     <article>
       <h1 id="inledning"class="special-font header-bigger">Inledning</h1>
       <p>HBO Nordic är det amerikanska TV-bolaget <a class="link" href="http://www.hbo.com">HBOs</a> sätt att nå ut till den nordiska marknaden. Tjänsten landerades vintern 2012 och sedan dess har det gått att streama HBO's egenproducerade tv-serier och tv-serier från andra producenter. Även om tjänsten erbjuder filmer är de flesta prenumeranter intresserade av HBO's egna tv-serier som ofta håller väldigt hög kvalité och där många anses som "klassiker". Tjänsten finns tillgänglig på många olika plattformar. Två personer kan streama samtidigt på ett och samma konto.</p>
@@ -54,10 +54,10 @@
       <h2 class="special-font">Dokumentärer</h2>
       <p>Över 170 dokumentärer ingår i utbudet från HBO Nordic. Dokumentärerna handlar om spridda ämnen, om allt från medicin till elefanter och kriminalporträtt.</p>
     </article>
-  </div><!-- end of article-content non-fullscreen -->
+  </section><!-- end of article-content non-fullscreen -->
 
   <!-- article-content-fullscreen -->
-  <div id="plattformar" class="article-content-fullscreen">
+  <section id="plattformar" class="article-content-fullscreen">
     <article>
       <h2 class="special-font header-big header-space-above-normal header-center">HBO Nordic finns på följade plattformar</h2>
       <ul class="list-col">
@@ -75,11 +75,11 @@
 
       </ul>
     </article>
-  </div><!-- End of article-content-fullscreen -->
+  </section><!-- End of article-content-fullscreen -->
 
 
 
-  <div class="article-content space-above">
+  <section class="article-content space-above">
     <article>
       <h1 id="kostnad"class="special-font header-bigger">Kostnad och bindningstid</h1>
       <h2 class="special-font">Prova på</h2>
@@ -93,24 +93,24 @@
       <p>HBO Nordic tillåter upp till två aktiva skärmar samtidigt och vad det innebär i praktiken är att det går att titta på antingen två filmer eller två tv-serier samtidigt eller en kombination av dem.</p>
       <p>Upp till 5 enheter kan vara registrerade på ett och samma konto hos HBO Nordic. I praktiken skulle det innebära att exempelvis två tv-apparater och tre telefoner i ett hushåll skulle kunna vara registrerade på ett och samma konto. Dock kan inte alla dessa enheter strömma innehåll från HBO Nordic samtidigt.</p>
     </article>
-  </div>
+  </section>
     <!-- aside element -->
-    <div class="article-aside right">
+    <section class="article-aside right">
       <aside>
         <h2 class="special-font">Läs även om...</h2>
         <h3><a class="link" href="viaplay.php">Viaplay</a></h3>
         <h3 class="header-space-above-small"><a class="link" href="netflix.php">Netflix</a></h3>
         <h3 class="header-space-above-small"><a class="link" href="cmore.php">C More</a></h3>
       </aside>
-    </div>
+    </section>
 
-    <div class="article-content">
+    <section class="article-content">
       <article>
         <h1 id="individanpassning"class="special-font header-bigger space-above">Individanpassning</h1>
         <p>Låt säga att du bläddrar igenom utbudet av HBO Nordics filmer och ser en hel del filmer som du tycker ser intressanta ut. För att inte glömma bort dessa filmer kan du välja att lägga till dem i &ldquo;Min Lista&rdquo;. Denna lista är det tänkt att användaren själv ska fylla med titlar som verkar intressanta och som användaren vill se på.</p>
 
       </article>
-    </div>
+    </section>
 
 </div><!-- end of parent-fullscreen wrapper -->
 

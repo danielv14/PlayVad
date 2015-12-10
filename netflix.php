@@ -10,7 +10,7 @@
 <div class="wrapper fullscreen-div space-above space-below">
 
   <!-- aside element -->
-  <div class="article-aside right">
+  <section class="article-aside right">
     <aside>
       <h2 class="special-font">Innehåll</h2>
       <h3><a class="link" href="#inledning">Inledning</a></h3>
@@ -20,10 +20,10 @@
       <h3><a class="link" href="#streamare">Aktiva streamare</a></h3>
       <h3><a class="link" href="#individanpassning">Individanpassning</a></h3>
     </aside>
-  </div>
+  </section>
 
   <!-- article-content non-fullscreen -->
-  <div class="article-content space-below">
+  <section class="article-content space-below">
     <article>
       <h1 id="inledning" class="special-font header-bigger">Inledning</h1>
       <p>Netflix är ett amerikanskt företag som startade redan 1997 och har lyckats anpassa sig för den digitala efterfrågan av streaming. År 2012 lanserades tjänsten i norden. Streamingutbudet som består av filmer, tv-serier och till och med egenproducerat material. Utbudet varierar beroende på vilket land man befinner sig i, men detta gäller dock inte det egenproducerade innehållet. Tjänsten är tillgänglig på en uppsjö olika plattformar och beroende på vilken typ av månadskostnad man betalar kan olika antal personer streama samtidigt</p>
@@ -65,10 +65,10 @@
       <li>Winter On Fire</li>
       </ul>
     </article>
-  </div><!-- end of article-content non-fullscreen -->
+  </section><!-- end of article-content non-fullscreen -->
 
   <!-- article-content-fullscreen -->
-  <div id="plattformar" class="article-content-fullscreen">
+  <section id="plattformar" class="article-content-fullscreen">
     <article>
       <h2 class="special-font header-big header-space-above-normal header-center">Netflix finns på följade plattformar</h2>
       <ul class="list-col">
@@ -86,10 +86,10 @@
         <li><i class="fa fa-gamepad"></i> Xbox 360 &amp; Xbox One</li>
       </ul>
     </article>
-  </div><!-- End of article-content-fullscreen -->
+  </section><!-- End of article-content-fullscreen -->
 
   <!-- article content -->
-  <div class="article-content space-above">
+  <section class="article-content space-above">
     <article>
       <h1 id="kostnad" class="special-font header-bigger">Kostnad och bindningstid</h1>
       <h2 class="special-font">Prova på</h2>
@@ -119,20 +119,20 @@
       <p>För att bygga vidare på exemplet om action-filmer med Sylvester Stallone kommer Netflix att rekommendera och ge förslag på liknande filmer efter att du har sätt filmen med Stallone. Låt säga att Stallone-filmen var <a class="link" href="http://www.imdb.com/title/tt0083944/?ref_=tt_rec_tt">Rambo: First Blood</a>. Det Netflix då gör är att ge dig förslag på liknande filmer och exempelvis skulle du via Netflix förslag bli tipsad om uppföljaren, <a class="link" href="http://www.imdb.com/title/tt0089880/?ref_=tt_rec_tt">Rambo: FIrst Blood II</a>. Detta då förutsatt att Netflix har bägge filmerna i sitt sortiment.</p>
       <p>Tanken med anpassade förslag är att ju mer filmer och tv-serier man tittar på via en profil ju bättre blir Netflix på att förstå din smak och kan ge tips därefter.</p>
     </article>
-  </div> <!-- end of article content -->
+  </section> <!-- end of article content -->
 
   <!-- aside element -->
-  <div class="article-aside right">
+  <section class="article-aside right">
     <aside>
       <h2 class="special-font">Läs även om...</h2>
       <h3><a class="link" href="hbonordic.php">HBO Nordic</a></h3>
       <h3><a class="link" href="viaplay.php">Viaplay</a></h3>
       <h3><a class="link" href="cmore.php">C More</a></h3>
     </aside>
-  </div> <!-- end of aside element -->
+  </section> <!-- end of aside element -->
 
   <!-- article content -->
-  <div class="article-content">
+  <section class="article-content">
     <article>
       <h2 class="special-font">Betyg</h2>
       <p>Innehåll i Netflix utbud, vare sig det är filmer, tv-serier eller dokumentärer har en betygsskala på 5 stjärnor kopplat till sig. Netflix försöker att förutse vad du kommer att tycka om exempelvis en film och visar detta med hjälp av en betygsskala. Om en film exempelvis har 4.5 <em>röda</em> stjärnor tror Netflix att du skulle tycka om den filmen ganska mycket. &ldquo;Upp till bevis!&rdquo; tänker du och bestämmer dig för att se filmen. Om det visar sig att Netflix förväntade betyg stämde kan du själv sätta betyg på filmen och förslagsvis ge den 5 av 5 stjärnor. Det som händer då är att filmens stjärnor ändrar färg och blir <em>gula</em> istället. Gula stjärnor visar alltså betyg som du själv har satt.</p>
@@ -140,7 +140,7 @@
       <h2 class="special-font">Ta individanpassningen med en nypa salt&hellip;</h2>
       <p>Värt att påpeka är att Netflix individanpassning bör tas med en nya salt. Människor är komplexa varelser och ens smak när det gäller film och tv-serier är inte alltid så svart och vit. Många människor gillar filmer och tv-serier som sträcker sig över en rad olika genrer och detta gör Netflix jobb att individanpassa något svårt. Netflix känner inte dig bättre än vad du själv känner dig, något annat vore lite läskigt. individanpassningen är inget man ska stirra sig blint på och även om Netflix <em>tror</em> att du inte skulle gilla en film behöver det nödvändigtvis inte vara sant. Ett tips om individanpassningen är att främst uutgå från den egna listan, som användaren själv faktiskt har 100% kontroll över.</p>
     </article>
-  </div> <!-- end of article content -->
+  </section> <!-- end of article content -->
 
 </div><!-- end of parent-fullscreen wrapper -->
 

@@ -10,7 +10,7 @@
 <div class="wrapper fullscreen-div space-above space-below">
 
   <!-- aside element -->
-  <div class="article-aside right">
+  <section class="article-aside right">
     <aside>
       <h2 class="special-font">Innehåll</h2>
       <h3><a class="link" href="#inledning">Inledning</a></h3>
@@ -20,10 +20,10 @@
       <h3><a class="link" href="#streamare">Aktiva streamare</a></h3>
       <h3><a class="link" href="#individanpassning">Individanpassning</a></h3>
     </aside>
-  </div> <!-- end of aside element -->
+  </section> <!-- end of aside element -->
 
   <!-- article-content non-fullscreen -->
-  <div class="article-content space-below">
+  <section class="article-content space-below">
     <article>
       <h1 id="inledning" class="special-font header-bigger">Inledning</h1>
       <p>Viaplay är namnet på <a class="link" href="https://www.viasat.se">Viasats</a> onlinetjänst som erbjuder filmer, TV-serier och sport till en fast månadskostnad. Notera att kostnade ökar om en användre vill se på sport. Tjänsten lanserades redan 2007 men under ett annat namn och 2011 lanserades tjänsten under det nuvarande namnet och under ett eget bolag. Viaplay finns tillgänglig på plattformar såsom PC, Mac, Android- och iOS-enheter, smarta TV-apparater samt spelkonsoller.</p>
@@ -49,10 +49,10 @@
       <h2 class="special-font">Dokumentärer</h2>
       <p>Med 50+ dokumentärer som handlar om allt från golf, elefanter, pandor till flygkrascher borde det finnas dokumentärer som intresserar alla, förutsatt att man tycker om dokumentärer vill säga. Även dokumentärerna visas med IMDb-betyg och går att sortera efter land annat populäritet, betyg och utgivningsårtal.</p>
     </article>
-  </div><!-- end of article-content non-fullscreen -->
+  </section><!-- end of article-content non-fullscreen -->
 
   <!-- article-content-fullscreen -->
-  <div id="plattformar" class="article-content-fullscreen">
+  <section id="plattformar" class="article-content-fullscreen">
     <article>
       <h2 class="special-font header-big header-space-above-normal header-center">Viaplay finns på följade plattformar</h2>
       <ul class="list-col">
@@ -68,10 +68,10 @@
         <li><i class="fa fa-gamepad"></i> Xbox 360 &amp; Xbox One</li>
       </ul>
     </article>
-  </div><!-- End of article-content-fullscreen -->
+  </section><!-- End of article-content-fullscreen -->
 
   <!-- article content -->
-  <div class="article-content space-above">
+  <section class="article-content space-above">
     <article>
       <h1 id="kostnad" class="special-font header-bigger">Kostnad och bindningstid</h1>
       <h2 class="special-font">Prova på</h2>
@@ -85,27 +85,27 @@
       <p>Med Viaplay går det att ha två skärmar igång samtidigt. Det innebär alltså att exempelvis en person kan titta på en film medan en annan person kan kolla på senaste avsnittet av sin favorit tv-serie samtidigt.</p>
       <p>Värt at påpeka är att Viaplay endast tillåter att upp till 4 stycken enheter är registrerade på ett konto samtidigt. Alltså är det upp till 4 stycken enheter som kan strömma max 2 olika saker (filmer, tv-serier och sport) samtidigt.</p>
     </article>
-  </div> <!-- end of article content -->
+  </section> <!-- end of article content -->
 
   <!-- aside element -->
-  <div class="article-aside right">
+  <section class="article-aside right">
     <aside>
       <h2 class="special-font">Läs även om...</h2>
       <h3><a class="link" href="hbonordic.php">HBO Nordic</a></h3>
       <h3><a class="link" href="netflix.php">Netflix</a></h3>
       <h3><a class="link" href="cmore.php">C More</a></h3>
     </aside>
-  </div> <!-- end of aside element -->
+  </section> <!-- end of aside element -->
 
   <!-- article content -->
-  <div class="article-content">
+  <section class="article-content">
     <article>
       <h1 id="individanpassning" class="special-font header-bigger space-above">Individanpassning</h1>
       <p>Viaplay låter användare stjärnmarkera innehåll och således skapa en lista som användaren kommer åt på flera av sina enheter. Tanken bakom detta är att användare ska kunna spara sina favoriter och innehåll som planeras att se vid ett senare tillfället</p>
       <h2 class="special-font">Offline</h2>
       <p>Det går att spara ned innehåll för att se offline, när internetuppkoppling antingen är dålig eller obefintlig. Denna möjlighet är endast möjlig på portalbla enheter såsom iOS- och Android-enheter. Detta är väldigt bra om man är en person som exempelvis reser mycket och inte vill belasta sitt mobilnät då det många gånger kan vara begränsat.</p>
     </article>
-  </div> <!-- end of article content -->
+  </section> <!-- end of article content -->
 
 </div><!-- end of parent-fullscreen wrapper -->
 

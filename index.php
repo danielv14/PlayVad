@@ -17,9 +17,7 @@
     <h1><span class="marketing-title special-font">Visst är streamingdjungeln svår?</span></h1>
     <p><span class="marketing-paragraph">Visst finns det på tok för mycket streamingtjänster att välja bland? Förvisso är det bra att det finns mycket att välja på, men det kan fort kännas överväldigande. Med för mycket att välja på kan det vara svårt att bilda sig en uppfattning om vad som passar en själv bäst.
     </span></p>
-  </article>
 
-  <article>
     <aside class="right">
       <img id="answer" src="img/answer.png" alt="Bild på ett uttropstecken"/>
     </aside>
@@ -33,38 +31,38 @@
   <!-- mini parent containing its children -->
   <div class="mini-parent space-below">
     <!-- child element -->
-    <div class="mini-element-4col">
+    <section class="mini-element-4col">
       <article>
         <h1>Netflix</h1>
         <p>Streamingutbudet som består av filmer, tv-serier och till och med egenproducerat material.
         Tjänsten är tillgänglig på en uppsjö olika plattformar.</p>
         <a class="button" href="netflix.php">Visa mer</a>
       </article>
-    </div>
+    </section>
     <!-- child element -->
-    <div class="mini-element-4col">
+    <section class="mini-element-4col">
       <article>
         <h1>Viaplay</h1>
         <p>Utbudet består av filmer, tv-serier och sport. Viaplay finns tillgänglig på plattformar såsom PC, Mac, Android- och iOS-enheter, smarta TV-apparater samt spelkonsoller.</p>
         <a class="button" href="viaplay.php">Visa mer</a>
       </article>
-    </div>
+    </section>
     <!-- child element -->
-    <div class="mini-element-4col">
+    <section class="mini-element-4col">
       <article>
         <h1>HBO Nordic</h1>
         <p>HBO Nordic är det amerikanska TV-bolaget <a class="link" href="http://www.hbo.com">HBOs</a> sätt att nå ut till den nordiska marknaden. Tjänsten finns tillgänglig på många olika plattformar.</p>
         <a class="button" href="hbonordic.php">Visa mer</a>
       </article>
-    </div>
+    </section>
     <!-- child element -->
-    <div class="mini-element-4col">
+    <section class="mini-element-4col">
       <article>
         <h1>CMore</h1>
         <p>Utbudet består av film, tv-serier, sport och barnprogram. Tjänsten är tillgänglig på olika plattformar såsom PC, Mac, Android-enheter och iPhone.</p>
         <a class="button" href="cmore.php">Visa mer</a>
       </article>
-    </div>
+    </section>
   </div>
 </div>
 

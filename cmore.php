@@ -2,15 +2,15 @@
 <?php include 'header.php';?>
 
 <!-- Full width img netflix -->
-<div class="fullwidth-cmore subtle-shadow">
+<section class="fullwidth-cmore subtle-shadow">
   <h1 class="special-font">C More</h1>
-</div>
+</section>
 
 <!-- main wrapper -->
 <div class="wrapper fullscreen-div space-above space-below">
 
   <!-- aside element -->
-  <div class="article-aside right">
+  <section class="article-aside right">
     <aside>
       <h2 class="special-font">Innehåll</h2>
       <h3><a class="link" href="#inledning">Inledning</a></h3>
@@ -20,15 +20,14 @@
       <h3><a class="link" href="#streamare">Aktiva streamare</a></h3>
       <h3><a class="link" href="#individanpassning">Individanpassning</a></h3>
     </aside>
-  </div>
-
+  </section>
   <!-- article-content non-fullscreen -->
-  <div class="article-content space-below">
+  <section class="article-content space-below">
     <article>
       <h1 id="inledning" class="special-font header-bigger">Inledning</h1>
       <p>C More är i grunden en vanlig TV-tjänst men som anpassat sig efter den digitala frammarschen och ebjuder även sitt utbud via streaming. Utbudet består av film, tv-serier, sport och barnprogram. Tjänsten är tillgänglig på olika plattformar såsom PC, Mac, Android-enheter och iPhone. En enhet kan streama åt gången. Tjänsten är bindningsfri och innehåller tre olika paket i olika prisklasser.</p>
 
-      <h1  id="utbud"class="special-font header-bigger space-above">Utbud</h1>
+      <h1 id="utbud"class="special-font header-bigger space-above">Utbud</h1>
       <h2 class="special-font">Film</h2>
       <p>Över 1500 filmer kan C More skryta med att de har i sitt utbud. De senaste filmerna från Hollywood, de mest älskade svenska biosucéerna och slutligen barnens favoriter från Astrid Lindgren är vad som utgör C Mores filmutbud.</p>
       <p>Med genres såsom action, thriller, komedi, svenskt och science fiction finns det förmodligen något som falla alla i smaken.</p>
@@ -51,10 +50,10 @@
       <h2 class="special-font">Dokumentärer</h2>
       <p>C Mores utbud när det gäller dokumentärer är något litet och i skrivande stund finns endast 35 dokumentärer. Dokumentärerna handlar om allt från köttindustrin, showbiz, politik och brott. Även om antalet dokumentärer inte är så stort är bredden på utbudet stort.</p>
     </article>
-  </div><!-- end of article-content non-fullscreen -->
+  </section><!-- end of article-content non-fullscreen -->
 
   <!-- article-content-fullscreen -->
-  <div id="plattformar" class="article-content-fullscreen">
+  <section id="plattformar" class="article-content-fullscreen">
     <article>
       <h2 class="special-font header-big header-space-above-normal header-center">C More finns på följade plattformar</h2>
       <ul class="list-col">
@@ -66,10 +65,10 @@
         <li><i class="fa fa-television"></i>Lägg till i ordinarie tv-utbud</li>
       </ul>
     </article>
-  </div><!-- End of article-content-fullscreen -->
+  </section><!-- End of article-content-fullscreen -->
 
   <!-- Article content -->
-  <div class="article-content space-above">
+  <section class="article-content space-above">
     <article>
       <h1 id="kostnad" class="special-font header-bigger">Kostnad och bindningstid</h1>
       <h2 class="special-font">Prova på</h2>
@@ -90,25 +89,25 @@
       <h1 id="streamare"class="special-font header-bigger space-above">Aktiva Streamare</h1>
       <p>Utbudet från C More går att streama till en skärm åt gången. Detta innebär exempelvis att det endast går att titta på en film, ett tv-serieavsnitt eller en sportsändning samtidigt.</p>
     </article>
-  </div> <!-- end of article content -->
+  </section> <!-- end of article content -->
 
   <!-- aside element -->
-  <div class="article-aside right">
+  <section class="article-aside right">
     <aside>
       <h2 class="special-font">Läs även om...</h2>
       <h3><a class="link" href="hbonordic.php">HBO Nordic</a></h3>
       <h3 class="header-space-above-small"><a class="link" href="netflix.php">Netflix</a></h3>
       <h3 class="header-space-above-small"><a class="link" href="viaplay.php">Viaplay</a></h3>
     </aside>
-  </div> <!-- end of article aside -->
+  </section> <!-- end of article aside -->
 
   <!-- article content -->
-  <div class="article-content">
+  <section class="article-content">
     <article>
       <h1 id="individanpassning" class="special-font header-bigger space-above">Individanpassning</h1>
       <p>I skrivande stund har inte C More någon form av individanpassningen men då de inte går att strömma till mer än en enhet samtidigt verkar det inte heller som att C More riktar in sig på att vara den typen av tjänst där exempelvis olika familjemedlemmar kan nyttja samma konto men får olika upplevelser i och med individanpassning.</p>
     </article>
-  </div> <!-- end of article content -->
+  </section> <!-- end of article content -->
 
 </div><!-- end of parent-fullscreen wrapper -->
 
