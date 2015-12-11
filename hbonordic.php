@@ -13,12 +13,14 @@
   <section class="article-aside right">
     <aside>
       <h2 class="special-font">Innehåll</h2>
-      <h3><a class="link" href="#inledning">Inledning</a></h3>
-      <h3><a class="link" href="#utbud">Utbud</a></h3>
-      <h3><a class="link" href="#plattformar">Plattformar</a></h3>
-      <h3><a class="link" href="#kostnad">Kostnad och bindningstid</a></h3>
-      <h3><a class="link" href="#streamare">Aktiva streamare</a></h3>
-      <h3><a class="link" href="#individanpassning">Individanpassning</a></h3>
+      <ul>
+        <li><a class="link" href="#inledning">Inledning</a></li>
+        <li><a class="link" href="#utbud">Utbud</a></li>
+        <li><a class="link" href="#plattformar">Plattformar</a></li>
+        <li><a class="link" href="#kostnad">Kostnad och bindningstid</a></li>
+        <li><a class="link" href="#streamare">Aktiva streamare</a></li>
+        <li><a class="link" href="#individanpassning">Individanpassning</a></li>
+      </ul>
     </aside>
   </section>
 
@@ -94,15 +96,18 @@
       <p>Upp till 5 enheter kan vara registrerade på ett och samma konto hos HBO Nordic. I praktiken skulle det innebära att exempelvis två tv-apparater och tre telefoner i ett hushåll skulle kunna vara registrerade på ett och samma konto. Dock kan inte alla dessa enheter strömma innehåll från HBO Nordic samtidigt.</p>
     </article>
   </section>
-    <!-- aside element -->
-    <section class="article-aside right">
-      <aside>
-        <h2 class="special-font">Läs även om...</h2>
-        <h3><a class="link" href="viaplay.php">Viaplay</a></h3>
-        <h3 class="header-space-above-small"><a class="link" href="netflix.php">Netflix</a></h3>
-        <h3 class="header-space-above-small"><a class="link" href="cmore.php">C More</a></h3>
-      </aside>
-    </section>
+
+  <!-- aside element -->
+  <section class="article-aside right">
+    <aside>
+      <h2 class="special-font">Läs även om...</h2>
+      <ul>
+        <li><a class="link" href="viaplay.php">Viaplay</a></li>
+        <li><a class="link" href="netflix.php">Netflix</a></li>
+        <li><a class="link" href="cmore.php">C More</a></li>
+      </ul>
+    </aside>
+  </section>
 
     <section class="article-content">
       <article>
