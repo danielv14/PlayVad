@@ -42,7 +42,7 @@ $title = "Netflix";
       <h2 class="special-font">Tv-Serier</h2>
       <p>Även utbudet för tv-serier är väldigt stort och samma filtrering och sökmöjligheter finns att använda sig av för att hitta intressanta tv-serier, precis som med filmer.</p>
       <p>Något Netflix har börjat göra allt mer och mer är att göra egna tv-serier av väldigt hög kvalité som i många fall tas emot väldigt bra av sina användare och det skulle inte förvåna mig om många prenumeranter är just det för att Netflix egenproducerade innehåll är så pass bra.</p>
-      <h3 class="special-font">Binge-watching</h3>
+      <h3 lang="en" class="special-font">Binge-watching</h3>
       <p>Detta är ett <a class="link" href="https://en.wikipedia.org/wiki/Binge-watching">fenomen</a> som inte nödvändigtvis är synonymt med just Netflix men är något som Netflix möjligör då många av de egenproducerade tv-seriernas säsonger släpps på en och samma dag. Traditionellt sätt, om man följer en tv-serie, kommer det ju ett avsnitt i veckan. Så är inte fallet med många av Netflix egna tv-serier. Många gånger släpps en hel säsong av en tv-serie samma dag och detta innebär att en prenumerant i princip kan sträcktitta på tv-serien från säsongens första avsnitt till det sista i ett svep. Det är just det som binge-watching betyder, tittandet på tv-serier blir ett maraton. Detta sätt att släppa tv-serier på är något som uppskattas av många och gör att användare själva blir i kontroll av i vilken takt de väljer att konsumera en tv-serie.</p>
       <h3 class="special-font">Exempel på egenproducerade tv-serier</h3>
       <ul>
