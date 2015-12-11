@@ -76,7 +76,7 @@
 // Styling for article-content-fullscreen. Check netflix.php for example
 .article-content-fullscreen {
   padding: 10px;
-  background-color: lighten($primary-color, 30%);
+  background-color: lighten($primary-color, 40%);
   @include box-shadow-subtle(2px);
   @include animate-transition-1(box-shadow, 0.2s, linear);
 
