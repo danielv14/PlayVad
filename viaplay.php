@@ -13,12 +13,14 @@
   <section class="article-aside right">
     <aside>
       <h2 class="special-font">Innehåll</h2>
-      <h3><a class="link" href="#inledning">Inledning</a></h3>
-      <h3><a class="link" href="#utbud">Utbud</a></h3>
-      <h3><a class="link" href="#plattformar">Plattformar</a></h3>
-      <h3><a class="link" href="#kostnad">Kostnad och bindningstid</a></h3>
-      <h3><a class="link" href="#streamare">Aktiva streamare</a></h3>
-      <h3><a class="link" href="#individanpassning">Individanpassning</a></h3>
+      <ul>
+        <li><a class="link" href="#inledning">Inledning</a></li>
+        <li><a class="link" href="#utbud">Utbud</a></li>
+        <li><a class="link" href="#plattformar">Plattformar</a></li>
+        <li><a class="link" href="#kostnad">Kostnad och bindningstid</a></li>
+        <li><a class="link" href="#streamare">Aktiva streamare</a></li>
+        <li><a class="link" href="#individanpassning">Individanpassning</a></li>
+      </ul>
     </aside>
   </section> <!-- end of aside element -->
 
@@ -91,9 +93,11 @@
   <section class="article-aside right">
     <aside>
       <h2 class="special-font">Läs även om...</h2>
-      <h3><a class="link" href="hbonordic.php">HBO Nordic</a></h3>
-      <h3><a class="link" href="netflix.php">Netflix</a></h3>
-      <h3><a class="link" href="cmore.php">C More</a></h3>
+      <ul>
+        <li><a class="link" href="hbonordic.php">HBO Nordic</a></li>
+        <li><a class="link" href="netflix.php">Netflix</a></li>
+        <li><a class="link" href="cmore.php">C More</a></li>
+      </ul>
     </aside>
   </section> <!-- end of aside element -->
 
