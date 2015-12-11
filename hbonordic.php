@@ -61,16 +61,16 @@ $title = "HBO Nordic";
   <section id="plattformar" class="article-content-fullscreen">
       <h2 class="special-font header-big header-space-above-normal header-center">HBO Nordic finns på följade plattformar</h2>
       <ul class="list-col">
-        <li><i class="fa fa-desktop"></i> PC</li>
-        <li><i class="fa fa-apple"></i> Mac</li>
-        <li><i class="fa fa-mobile"></i> iOS</li>
-        <li><i class="fa fa-mobile"></i> Android</li>
-        <li><i class="fa fa-mobile"></i> Windows Phone</li>
-        <li><i class="fa fa-chrome"></i> Chromecast</li>
-        <li><i class="fa fa-apple"></i> Apple TV</li>
-        <li><i class="fa fa-television"></i> Samsung Smart Tv (2012-2015) </li>
-        <li><i class="fa fa-gamepad"></i> Playstation 3 &amp; 4</li>
-        <li><i class="fa fa-gamepad"></i> Xbox 360</li>
+        <li><span class="fa fa-desktop"></span> PC</li>
+        <li><span class="fa fa-apple"></span> Mac</li>
+        <li><span class="fa fa-mobile"></span> iOS</li>
+        <li><span class="fa fa-mobile"></span> Android</li>
+        <li><span class="fa fa-mobile"></span> Windows Phone</li>
+        <li><span class="fa fa-chrome"></span> Chromecast</li>
+        <li><span class="fa fa-apple"></span> Apple TV</li>
+        <li><span class="fa fa-television"></span> Samsung Smart Tv (2012-2015) </li>
+        <li><span class="fa fa-gamepad"></span> Playstation 3 &amp; 4</li>
+        <li><span class="fa fa-gamepad"></span> Xbox 360</li>
 
 
       </ul>

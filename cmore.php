@@ -57,12 +57,12 @@ $title = "C More";
   <section id="plattformar" class="article-content-fullscreen">
       <h2 class="special-font header-big header-space-above-normal header-center">C More finns på följade plattformar</h2>
       <ul class="list-col">
-        <li><i class="fa fa-desktop"></i> PC</li>
-        <li><i class="fa fa-apple"></i> Mac</li>
-        <li><i class="fa fa-mobile"></i> iOS</li>
-        <li><i class="fa fa-mobile"></i> Android</li>
-        <li><i class="fa fa-chrome"></i> Chromecast</li>
-        <li><i class="fa fa-television"></i>Lägg till i ordinarie tv-utbud</li>
+        <li><span class="fa fa-desktop"></span> PC</li>
+        <li><span class="fa fa-apple"></span> Mac</li>
+        <li><span class="fa fa-mobile"></span> iOS</li>
+        <li><span class="fa fa-mobile"></span> Android</li>
+        <li><span class="fa fa-chrome"></span> Chromecast</li>
+        <li><span class="fa fa-television"></span>Lägg till i ordinarie tv-utbud</li>
       </ul>
   </section><!-- End of article-content-fullscreen -->
 
