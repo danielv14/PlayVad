@@ -1,3 +1,8 @@
+<!-- Set title -->
+<?php
+$title = "Viaplay";
+?>
+
 <!-- Include header -->
 <?php include 'header.php';?>
 

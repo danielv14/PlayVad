@@ -1,3 +1,8 @@
+<!-- Set title -->
+<?php
+$title = "Netflix";
+?>
+
 <!-- Include header -->
 <?php include 'header.php';?>
 

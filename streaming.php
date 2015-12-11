@@ -1,3 +1,8 @@
+<!-- Set title -->
+<?php
+$title = "Streamingtjänster";
+?>
+
 <!-- Include header -->
 <?php include 'header.php';?>
 

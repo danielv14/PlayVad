@@ -1,3 +1,8 @@
+<!-- Set title -->
+<?php
+$title = "Om";
+?>
+
 <!-- Include header -->
 <?php include 'header.php';?>
 

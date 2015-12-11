@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-    <title>PlayVad - Vi reder ut streamingdjungeln</title>
+    <title><?php echo $title; ?> | PlayVad</title>
     <link rel="icon" href="favicon.ico">
 	  <link rel="stylesheet" href="css/style.css">
     <link href='https://fonts.googleapis.com/css?family=Lato' rel='stylesheet' type='text/css'>

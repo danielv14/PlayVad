@@ -1,3 +1,8 @@
+<!-- Set title -->
+<?php
+$title = "HBO Nordic";
+?>
+
 <!-- Include header -->
 <?php include 'header.php';?>
 

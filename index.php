@@ -1,5 +1,12 @@
+<!-- Set title -->
+<?php
+$title = "Start";
+?>
+
 <!-- Include header -->
 <?php include 'header.php';?>
+
+
 
 <!-- Image full width -->
 <div class="fullwidth-startpage subtle-shadow">
