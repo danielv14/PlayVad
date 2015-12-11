@@ -13,9 +13,8 @@ $title = "HBO Nordic";
 <div class="wrapper fullscreen-div space-above space-below">
 
   <!-- aside element -->
-  <section class="article-aside right">
+  <aside class="article-aside right">
     <h2 class="special-font">Innehåll</h2>
-    <aside>
       <ul>
         <li><a class="link" href="#inledning">Inledning</a></li>
         <li><a class="link" href="#utbud">Utbud</a></li>
@@ -24,8 +23,7 @@ $title = "HBO Nordic";
         <li><a class="link" href="#streamare">Aktiva streamare</a></li>
         <li><a class="link" href="#individanpassning">Individanpassning</a></li>
       </ul>
-    </aside>
-  </section>
+  </aside>
 
   <!-- article-content non-fullscreen -->
   <section class="article-content space-below">
@@ -95,14 +93,14 @@ $title = "HBO Nordic";
   </section>
 
   <!-- aside element -->
-  <section class="article-aside right">
+  <aside class="article-aside right">
       <h2 class="special-font">Läs även om...</h2>
       <ul>
         <li><a class="link" href="viaplay.php">Viaplay</a></li>
         <li><a class="link" href="netflix.php">Netflix</a></li>
         <li><a class="link" href="cmore.php">C More</a></li>
       </ul>
-  </section>
+  </aside>
 
     <section class="article-content">
         <h2 id="individanpassning" class="special-font header-bigger space-above">Individanpassning</h2>
