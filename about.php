@@ -7,7 +7,7 @@ $title = "Om";
 <!-- Image full width -->
 <div class="fullwidth-about subtle-shadow">
   <h1>Om Play<span class="special-font marketing-title">Vad</span></h1>
-  <h2 class="text-white special-font"><i>Varför och hur?</i></h2>
+  <h2 class="text-white special-font">Varför och hur?</h2>
 </div>
 
 <!-- Wrapper -->
