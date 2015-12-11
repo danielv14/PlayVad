@@ -1,9 +1,7 @@
-<!-- Set title -->
 <?php
 $title = "Start";
 ?>
 
-<!-- Include header -->
 <?php include 'header.php';?>
 
 
@@ -16,8 +14,7 @@ $title = "Start";
 
 <!-- wrapper nonfullscreen-div -->
 <div class="wrapper nonfullscreen-div space-above space-below">
-  <article class="space-below">
-    <aside class="left">
+    <aside class="left space-below">
       <img id="questionmark" src="img/question.png" alt="Bild på ett frågetecken"/>
     </aside>
     <h1><span class="marketing-title special-font">Visst är streamingdjungeln svår?</span></h1>
@@ -29,7 +26,6 @@ $title = "Start";
     </aside>
     <h1><span class="marketing-title special-font">PlayVad hjälper dig hitta rätt!</span></h1>
     <p><span class="marketing-paragraph">Vi har tagit reda på fakta, så att du inte behöver. PlayVad tillhandahåller information om de bästa streamingtjänsterna på marknaden idag. Vi hoppas att denna information hjälper dig att räta ut dina frågetecken och kan välja den tjänst som passar just dig bäst.</span></p>
-  </article>
 </div><!-- end of nonfullscreen-div -->
 
 <!-- 4 mini columns here -->
@@ -38,36 +34,28 @@ $title = "Start";
   <div class="mini-parent space-below">
     <!-- child element -->
     <section class="mini-element-4col">
-      <article>
-        <h1>Netflix</h1>
+        <h2>Netflix</h2>
         <p>Streamingutbudet som består av filmer, tv-serier och till och med egenproducerat material.
         Tjänsten är tillgänglig på en uppsjö olika plattformar.</p>
         <a class="button" href="netflix.php">Visa mer</a>
-      </article>
     </section>
     <!-- child element -->
     <section class="mini-element-4col">
-      <article>
-        <h1>Viaplay</h1>
+        <h2>Viaplay</h2>
         <p>Utbudet består av filmer, tv-serier och sport. Viaplay finns tillgänglig på plattformar såsom PC, Mac, Android- och iOS-enheter, smarta TV-apparater samt spelkonsoller.</p>
         <a class="button" href="viaplay.php">Visa mer</a>
-      </article>
     </section>
     <!-- child element -->
     <section class="mini-element-4col">
-      <article>
-        <h1>HBO Nordic</h1>
+        <h2>HBO Nordic</h2>
         <p>HBO Nordic är det amerikanska TV-bolaget <a class="link" href="http://www.hbo.com">HBOs</a> sätt att nå ut till den nordiska marknaden. Tjänsten finns tillgänglig på många olika plattformar.</p>
         <a class="button" href="hbonordic.php">Visa mer</a>
-      </article>
     </section>
     <!-- child element -->
     <section class="mini-element-4col">
-      <article>
-        <h1>CMore</h1>
+        <h2>CMore</h2>
         <p>Utbudet består av film, tv-serier, sport och barnprogram. Tjänsten är tillgänglig på olika plattformar såsom PC, Mac, Android-enheter och iPhone.</p>
         <a class="button" href="cmore.php">Visa mer</a>
-      </article>
     </section>
   </div>
 </div>
