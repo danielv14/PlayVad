@@ -92,6 +92,14 @@
   margin-right: 5%;
   margin-top: 10px;
   border-left: 2px solid black;
+
+  ul {
+    list-style: none;
+  }
+
+  li {
+    margin: 10px 0;
+  }
 }
 
 // Styling för 2 column list. Used in articles about streaming services.
