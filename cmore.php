@@ -12,7 +12,7 @@ $title = "C More";
 <!-- main wrapper -->
 <div class="wrapper fullscreen-div space-above space-below">
   <!-- aside element -->
-  <section class="article-aside right">
+  <aside class="article-aside right">
       <h2 class="special-font">Innehåll</h2>
       <ul>
         <li><a class="link" href="#inledning">Inledning</a></li>
@@ -22,7 +22,7 @@ $title = "C More";
         <li><a class="link" href="#streamare">Aktiva streamare</a></li>
         <li><a class="link" href="#individanpassning">Individanpassning</a></li>
       </ul>
-  </section>
+  </aside>
 
   <!-- article-content non-fullscreen -->
   <section class="article-content space-below">
@@ -89,17 +89,14 @@ $title = "C More";
   </section> <!-- end of article content -->
 
   <!-- aside element -->
-  <section class="article-aside right">
+  <aside class="article-aside right">
     <h2 class="special-font">Läs även om...</h2>
-    <aside>
-
       <ul>
         <li><a class="link" href="hbonordic.php">HBO Nordic</a></li>
         <li><a class="link" href="netflix.php">Netflix</a></li>
         <li><a class="link" href="viaplay.php">Viaplay</a></li>
       </ul>
-    </aside>
-  </section> <!-- end of article aside -->
+  </aside> <!-- end of article aside -->
 
   <!-- article content -->
   <section class="article-content">
