@@ -28,6 +28,14 @@ $title = "Start";
     <p><span class="marketing-paragraph">Vi har tagit reda på fakta, så att du inte behöver. PlayVad tillhandahåller information om de bästa streamingtjänsterna på marknaden idag. Vi hoppas att denna information hjälper dig att räta ut dina frågetecken och kan välja den tjänst som passar just dig bäst.</span></p>
 </div><!-- end of nonfullscreen-div -->
 
+
+<!-- Image full width -->
+<div class="fullwidth-startpage-about-streaming subtle-shadow">
+  <h1><span class="special-font">Streaming</span>tjänster?</h1>
+  <h2 class="text-white special-font">Vad innebär det och vilka är de bästa?</h2>
+  <a class="button-big" href="streaming.php">Läs mer</a>
+</div>
+
 <!-- 4 mini columns here -->
 <div class="wrapper fullscreen-div space-above popout-background">
   <!-- mini parent containing its children -->
@@ -58,13 +66,6 @@ $title = "Start";
         <a class="button" href="cmore.php">Visa mer</a>
     </section>
   </div>
-</div>
-
-<!-- Image full width -->
-<div class="fullwidth-startpage-about-streaming subtle-shadow">
-  <h1><span class="special-font">Streaming</span>tjänster?</h1>
-  <h2 class="text-white special-font">Vad innebär det och vilka är de bästa?</h2>
-  <a class="button-big" href="streaming.php">Läs mer</a>
 </div>
 
 
