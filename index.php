@@ -4,8 +4,6 @@ $title = "Start";
 
 <?php include 'header.php';?>
 
-
-
 <!-- Image full width -->
 <div class="fullwidth-startpage subtle-shadow">
   <h1 class="text-white">Play<span class="marketing-title special-font">Vad</span></h1>
