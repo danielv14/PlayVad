@@ -9,7 +9,7 @@ $title = "Start";
 <!-- Image full width -->
 <div class="fullwidth-startpage subtle-shadow">
   <h1 class="text-white">Play<span class="marketing-title special-font">Vad</span></h1>
-  <h2 class="text-white special-font">Vi reder ut streamingdjungeln åt dig!</h2>
+  <h2 class="text-white special-font">Vi reder ut TV-streamingdjungeln åt dig!</h2>
 </div> <!-- end of full width -->
 
 <!-- wrapper nonfullscreen-div -->
