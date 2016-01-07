@@ -2,6 +2,7 @@
 $title = "Start";
 ?>
 
+
 <?php include 'header.php';?>
 
 <!-- Image full width -->
@@ -25,7 +26,6 @@ $title = "Start";
     <h1 class="space-above"><span class="marketing-title special-font">PlayVad hjälper dig hitta rätt!</span></h1>
     <p><span class="marketing-paragraph">Vi har tagit reda på fakta, så att du inte behöver. PlayVad tillhandahåller information om de bästa streamingtjänsterna på marknaden idag för TV-tittande. Vi hoppas att denna information hjälper dig att räta ut dina frågetecken och kan välja den tjänst som passar just dig bäst. För alla vill vi väl ha något bra att titta på, eller hur?</span></p>
 </div><!-- end of nonfullscreen-div -->
-
 
 <!-- Image full width -->
 <div class="fullwidth-startpage-about-streaming subtle-shadow">
