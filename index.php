@@ -66,7 +66,5 @@ $title = "Start";
   </div>
 </div>
 
-
-
 <!-- Include footer -->
 <?php include 'footer.php';?>
