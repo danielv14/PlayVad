@@ -4,7 +4,7 @@ $title = "HBO Nordic";
 
 <?php include 'header.php';?>
 
-<!-- Full width img netflix -->
+<!-- Full width img -->
 <div class="fullwidth-hbonordic subtle-shadow">
   <h1 class="special-font">HBO Nordic</h1>
 </div>

@@ -4,7 +4,7 @@ $title = "Netflix";
 
 <?php include 'header.php';?>
 
-<!-- Full width img netflix -->
+<!-- Full width img -->
 <div class="fullwidth-netflix subtle-shadow">
   <h1 class="special-font">Netflix</h1>
 </div>

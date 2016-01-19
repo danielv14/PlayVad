@@ -4,7 +4,7 @@ $title = "Viaplay";
 
 <?php include 'header.php';?>
 
-<!-- Full width img netflix -->
+<!-- Full width img -->
 <div class="fullwidth-viaplay subtle-shadow">
   <h1 class="special-font">Viaplay</h1>
 </div>

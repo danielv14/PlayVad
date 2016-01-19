@@ -4,7 +4,7 @@ $title = "C More";
 
 <?php include 'header.php';?>
 
-<!-- Full width img netflix -->
+<!-- Full width img -->
 <section class="fullwidth-cmore subtle-shadow">
   <h1 class="special-font">C More</h1>
 </section>
